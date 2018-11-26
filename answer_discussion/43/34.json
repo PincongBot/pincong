@@ -1,0 +1,1 @@
+{"type":"answer_discussion","id":34,"uid":62,"date":"2018-11-12","contents":"@111:举个例子，PAC设置了baidu.com直连，而shifen.com默认走代理，如果你不幸打开了这两个域名，百度就会知道你的真实IP和代理IP，因为shifen.com也是百度所拥有的域名","parentType":"answer","parentId":43}

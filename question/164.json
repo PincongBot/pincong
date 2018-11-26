@@ -1,0 +1,1 @@
+{"type":"question","id":164,"title":"能不能把時間改成序號","uid":3,"topics":[243],"contents":"時間是敏感信息，能推敲出所在時區，我能理解。<br>\n隱藏在後台當後台爆破時有暴露風險，我也能理解。<br>\n&nbsp;<br>\n那麼，不如直接後台移除時間，改以序列號做排序，這樣敏感信息也沒了，在討論時順序也不會亂七八糟了。<br>\n&nbsp;<br>\n首頁的排序就設定一個global counter，每次回覆文章該文章會對該global做atomic ++，並取得原本的global counter，這樣文章就不會有撞counter的問題了。","date":"2018-11-19","agreeCount":0,"discussionCount":0}

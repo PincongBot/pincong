@@ -1,0 +1,1 @@
+{"type":"article_comment","id":261,"parentType":"article","parentId":69,"uid":1,"contents":"开 2FA 的重要性体现出来了<br>\n注意：不要用手机号码短信验证，短信会被截获的<br>\n要用 Google Authenticator 或者 Authy 之类的工具<br>\n用 Authy 时所有设备装上，然后同步，同步完了关掉“多设备”功能","date":"2018-11-17","agreeCount":0,"discussionCount":0}

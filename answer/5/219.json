@@ -1,0 +1,1 @@
+{"type":"answer","id":219,"parentType":"question","parentId":5,"uid":1,"contents":"真的有 bug，比如说我发了帖 A，有人回 B，然后我再回 C，时间就明显不对了，而且会被看出来<br>\n时间顺序应该是：A B C<br>\n但是显示为 C A B，实际上根本不可能的事<br>\n最好方法是，把时间随机向过去拨，原贴往前拨久一些，然后回复可以往前少拨一些，甚至可以往未来拨","date":"2018-11-13","agreeCount":0,"discussionCount":1}
