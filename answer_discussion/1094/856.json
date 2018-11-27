@@ -1,0 +1,1 @@
+{"type":"answer_discussion","id":856,"uid":490,"date":"2018-11-27","contents":"@558:所以Windows系统对于隐私保护是个灾难……sandboxie这种靠着各种hack仿真出一套Windows API来trap用户态程序实现的沙箱，也很难用“优雅”来形容。<br>\n这个问题不好办。因为它是个历史遗留问题。直到iOS之前没有人把通过API隔离实现固有安全性作为终极解决方案，反而搞了各种基于病毒特征码的杀软。现在看来统统都是弯路。<br>\n当然微软遵循欧盟的各种法律，包括gdpr，也包括各种以前的反垄断条款。但运行于Windows上的各种应用程序，微软也无能为力啊。","parentType":"answer","parentId":1094}
