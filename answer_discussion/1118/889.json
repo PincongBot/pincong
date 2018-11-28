@@ -1,0 +1,1 @@
+{"type":"answer_discussion","id":889,"uid":117,"date":"2018-11-28","contents":"有一个比较大的风险是墙内网站可以拿到 referer，也就是你从哪个网站跳转过来的。如果你登录过目标国内网站，又带上了境外反动网站的 referer，就坐实了你翻墙查看非法信息。因此尽可能还是不要点外链，复制之后在隐身模式中打开比较好。","parentType":"answer","parentId":1118}
