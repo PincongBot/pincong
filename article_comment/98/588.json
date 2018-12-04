@@ -1,0 +1,1 @@
+{"type":"article_comment","id":588,"parentType":"article","parentId":98,"uid":490,"contents":"我并没有仔细检查这个数据库里的内容。但是，我有一个疑问是，如果数据库都公开了的话，匿名功能会不会形同虚设了？毕竟直觉上想的话，匿名的评论和普通评论一样，都会有指向发帖者ID的foreign key。","date":"2018-12-04","agreeCount":0,"discussionCount":0}
