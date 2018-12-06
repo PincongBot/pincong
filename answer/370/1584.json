@@ -1,0 +1,1 @@
+{"type":"answer","id":1584,"parentType":"question","parentId":370,"uid":772,"contents":"感謝反饋！<br>\n1. 密碼限制最長16字符是一項無腦的設定，現已取消。這與算法無關，本站使用的算法是主流的bcrypt算法。<br>\n2. 本站使用cloudflare是為了防攻擊，目前沒有更好的替代方案。推薦您使用tor瀏覽本站。","date":"2018-12-06","agreeCount":0,"discussionCount":0}
