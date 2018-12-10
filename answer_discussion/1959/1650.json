@@ -1,0 +1,1 @@
+{"type":"answer_discussion","id":1650,"uid":734,"date":"2018-12-10","contents":"这么做至少给数据穿上了一件衣服，不然数据在cdn面前完全是裸奔状态。只要脚本不被篡改，cdn就无法解密数据，因此可以考虑对脚本进行签名","parentType":"answer","parentId":1959}

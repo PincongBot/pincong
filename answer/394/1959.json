@@ -1,0 +1,1 @@
+{"type":"answer","id":1959,"parentType":"question","parentId":394,"uid":9,"contents":"@sgj 你这个方案存在一个漏洞，即 server public key 是明文传输的，CDN 可以充当中间人，把这个替换掉以实现对数据的解密。<br>\n在极端的情况下 CDN 甚至可以直接劫持你的加密解密脚本，使这套方案形同虚设。<br>\n&nbsp;","date":"2018-12-10","agreeCount":0,"discussionCount":1}
