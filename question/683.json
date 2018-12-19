@@ -1,0 +1,1 @@
+{"type":"question","id":683,"title":"GFW为什么不采取白名单制度？","uid":1097,"topics":[],"contents":"现在翻墙的基本原理就是发送数据包到未被屏蔽的IP，通过这个中转站再到达目的地。如果GFW采取白名单制度，禁止境内访问未经政府审核的IP的，好像就不能翻墙了吧。<br>\n&nbsp;<br>\nGFW为什么要留有余地？","date":"2018-12-19","agreeCount":2,"discussionCount":0}
