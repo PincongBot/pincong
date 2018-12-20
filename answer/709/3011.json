@@ -1,0 +1,1 @@
+{"type":"answer","id":3011,"parentType":"question","parentId":709,"uid":1,"contents":"品葱是在开源的 wecenter 基础上构建的，wecenter 本身的搜索功能非常不好用。后面看看能否利用 Algolia 改造一下。<br>\n&nbsp;<br>\nhttps://www.algolia.com/","date":"2018-12-20","agreeCount":3,"discussionCount":0}
