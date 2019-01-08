@@ -1,0 +1,1 @@
+{"type":"article_comment","id":2218,"parentType":"article","parentId":305,"uid":994,"contents":"ss 可以通过分析特征识别，但并不能知道你访问的内容，这点跟 https 是很像的。同时正因如此才诞生了 ssr，ssr 是增加了混淆的 ss 协议，换句话说就是你的流量特征和访问正常的 taobao / baidu 等是一样的，很难被识别出来。","date":"2019-01-08","agreeCount":0,"discussionCount":0}
