@@ -1,0 +1,1 @@
+{"type":"answer_discussion","id":5698,"uid":1686,"date":"2019-01-11","contents":"@1253:不是的，这个可以伪造。举个例子，你用4g的话获取到你的设备的id mac,如果连接WiFi的话可能去到你的路由器Mac和手机的 Mac,如果手机的WiFi关闭了，是取不到mac.通常他们会取你手机的Mac,上面说的技术的可能，如果真的采集Mac地址，很容易跟踪你。虽然说Mac不是唯一标识，如果能跟你手机号关联就危险了","parentType":"answer","parentId":6071}
