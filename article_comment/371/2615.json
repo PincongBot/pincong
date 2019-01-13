@@ -1,0 +1,1 @@
+{"type":"article_comment","id":2615,"parentType":"article","parentId":371,"uid":518,"contents":"如果他们要审查里硬盘里的所有文件, 有两种方式: 1.计算md5码, 比对数据库, 看你的电脑里有没有非法文件. 2.上传服务器. 每一种都会大量占用本地cpu, 或者耗费大量服务器资源. 我觉得他们不会扫描你的硬盘文件.","date":"2019-01-13","agreeCount":0,"discussionCount":0}
