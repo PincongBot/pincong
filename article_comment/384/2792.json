@@ -1,0 +1,1 @@
+{"type":"article_comment","id":2792,"parentType":"article","parentId":384,"uid":1197,"contents":"可能没说清楚，你找两张图片一张叫A，一张叫B，字图叫M（三张一样大小），然后生成一张新图，新图在某点处的像素，如果M在此处的像素是黑色就选A图中的对应像素，是白色的选B：）","date":"2019-01-14","agreeCount":0,"discussionCount":0}
