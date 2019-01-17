@@ -1,0 +1,1 @@
+{"type":"answer_discussion","id":6493,"uid":910,"date":"2019-01-17","contents":"@1066:一般来说，大部分网站使用的都是一些基于PHP+MYSQL这种搭配的动态代码，或者其他的ASP、cgi、jsp之类的，这种脚本漏洞非常多，还有包括后台扫描，暴力破解管理员密码，数据库溢出漏洞等等。","parentType":"answer","parentId":6696}
