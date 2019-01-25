@@ -1,0 +1,1 @@
+{"type":"answer_discussion","id":7239,"uid":1329,"date":"2019-01-25","contents":"提两个技术上容易实行的应急方案 <br>\n<br>\n1. 在新用户注册时强制加入reCAPTCHA认证机制 把注册所需时间从10秒钟延长到3分钟，可以显著提高狂开小号的攻击门槛，但不会增加真正的用户太多麻烦。<br>\n<br>\n2. 把默认首页设置为【推荐】 而不是【最新】","parentType":"answer","parentId":7481}
