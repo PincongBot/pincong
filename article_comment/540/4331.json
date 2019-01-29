@@ -1,0 +1,1 @@
+{"type":"article_comment","id":4331,"parentType":"article","parentId":540,"uid":1847,"contents":"可能是因为 Tor Browser 默认关闭了对 WebAssembly 的支持<br>\n已修复，现在在不支持 WebAssembly 的浏览器中会自动使用运行速度更慢、更耗 CPU 的兼容版本","date":"2019-01-29","agreeCount":1,"discussionCount":0}
