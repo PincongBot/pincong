@@ -1,0 +1,1 @@
+{"type":"article_comment","id":5620,"parentType":"article","parentId":657,"uid":787,"contents":"这个游戏可以简单拆分为<br>\n  1. CRUD 部分（题库、排行榜等）<br>\n  2. 实时部分（对战、聊天等）<br>\n<br>\n第一部分用 php 就可以做；第二部分需要用到 WebSocket，传统的 php-cgi 是不行的，需要 php-cli（例如 workerman 框架），不过我更推荐 nodejs。界面用 DOM + CSS3 动画就可以，不需要 Canvas 或 WebGL。","date":"2019-02-23","agreeCount":2,"discussionCount":0}

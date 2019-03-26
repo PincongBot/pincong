@@ -1,0 +1,1 @@
+{"type":"article_comment","id":5421,"parentType":"article","parentId":703,"uid":595,"contents":"太棒了！感谢！前几天在别的帖子许的愿这么快就实现了！另外看了下dockerfile，感觉RUN可以都写在一起，减少镜像层数。数据库组件可以单独搞一个容器来解耦，用docker-compose一起拉起来。","date":"2019-02-19","agreeCount":1,"discussionCount":0}

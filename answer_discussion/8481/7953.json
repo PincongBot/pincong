@@ -1,0 +1,1 @@
+{"type":"answer_discussion","id":7953,"uid":595,"date":"2019-02-02","contents":"Host上全局vpn也不安全，有些flash脚本会绕过vpn直接和目标服务器沟通。想理论上万无一失，只能虚拟机。","parentType":"answer","parentId":8481}

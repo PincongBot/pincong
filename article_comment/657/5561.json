@@ -1,0 +1,1 @@
+{"type":"article_comment","id":5561,"parentType":"article","parentId":657,"uid":2273,"contents":"抱歉我也不是做这个的,我朋友做过小程序. 我这也是二手信息,硬答一波,品葱后端用的php,估计不适合做多人游戏,(老实说品葱哪来的可以做的题库,如果是你私人项目你在品葱提了不就可能会暴露吗),考虑一下socket.io之类的 + nodejs + phaser.js","date":"2019-02-23","agreeCount":1,"discussionCount":0}

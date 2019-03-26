@@ -1,0 +1,1 @@
+{"type":"answer","id":8820,"parentType":"question","parentId":1882,"uid":1625,"contents":"大部分PE 都不能联网 同时都是在内存里运行的 关机重启就没有了<br>\n大概没什么机会成为后门的载体吧<br>\n倒是有一部分PE带的系统安装器 会插入广告和捆绑软件 这个倒是很有可能被利用<br>\n不过别用这些玩意就是了 PE启动就是格式化+调整个分区用<br>\n<br>\n系统镜像 请从MSDN I Tell You寻找下载链接 然后这些镜像都自带启动 可以独立安装","date":"2019-02-05","agreeCount":1,"discussionCount":2}

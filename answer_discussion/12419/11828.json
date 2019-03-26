@@ -1,0 +1,1 @@
+{"type":"answer_discussion","id":11828,"uid":2994,"date":"2019-03-10","contents":"自己生成CA我也试过, 能让浏览器显示小绿锁但无助于安全性, 因为没法验证反向代理跟上游/后端的服务器通讯所用公钥是否真正属于wikipedia.","parentType":"answer","parentId":12419}

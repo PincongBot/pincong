@@ -1,0 +1,1 @@
+{"type":"question","id":2176,"title":"Freenet墙内不用VPN的情况下如何进行首次连接?Freenet可以用代理之类进行首次连接吗?","uid":2501,"topics":[1117,1194,473],"contents":"像Tor, I2P之类都支持内置peer信息无法获取时通过代理来获取peer信息.<br>\n我以前装过一次Freenet, 完全没找到如何设置代理来connect.<br>\n官方网站文档也没看到介绍如何用proxy来connect","date":"2019-02-20","agreeCount":0,"discussionCount":0}

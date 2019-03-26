@@ -1,0 +1,1 @@
+{"type":"article_comment","id":5776,"parentType":"article","parentId":753,"uid":2555,"contents":"你对于cloudflare真的是一窍不通，国外很多网站都是用的cf，设置验证码是为了防止ddcc，你自己建设一个网站套上cf的cdn并且设置验证码就知道有这个界面了，显示百度纯属是他显示的错误。","date":"2019-02-24","agreeCount":0,"discussionCount":0}

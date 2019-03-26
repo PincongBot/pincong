@@ -1,0 +1,1 @@
+{"type":"article_comment","id":6403,"parentType":"article","parentId":837,"uid":2890,"contents":"<blockquote>與其他暗網不同，如果選擇Opennet模式，別人可以知道IP。</blockquote><br>\nFreenet 本身不支持通过代理连接, 墙内必须VPN, 难道这就是这么长时间一直都不支持通过代理连接opennet原因吗? 怕用户不慎泄漏自己IP?<br>\n另外Freenet相比I2P的一大缺点是没有C/C++实现版本,I2P有I2Pd(C++实现的I2P路由器)","date":"2019-03-04","agreeCount":1,"discussionCount":0}

@@ -1,1 +1,1 @@
-{"type":"question_discussion","id":539,"uid":1,"date":"2019-01-24","contents":"@1392:你的SSR应该是受到了DNS污染的影响，被解析到127.0.0.1导致请求没有被转发到远程服务器","parentType":"question","parentId":1584}
+{"type":"question_discussion","id":539,"uid":1,"date":"2019-01-24","contents":"","parentType":"question","parentId":1584}

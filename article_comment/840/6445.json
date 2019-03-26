@@ -1,0 +1,1 @@
+{"type":"article_comment","id":6445,"parentType":"article","parentId":840,"uid":920,"contents":"3，所有组合按utf8排序，排在第一个的作为主键，后端数据库中使用该主键作为标签的标识；<br>\n4，对用户输入的标签进行匹配，如存在匹配结果则以标签的主键标识，否则重复步骤1。","date":"2019-03-05","agreeCount":1,"discussionCount":0}

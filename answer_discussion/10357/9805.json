@@ -1,0 +1,1 @@
+{"type":"answer_discussion","id":9805,"uid":133,"date":"2019-02-21","contents":"可以用hash的，最好是injective的（懒得算多少位了），这样不会撞，因为IPv4一共就那么多","parentType":"answer","parentId":10357}

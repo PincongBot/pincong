@@ -1,0 +1,1 @@
+{"type":"article_comment","id":5924,"parentType":"article","parentId":771,"uid":1847,"contents":"<pre>select views,'article/'||uid as url ,substr(message,0,50) as content from aws_article</pre> 中的 uid 应该替换为 id","date":"2019-02-25","agreeCount":0,"discussionCount":0}

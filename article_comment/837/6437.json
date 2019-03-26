@@ -1,0 +1,1 @@
+{"type":"article_comment","id":6437,"parentType":"article","parentId":837,"uid":2906,"contents":"Freenet本身跟I2P一样, 平时运行是完全分布式的, 只是首次运行需要获取随机初始节点才能连上, 一旦连上之后VPN撤掉也不影响直连(没用过Freenet, 但原理应该没错, 如果我说错了请指正,谢谢)","date":"2019-03-05","agreeCount":1,"discussionCount":0}

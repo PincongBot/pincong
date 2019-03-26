@@ -1,0 +1,1 @@
+{"type":"question","id":1923,"title":"品葱会考虑支持Markdown编辑格式么？","uid":595,"topics":[451],"contents":"这样感觉对于编辑模块会更解耦一些。Markdown语言本身也及其通用，应该有很多开源模块支持。这样以后格式，代码，公式之类的就不会成为大神们施展才华的瓶颈了。所以希望站务们百忙之中考量一下可行性。","date":"2019-02-08","agreeCount":1,"discussionCount":1}

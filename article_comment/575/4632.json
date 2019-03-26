@@ -1,0 +1,1 @@
+{"type":"article_comment","id":4632,"parentType":"article","parentId":575,"uid":133,"contents":"这种NLP数据分析方式对中文和英文最为适用，因为网络上这两种语言使用量是世界上最大的，所以可以直接找来pretrained model来做embeddings，接下来再训练specific model就好了。如果这个网站主要语言不是中文，我还不是特别担心，尤其是考虑中文NLP的papers已经dssq，毕竟现在google trend上所有AI相关的词汇搜索最多的就来自你国，可想而知有多少在你国的人做这些数据分析","date":"2019-02-01","agreeCount":0,"discussionCount":0}
