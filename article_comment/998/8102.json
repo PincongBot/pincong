@@ -1,0 +1,1 @@
+{"type":"article_comment","id":8102,"parentType":"article","parentId":998,"uid":133,"contents":"自己搭建应该没有问题，但的确不能强求所有人都自己搭建。不如可以允许TOR的node IP注册，但限制注册数量（如果数量达到需要换一个节点，不会所有节点都用光，除非有人疯狂注册小号捣乱，这时候就得看注册记录然后删号了），而非TOR node IP一定时间内只能注册一次。","date":"2019-03-29","agreeCount":0,"discussionCount":0}

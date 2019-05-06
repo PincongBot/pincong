@@ -1,0 +1,1 @@
+{"type":"answer","id":19419,"parentType":"question","parentId":2361,"uid":1160,"contents":"ss启动时监听本地1080端口，拦截并把网页请求请求加密发往代理服务器，代理服务器解密之后访问目标网页并把目标数据返回服务器，服务器加密后返回你的主机。","date":"2019-05-03","agreeCount":0,"discussionCount":0}

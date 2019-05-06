@@ -1,0 +1,1 @@
+{"type":"article_comment","id":9372,"parentType":"article","parentId":1195,"uid":271,"contents":"当一个哈希算法本身未被破解时，唯一可以从哈希值反推回原始字符串的方法就是查表。然而我可没说我的秘密字符串里含有什么，有多少字符，建立表格也只能一点一点建，动辄上GB，TB。","date":"2019-04-11","agreeCount":0,"discussionCount":0}

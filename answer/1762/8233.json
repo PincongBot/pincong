@@ -1,1 +1,1 @@
-{"type":"answer","id":8233,"parentType":"question","parentId":1762,"uid":798,"contents":"後台記錄用戶真實的登錄時間，而數據庫又是公開的，這等於把用戶時區位置公開了。<br>\n<br>\n肯定不是真匿名，只是顯示出匿名而已，否則不可能看到自己的匿名發言。<br>\n你能看到，後代修改代碼稍作處理，就可以得到任何用戶的全部發言，不論是否匿名。","date":"2019-01-31","agreeCount":0,"discussionCount":0}
+{"type":"answer","id":8233,"parentType":"question","parentId":1762,"uid":798,"contents":"後台記錄用戶真實的登錄時間，而數據庫又是公開的，這等於把用戶時區位置公開了。<br>\n<br>\n肯定不是真匿名，只是顯示出匿名而已，否則不可能看到自己的匿名發言。<br>\n你能看到，後代修改代碼稍作處理，就可以得到任何用戶的全部發言，不論是否匿名。","date":"2019-01-31","agreeCount":0,"discussionCount":1}

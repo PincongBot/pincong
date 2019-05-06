@@ -1,0 +1,1 @@
+{"type":"article_comment","id":11193,"parentType":"article","parentId":1359,"uid":291,"contents":"可以先把用户数据的被动变化放入缓冲区，等到缓冲区的记录达到一定数量后再批量结算。","date":"2019-04-26","agreeCount":1,"discussionCount":0}

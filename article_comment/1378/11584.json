@@ -1,0 +1,1 @@
+{"type":"article_comment","id":11584,"parentType":"article","parentId":1378,"uid":271,"contents":"它们用的代理吧<br>\n可行倒是可行，把一段/24的IPv4地址，或者/64的IPv6地址加盐哈希<br>\n比如它的IP是192.0.2.128，我们记录192.0.2.0/24然后加盐哈希，这样它下次用192.0.2.0-255的IP都无法注册<br>\n封IP必须有个期限，最长一年","date":"2019-04-27","agreeCount":0,"discussionCount":0}

@@ -1,0 +1,1 @@
+{"type":"article_comment","id":11224,"parentType":"article","parentId":1359,"uid":920,"contents":"结果还不是要有人定期看着嘛……<br>\n而且不是延迟多久的问题，而是延迟的范围要远大于点拇指的数量，否则就是生日漏洞。<br>\n比如攻击者间隔60s检查一次，24h一共才1440个60s，根本不够，而如果延迟再放长那对正常用户的体验就太差了。","date":"2019-04-26","agreeCount":0,"discussionCount":0}

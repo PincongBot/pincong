@@ -1,0 +1,1 @@
+{"type":"article_comment","id":11181,"parentType":"article","parentId":1359,"uid":133,"contents":"没有转换，全部都是分开的，所以没法只显示一个。我提出的延迟显示应该是最好的，给用户本人当场显示赞踩变化，给其他人一个随机时间后显示赞踩变化，这样便没有任何办法可以查到，因为每次点赞的显示时间都不一样，除非能遍历本站所有赞踩变化实时记录，然后多个小号同时点赞用来fit Poisson process，但难度太大","date":"2019-04-26","agreeCount":0,"discussionCount":0}

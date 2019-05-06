@@ -1,0 +1,1 @@
+{"type":"article_comment","id":11199,"parentType":"article","parentId":1359,"uid":133,"contents":"没有任何区别，因为我只需要测试需要小号的数量即可。比如说，5个小号点赞的平均值是E1，10个小号点赞的平均值是E2，如果10个小号不够，那么E1≈E2，如此反复直到找到一个n然后平均值发生变化，你的再怎么随机也挡不住大数定理","date":"2019-04-26","agreeCount":0,"discussionCount":0}

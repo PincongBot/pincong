@@ -1,0 +1,1 @@
+{"type":"answer","id":16515,"parentType":"question","parentId":3369,"uid":951,"contents":"<b>如果有 rate limit，8 位 [a-z A-Z 0-9] 随机数足够了</b><br>\n总共有 62 ^ 8 = 218340105584900 种可能性<br>\n假设一秒尝试 1000 次，大约需要 6923 年才能破解<br>\n<br>\n<b>如果没有 rate limit，那就 256 bit 起</b><br>\n比如：非对称加密、（脱裤）离线密码破解","date":"2019-04-09","agreeCount":0,"discussionCount":0}

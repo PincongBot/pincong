@@ -1,0 +1,1 @@
+{"type":"article_comment","id":9284,"parentType":"article","parentId":1195,"uid":271,"contents":"1、我用的SHA512，他破解的是MD5，SHA512的速度比MD5慢多了<br>\n2、被哈希的内容可以用Unicode字符，只不过就是用Windows创建不方便罢了<br>\n3、秘密字符串一定要长","date":"2019-04-10","agreeCount":0,"discussionCount":0}

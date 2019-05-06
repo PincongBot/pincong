@@ -1,0 +1,1 @@
+{"type":"article_comment","id":11173,"parentType":"article","parentId":1359,"uid":133,"contents":"200线程遍历5000用户亲测只要1秒钟，100个用户点赞也只要1秒，然后取消全部赞，3秒内完成。即使被发现后台也没有点赞记录，毫无笋丝，况且点赞的都是小号","date":"2019-04-26","agreeCount":0,"discussionCount":0}

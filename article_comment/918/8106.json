@@ -1,0 +1,1 @@
+{"type":"article_comment","id":8106,"parentType":"article","parentId":918,"uid":2771,"contents":"威望10以下（或某个数值以下）的用户提问不直接进入首页，而是显示在待回复页面。<br>\n<br>\n这一条就足够解决很多问题了，可以跟RFC-008结合起来考虑一个代码量最小甚至没有的方案。<br>\n@admin @小二","date":"2019-03-29","agreeCount":1,"discussionCount":0}

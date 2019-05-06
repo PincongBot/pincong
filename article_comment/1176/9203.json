@@ -1,0 +1,1 @@
+{"type":"article_comment","id":9203,"parentType":"article","parentId":1176,"uid":271,"contents":"因为bcrypt需要你额外安装软件，虽然本身的安全性很高，但是能够验证的人更少。<br>\n用SHA512是因为几乎任何操作系统都可以用，无需额外安装任何软件。","date":"2019-04-09","agreeCount":0,"discussionCount":0}

@@ -1,0 +1,1 @@
+{"type":"article_comment","id":9387,"parentType":"article","parentId":1210,"uid":291,"contents":"不要考虑浏览器的行为。<br>\n程序必然是没有界面，直接向服务端发送若干个HTTP请求。<br>\n感觉你目前的思路是如何限制人类，但实际上需要做的是如何限制机器人。<br>\n服务端要知道客户端是人类而不是机器人，要进行一个简单的图灵测试（参见CAPTCHA的全称）。","date":"2019-04-11","agreeCount":0,"discussionCount":0}

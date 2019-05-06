@@ -1,1 +1,1 @@
-{"type":"answer","id":12419,"parentType":"question","parentId":2591,"uid":3,"contents":"自簽CA後，再用自簽CA簽二級證書，設定OS trust CA cert，然後反向代理證書設定為二級證書。<br>\n這樣的策略可行嗎？","date":"2019-03-10","agreeCount":0,"discussionCount":2}
+{"type":"answer","id":12419,"parentType":"question","parentId":2591,"uid":3,"contents":"自簽CA後，再用自簽CA簽二級證書，設定OS trust CA cert，然後反向代理證書設定為二級證書。<br>\n這樣的策略可行嗎？","date":"2019-03-10","agreeCount":0,"discussionCount":3}

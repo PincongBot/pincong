@@ -1,0 +1,1 @@
+{"type":"article_comment","id":11494,"parentType":"article","parentId":1370,"uid":271,"contents":"一个简单首页推荐算法。首页第1，2，4，8，16，32之类（2的n次方）个问题按照热门程度排序，别的按照最新回复顺序排序","date":"2019-04-27","agreeCount":0,"discussionCount":0}

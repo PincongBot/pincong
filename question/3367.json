@@ -1,0 +1,1 @@
+{"type":"question","id":3367,"title":"如何做到开源程序源代码又不泄露语言指纹?","uid":4110,"topics":[366,406,199],"contents":"普通的混淆并不适用, 因为希望真正的公开源程序并且接受所有人的安全审计.<br>\n参考语言指纹相关介绍:https://pincong.rocks/article/673","date":"2019-04-09","agreeCount":0,"discussionCount":0}

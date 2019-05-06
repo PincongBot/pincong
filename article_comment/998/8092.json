@@ -1,0 +1,1 @@
+{"type":"article_comment","id":8092,"parentType":"article","parentId":998,"uid":133,"contents":"我还是建议注册的时候用hash记录一下IP，一定时间后自动删除，也就是说每个IP一段时间内只能注册一个号，而且不要关联哪个IP注册了哪个号，只需要记录已经注册的IP就好了，可以增加成本，需要用户使用大量代理才能刷屏，而且同样可以保证安全","date":"2019-03-29","agreeCount":0,"discussionCount":0}

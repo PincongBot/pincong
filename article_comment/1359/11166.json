@@ -1,0 +1,1 @@
+{"type":"article_comment","id":11166,"parentType":"article","parentId":1359,"uid":1,"contents":"不是啊，我是说查询在返回值的时候添加随机值，也就是说，只要刷新，每次客户端看到的数值都不同，除非他能只查一次就找出来，但显然只查一次是不可行的。","date":"2019-04-26","agreeCount":0,"discussionCount":0}

@@ -1,0 +1,1 @@
+{"type":"answer","id":16716,"parentType":"question","parentId":3411,"uid":4144,"contents":"先爬取全战用户名。然后训练词向量，随机生成与某用户名相似性高的词。再利用中英文敏感词词库生成一些。再把他们混合起来即可。加不加数字后缀视情况而定。耗时0.031 seconds","date":"2019-04-10","agreeCount":0,"discussionCount":4}

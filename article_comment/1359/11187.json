@@ -1,0 +1,1 @@
+{"type":"article_comment","id":11187,"parentType":"article","parentId":1359,"uid":920,"contents":"先随机后修约，先随机目的是避免泄露修约边界，如果后随机那么攻击方可以直接砍掉随机数。","date":"2019-04-26","agreeCount":0,"discussionCount":0}

@@ -1,0 +1,1 @@
+{"type":"article_comment","id":9381,"parentType":"article","parentId":1210,"uid":291,"contents":"这没能回答我的问题。我的意思是变更步骤的那几个之一，如何实现验证。验证码的原理很简单了，客户端需要输入服务端随机生成的字符。这个比如鼠标点住30秒，是如何被验证的？","date":"2019-04-11","agreeCount":1,"discussionCount":0}

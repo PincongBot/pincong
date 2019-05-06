@@ -1,0 +1,1 @@
+{"type":"answer","id":16732,"parentType":"question","parentId":3401,"uid":271,"contents":"首先你要把pincong.rocks这个域名换了，然后新域名使用Cloudflare的时候IP也会跟着变。<br>\n目前GFW对几乎所有使用Cloudflare的域名只敢DNS污染，不敢封Cloudflare的IP，因为一个Cloudflare IP可以对应到很多域名。<br>\n域名确实要钱，而且因为涉及金钱，身份暴露的风险增加，多一笔交易就多一点风险，就算用比特币也只能做到寻人成本增加，并不能完全隐匿身份。","date":"2019-04-11","agreeCount":0,"discussionCount":2}

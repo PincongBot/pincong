@@ -1,0 +1,1 @@
+{"type":"article_comment","id":11287,"parentType":"article","parentId":1359,"uid":4735,"contents":"目前的匿名功能在&quot;品葱&quot;本身安全有保证可信的情况下, 问题是品葱有把握自己不被各种形式的控制?比如品葱服务器上的内部数据库和日志被御用骇客入侵读取, 品葱某天时运不济像旧品葱一样被查水表甚至被接管控制. 应该采取一些方法避免&quot;品葱&quot;这个单点风险, 不仅只是公开数据保证品葱数据信息的延续, 同时也要想办法保证即使自身被(暗中或直接)控制也无法fingerprint用户.","date":"2019-04-26","agreeCount":0,"discussionCount":0}

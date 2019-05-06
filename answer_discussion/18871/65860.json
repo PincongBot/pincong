@@ -1,0 +1,1 @@
+{"type":"answer_discussion","id":65860,"uid":920,"date":"2019-04-28","contents":"这应该是邮箱验证都会遇到的一个问题。<br>\n可以对邮箱域名设置黑名单，但新增的黑名单条目对已注册的用户是无效的。","parentType":"answer","parentId":18871}
