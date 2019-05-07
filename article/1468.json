@@ -1,0 +1,1 @@
+{"type":"article","id":1468,"title":"【RFC-062】 在文章和问题页面加入一键Archive按钮","uid":4766,"topics":[937],"contents":"变更内容：页面加个按钮指向 https://web.archive.org/save/本页地址<br>\n变更理由：用众人的力量帮品葱留得全尸，谁也不知道明天会发生什么，万一新品葱64前被爆破呢？<br>\n讨论时间：一周<br>\n变更步骤：第一步加入按钮，第二步从archive.org读取本页的快照数量显示在本页（免得重复archive）","date":"2019-05-05","agreeCount":0,"discussionCount":0}

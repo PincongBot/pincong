@@ -1,0 +1,1 @@
+{"type":"article_comment","id":12762,"parentType":"article","parentId":1468,"uid":4831,"contents":"先整清楚自己到底想要什么。如果以“留得全尸”为目的，github上已经有数据备份了，没必要一页页备份。信不过github，可以定期把git bundle传到archive.org。https://pypi.org/project/internetarchive/。<br>\n<br>\n有心人自己拿bookmarklet保存关心的页面就够了。","date":"2019-05-06","agreeCount":1,"discussionCount":0}

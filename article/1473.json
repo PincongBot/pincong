@@ -1,0 +1,1 @@
+{"type":"article","id":1473,"title":"【RFC-063】文章，提问和问题回复 支持YouTube视频链接","uid":3012,"topics":[937],"contents":"【变更内容】： 在文章，提问和问题回复中，自动识别YouTube视频链接，方便大家看到视频资料。<br>\n<br>\n【变更步骤】： 增加一点代码以识别YouTube视频，网上有很多公开的此类代码，可以参考<br>\n<br>\n【讨论时间】： 2019.6.1号截止","date":"2019-05-06","agreeCount":0,"discussionCount":0}
