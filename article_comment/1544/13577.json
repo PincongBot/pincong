@@ -1,0 +1,1 @@
+{"type":"article_comment","id":13577,"parentType":"article","parentId":1544,"uid":133,"contents":"大脑的记忆就是通过recurrent states储存的，所以是distributed，可以看作是RNN的hidden states","date":"2019-05-12","agreeCount":0,"discussionCount":0}

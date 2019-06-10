@@ -1,0 +1,1 @@
+{"type":"answer_discussion","id":68619,"uid":5356,"date":"2019-05-20","contents":"@133:假如没有延迟功能，单个用户发送消息也假设是poisson process，那么实际上应该是Matern process. 考虑峰值时段的话，只需要把具体时段的流量参数估计出来就行了。最佳延迟就是由24小时变化的平均流量定义的一个函数。","parentType":"answer","parentId":21959}

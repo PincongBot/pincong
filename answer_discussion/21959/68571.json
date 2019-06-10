@@ -1,0 +1,1 @@
+{"type":"answer_discussion","id":68571,"uid":5356,"date":"2019-05-20","contents":"@133:exponential就是针对所有人而不是同一个用户的，但是因为每个用户产生了很多消息，因此exponential是个非常简化的模型，准确的模型应该是某种复合Poisson Process。另外这里的参数估计都偏保守，忽略掉了那些7天前的旧贴里的新评论，也的确存在活跃时段问题。所以总的来说，设置推荐的延时是在保守计算的基础上得出的，实际关联度会低于20%。","parentType":"answer","parentId":21959}

@@ -1,1 +1,1 @@
-{"type":"article_comment","id":12834,"parentType":"article","parentId":1478,"uid":5023,"contents":"题主说的漏洞已修复，我说的这个bug算是一个彩蛋吧，通过运行<pre>AWS.User.follow($('.follow'), 'user', 10000);</pre>你可以提前向第10000名用户发出一条关注消息，不过是假的关注，只是有提示消息而已","date":"2019-05-06","agreeCount":2,"discussionCount":0}
+{"type":"article_comment","id":12834,"parentType":"article","parentId":1478,"uid":5023,"contents":"题主说的漏洞已修复，我说的这个bug算是一个彩蛋吧，通过运行<pre>AWS.User.follow($('.follow'), 'user', 10000);</pre>你可以提前向第10000名用户发出一条关注消息，不过是假的关注，只是有提示消息而已","date":"2019-05-06","agreeCount":1,"discussionCount":0}

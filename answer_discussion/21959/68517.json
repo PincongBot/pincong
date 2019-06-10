@@ -1,0 +1,1 @@
+{"type":"answer_discussion","id":68517,"uid":133,"date":"2019-05-20","contents":"另外我认为model所有人的活动为exponential应该不对，应该model单个用户为exponential，你获得的是sum，所以是gamma分布。","parentType":"answer","parentId":21959}

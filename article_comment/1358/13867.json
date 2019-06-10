@@ -1,0 +1,1 @@
+{"type":"article_comment","id":13867,"parentType":"article","parentId":1358,"uid":920,"contents":"理论上是可行的，但实作效果不好。<br>\n能够在页面上直接获取的用户属性只有用户名和id，以这两个属性设置白名单显然不适合。<br>\n而其他属性则需要产生额外的网络访问，并且是每一个id发送一次，那么极端的情况是每页100次，对访问者的代价太大。","date":"2019-05-14","agreeCount":0,"discussionCount":0}

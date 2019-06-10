@@ -1,0 +1,1 @@
+{"type":"question","id":4451,"title":"关于ssr和Tor的疑问","uid":2977,"topics":[249],"contents":"ssr的安全性怎么样？如果使用者没有被针对的情况下能够保证自己浏览的网页和发送，接收到的数据不被GFW监测到吗？<br>\n不加前置代理使用Tor会被监测到吗？<br>\n我曾经听到这么一个说法：GFW不知道Tor加密的是什么内容，但是可以监测到这是Tor的流量，这个说法是正确的吗？","date":"2019-05-24","agreeCount":0,"discussionCount":0}

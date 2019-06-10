@@ -1,0 +1,1 @@
+{"type":"answer_discussion","id":68515,"uid":133,"date":"2019-05-20","contents":"你默认了这个是time homogenous poisson process，其实完全不是。明显在北京时间深夜没什么人，而现在同时是北京中午和北美晚上，活跃人数最多，所以如果真要拿到正确的分布，还是实时监控然后histogram比较好。","parentType":"answer","parentId":21959}

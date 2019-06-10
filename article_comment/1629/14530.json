@@ -1,0 +1,1 @@
+{"type":"article_comment","id":14530,"parentType":"article","parentId":1629,"uid":5359,"contents":"现在IPV6的墙已经建好了，谷歌脸书之类的，IPV6下可以ping到正确的地址，但是路由跟踪100%丢包，GFW的技术说实话还是很厉害的。<br>\n根域名服务器非常重要，估计也是GFW里的一部分，先从解析上给你一个无效的地址，彻底断了访问的可能，当然了估计会屏蔽掉全球其他公网上的域名服务器。接下来就是IP白名单制度了，一旦IP白名单实行，那就几乎是彻底的局域网了。","date":"2019-05-19","agreeCount":2,"discussionCount":0}

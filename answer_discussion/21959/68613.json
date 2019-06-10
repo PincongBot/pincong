@@ -1,0 +1,1 @@
+{"type":"answer_discussion","id":68613,"uid":133,"date":"2019-05-20","contents":"@5356: sum of independent poisson processes还是poisson，所以model没其实问题，我认为即使你plot histogram也应该是poisson。问题在于这不是time homogenous的，所以你还是只通过sum出来的gamma fit了一个average。如果可以做到如果可以做到实时监控的话，可以得到更好的分布，不然接下来几个小时活跃度没那么高的时候，960分钟都不一定够，但之后的活跃程度或许2小时就够了……","parentType":"answer","parentId":21959}

@@ -1,0 +1,1 @@
+{"type":"article_comment","id":16622,"parentType":"article","parentId":1814,"uid":271,"contents":"<blockquote>改HOSTS，DNS-over-HTTPS/TLS</blockquote>虽然这样可以上，但是我非常不推荐。<br>\nDNS步骤跳过了，还有TLS握手时用的SNI，墙仍然知道你在访问品葱。<br>\n就算你把SNI加密了，你访问品葱的IP（目前是104.18.54.73和104.18.55.73）仍然可以探测出来","date":"2019-05-31","agreeCount":0,"discussionCount":0}
