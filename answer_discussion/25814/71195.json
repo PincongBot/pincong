@@ -1,0 +1,1 @@
+{"type":"answer_discussion","id":71195,"uid":6346,"date":"2019-06-18","contents":"算是&quot;自架伺服器&quot;, 但I2P的出口代理速度在使用时不仅取决于出口代理伺服器本身的频宽和处理速度, 还取决于I2P客户端连接到出口代理时的网络状态, 即peers的网络性能表现如何","parentType":"answer","parentId":25814}

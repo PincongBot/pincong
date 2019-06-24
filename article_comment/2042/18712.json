@@ -1,0 +1,1 @@
+{"type":"article_comment","id":18712,"parentType":"article","parentId":2042,"uid":5291,"contents":"ipfs正是解决了这两个问题，你可以去看一下它的白皮书，可惜现阶段在国内普及不多。<br>\n第一个问题，ipfs在p2p网络里面可以不发布内容的sha1值，而是发布一个内容的引用，发布者可以更新。外国有很多人把博客都搭在ipfs上。<br>\n第二个问题，ipfs的客户端会维护一个账本，记录自己的peer上传、下载多少，如果自己的账本和别人的账本不一致，那么就会停止上传。也可以用Filecoin解决公共账本的问题。","date":"2019-06-22","agreeCount":0,"discussionCount":0}

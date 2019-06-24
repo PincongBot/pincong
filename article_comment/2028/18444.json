@@ -1,0 +1,1 @@
+{"type":"article_comment","id":18444,"parentType":"article","parentId":2028,"uid":6243,"contents":"分布均匀是因为给每个点的Y坐标加了个0.2～0.8之间的随机数，这样可以区分同一天发生的多件事。","date":"2019-06-19","agreeCount":0,"discussionCount":0}

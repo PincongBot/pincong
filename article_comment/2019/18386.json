@@ -1,0 +1,1 @@
+{"type":"article_comment","id":18386,"parentType":"article","parentId":2019,"uid":6288,"contents":"@kxnxnbdhsn<br>\ngfw 最严格只能是只允许 https 443 端口 tcp/udp 两者出站连接<br>\n照猫画虎模拟下呗, 要 ESNI 哦也就是 TLS 1.3 喽. 事实证明 SNI 已经被检测啦<br>\n不知此站现行版本多少, 但这和 i2p 没关系","date":"2019-06-18","agreeCount":0,"discussionCount":0}
