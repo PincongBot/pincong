@@ -1,0 +1,1 @@
+{"type":"answer_discussion","id":73365,"uid":6856,"date":"2019-07-07","contents":"@5851:虚拟机是必需的，但guest也是通过host接入公网，你物理设备的nic信息，在三层或二层网络设备上都会留下日志。","parentType":"answer","parentId":28469}

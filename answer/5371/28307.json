@@ -1,0 +1,1 @@
+{"type":"answer","id":28307,"parentType":"question","parentId":5371,"uid":6288,"contents":"无尽虚拟机无尽流量, 古早有个 hostshield 通过 mac 识别用户<br>\n现在完全可以做到通过特征分配个 ID 来识别用户<br>\n<br>\n目前不在实机上装任何与敏感沾边的东西, 电脑随便查没事<br>\n各种东西全在虚机里, qemu 是个好东西","date":"2019-07-05","agreeCount":2,"discussionCount":0}

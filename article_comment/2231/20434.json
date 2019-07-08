@@ -1,0 +1,1 @@
+{"type":"article_comment","id":20434,"parentType":"article","parentId":2231,"uid":4803,"contents":"对于百度贴吧式水贴确实有些难以处理，试一试从用户的词汇丰度做一套系统。所谓的词汇丰度是指：用户留言中去除常用衔接词汇之后，还能保留下来的词汇数量。好像用户个人词云的做法，再做机器学习分类。","date":"2019-07-06","agreeCount":0,"discussionCount":0}

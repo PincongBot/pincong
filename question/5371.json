@@ -1,0 +1,1 @@
+{"type":"question","id":5371,"title":"Lantern流量限制的原理是什么?为什么删掉配置文件还能有?","uid":6837,"topics":[1012,112,249],"contents":"我只是删除了&quot;~/.lantern&quot;目录, 是配置文件删除的不干净吗?用的是Linux版Lantern.","date":"2019-07-05","agreeCount":1,"discussionCount":0}
