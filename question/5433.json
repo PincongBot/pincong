@@ -1,0 +1,1 @@
+{"type":"question","id":5433,"title":"【RFC-079】夜晚模式功能（暗色主題功能）","uid":6868,"topics":[937],"contents":"<b>变更内容</b>：增加與原品蔥、reddit 同樣的night mode功能<br>\n開啟後，背景將由白色轉入深色，文字由黑色變為白色<br>\n<br>\n<b>变更理由</b>：原品蔥既有功能，方便用戶於低光源環境下閱讀品蔥，暗色主題眼睛比較不容易產生不適<br>\n<br>\n<br>\n<b>变更步骤</b>：在品蔥右上方新增night mode選項<br>\n<br>\n<b>讨论时间</b>：無限制","date":"2019-07-08","agreeCount":3,"discussionCount":0}

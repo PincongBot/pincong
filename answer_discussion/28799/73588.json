@@ -1,0 +1,1 @@
+{"type":"answer_discussion","id":73588,"uid":133,"date":"2019-07-09","contents":"理论上可以，一个CNN+binary classifier应该就可以搞定，只需要找一些公众号标题作为positive samples，正常新闻标题作为negative samples就好了。如果还想进一步分类的话，可以考虑做word embeddings，找出common clusters，然后用kNN分类<br>\n具体可以问@5356 或@3476 ，比我这个ML和NLP泰国第几的废物不知高到哪里去了","parentType":"answer","parentId":28799}

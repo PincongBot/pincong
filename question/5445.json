@@ -1,0 +1,1 @@
+{"type":"question","id":5445,"title":"物理设备的nic信息，在三层或二层网络设备上都会留下什么日志？","uid":6947,"topics":[],"contents":"<blockquote>虚拟机是必需的，但guest也是通过host接入公网，你物理设备的nic信息，在三层或二层网络设备上都会留下日志。</blockquote><br>\n来自该回答的评论：https://pincong.rocks/question/5403#answer_list_28469","date":"2019-07-08","agreeCount":0,"discussionCount":0}
