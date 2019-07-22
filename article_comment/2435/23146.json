@@ -1,0 +1,1 @@
+{"type":"article_comment","id":23146,"parentType":"article","parentId":2435,"uid":133,"contents":"不是，那个jpg本来就是注入代码，你可以保存图片看它的header（用Hex Editor看），meta-data里面就有代码，不过这个在很多新版浏览器里都没用","date":"2019-07-19","agreeCount":0,"discussionCount":0}

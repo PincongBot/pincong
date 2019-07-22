@@ -1,0 +1,1 @@
+{"type":"article_comment","id":23149,"parentType":"article","parentId":2435,"uid":133,"contents":"另外图片的domain必须和cross site的domain一样才行，否则无效，这也是为什么你把同样的图片传到imgur再上传就没有效果，直接访问的效果取决于浏览器，如果没有cache的话会执行一次代码，但是毫无作用，因为代码多是cross site submission，本地执行无效","date":"2019-07-19","agreeCount":0,"discussionCount":0}

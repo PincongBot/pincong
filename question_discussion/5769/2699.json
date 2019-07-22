@@ -1,0 +1,1 @@
+{"type":"question_discussion","id":2699,"uid":7575,"date":"2019-07-20","contents":"@1331: 如果有人双重钓鱼，在文章里加入群号和XSS代码，超管编辑了就会中招，因为转义在显示而不是提交上","parentType":"question","parentId":5769}

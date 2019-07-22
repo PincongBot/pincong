@@ -1,0 +1,1 @@
+{"type":"article_comment","id":23264,"parentType":"article","parentId":2435,"uid":7575,"contents":"经测试编辑框有XSS漏洞，插入的图片和链接没有转义保存，而是前端转义显示，admin在编辑某个问题和回答的时候可能中招","date":"2019-07-20","agreeCount":0,"discussionCount":0}

@@ -1,1 +1,1 @@
-{"type":"answer","id":29752,"parentType":"question","parentId":5582,"uid":1021,"contents":"好像Tor的前端需要socks代理，也好像I2P的socks代理没人做节点。<br>\n我的虚拟机直接用自由门作为Tor的前端。一个虚拟机做软路由给另一个虚拟机全局全透明翻墙。","date":"2019-07-14","agreeCount":0,"discussionCount":0}
+{"type":"answer","id":29752,"parentType":"question","parentId":5582,"uid":1021,"contents":"好像Tor的前端需要socks代理，也好像I2P的socks代理没人做节点。<br>\n我的虚拟机直接用自由门作为Tor的前端。一个虚拟机做软路由给另一个虚拟机全局全透明翻墙。","date":"2019-07-14","agreeCount":1,"discussionCount":0}

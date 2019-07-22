@@ -1,0 +1,1 @@
+{"type":"article_comment","id":23053,"parentType":"article","parentId":2435,"uid":133,"contents":"这个网站可以直接帮你生成XSS攻击的代码，但是必须有漏洞才可以，在有漏洞的地方插入图片就可以执行远程js代码，就像上面这样，但是品葱已经把它parse成超链接了，所以暂时没用","date":"2019-07-19","agreeCount":0,"discussionCount":0}
