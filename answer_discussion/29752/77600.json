@@ -1,0 +1,1 @@
+{"type":"answer_discussion","id":77600,"uid":8111,"date":"2019-07-26","contents":"不太理解你说的&quot;Tor前端需要socks代理&quot;什么意思, 自由门提供的不是http代理吗?另外Tor有  HTTPTunnelPort选项可以不借助其它HTTP代理服务器软件就能提供HTTP Tunnel代理, 这对于连接HTTPS网站或Tor已经足够, 只是纯HTTP不行.","parentType":"answer","parentId":29752}

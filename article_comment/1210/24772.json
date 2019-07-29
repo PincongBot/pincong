@@ -1,0 +1,1 @@
+{"type":"article_comment","id":24772,"parentType":"article","parentId":1210,"uid":271,"contents":"assets/js/jquery.hashcash.io.min.js<br>\n$(&quot;#comment_submit&quot;).hashcash({key: &quot;12345678-1234-4321-0000-123456789abc&quot;})<br>\n然后到hashcash上注册账号？","date":"2019-07-25","agreeCount":0,"discussionCount":0}
