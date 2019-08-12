@@ -1,0 +1,1 @@
+{"type":"answer_discussion","id":79597,"uid":133,"date":"2019-08-05","contents":"@2296: 如果使用神经网络作为模型的话，早就证出只要神经元够多就可以拟合一切函数了，可以看universial approximation theorem，需要一个能够模拟足够多神经元的系统，这个系统本身就和这个神经网络一样复杂","parentType":"answer","parentId":34203}

@@ -1,0 +1,1 @@
+{"type":"question_discussion","id":2937,"uid":133,"date":"2019-08-05","contents":"@6616: transfer learning这里是一个concept，不是ML里的那种techniques。人的学习很类似DL里的transfer learning，同一个神经网络（人脑）学习不同的任务，只不过人脑没有catastrophic forgetting，所以可以generalize","parentType":"question","parentId":6265}

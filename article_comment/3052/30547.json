@@ -1,0 +1,1 @@
+{"type":"article_comment","id":30547,"parentType":"article","parentId":3052,"uid":2900,"contents":"根本没开源，里面代码就这么几行，笑死人了<br>\n<br>\n// entry<br>\nvoid main(void)<br>\n{<br>\n\t  while(1);<br>\n}","date":"2019-08-11","agreeCount":2,"discussionCount":0}

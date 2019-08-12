@@ -1,0 +1,1 @@
+{"type":"article","id":3053,"title":"翻墙用shadowsocks要把加密方式改为AES中带GCM字样的或chacha20带 Poly1305字样的","uid":5928,"topics":[249,112],"contents":"其它加密方式如AES-256-CFB等等已能被防火墙轻易识别，需要使用带有GCM,Poly1305字样的加密算法．如服务器端可以使用shodowsocks-libev版本．客户端需要使用　加密方式　中带有GCM,Poly1305字样的版本．","date":"2019-08-11","agreeCount":3,"discussionCount":0}
