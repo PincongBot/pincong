@@ -1,0 +1,1 @@
+{"type":"article_comment","id":50364,"parentType":"article","parentId":4183,"uid":11554,"contents":"所以，我同意一位葱友说的，直接在Tor Hidden Service里设置分站的建议。<br>\n<br>\n用Tor，那么基于JavaScript的所有攻击手段就全都失效了；基于浏览器指纹的攻击也会大部分失效。<br>\nURL钓鱼——所有Tor暗网域名看上去都是一串乱码，想方便自己的，一定是利用Tor自带的收藏夹。怎么钓？<br>\n<br>\n在明网有效果的技术手段，到了暗网大部分都会失效，但“社会工程学”仍然有效。","date":"2019-09-03","agreeCount":0,"discussionCount":0}

@@ -1,0 +1,1 @@
+{"type":"article_comment","id":39333,"parentType":"article","parentId":3741,"uid":11566,"contents":"虽然不能对新品葱完全信任但直接暴露敏感信息也太不可取了, 这样就算站方(包括新品葱团队和CloudFlare)想保护也保护不了, 最好用模糊显示, 比如根据User-Agent, IP等信息判断显示成一个&quot;高度匿名勋章&quot;.","date":"2019-08-21","agreeCount":0,"discussionCount":0}

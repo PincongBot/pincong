@@ -1,0 +1,1 @@
+{"type":"article_comment","id":48964,"parentType":"article","parentId":4407,"uid":1331,"contents":"alexa的流量估计是通过浏览器插件来估计的，也就是说即便是你用了代理，浏览器还是知道你的真实IP，进而统计出比较真实的流量来源。品葱的Tor用户非常多，而德国法国美国都是Tor常见的出口节点，这个统计里头根本就没有德国，所以它统计的根本就不是出口IP地址。<br>\n<br>\n只能说明有18%的流量是来自中国大陆的非Tor流量，而且这些用户根本就没有用Tor Browser或者隔离，直接挂个代理用日常的浏览器就上来了。","date":"2019-09-02","agreeCount":1,"discussionCount":0}

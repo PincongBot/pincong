@@ -1,0 +1,1 @@
+{"type":"article_comment","id":39215,"parentType":"article","parentId":3664,"uid":11566,"contents":"Tor速度慢多半还是前置代理被GFW干扰的原因, 我这里状态良好时obfs4看Youtube都不成问题.<br>\n另外我实际体验中部分情况下开启内置obfs4还会让挂上前置代理的Tor更快一些, 不知道为啥, 可能是因为特征减少所以特征检测被绕过, 也就没办法进行针对性干扰了.","date":"2019-08-21","agreeCount":0,"discussionCount":0}

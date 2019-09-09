@@ -1,0 +1,1 @@
+{"type":"answer","id":40151,"parentType":"question","parentId":7089,"uid":9109,"contents":"两方面原因：<br>\n<br>\n<ol><br>\n<li>由于地理位置，网络线路的原因，默认源的速度很慢，可能跑不满带宽，本地镜像源更可能充分利用带宽。</li><br>\n<li>的确存在被GFW屏蔽的情况，一些在国际上通用且常见的云计算服务会被屏蔽和干扰，导致下载过程中出现异常中断，需要全部重新下载。</li><br>\n</ol><br>\n<br>\n事实上，正确的解决方法不是配置镜像源，而是给开发环境挂上代理。","date":"2019-08-19","agreeCount":0,"discussionCount":2}

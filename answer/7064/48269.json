@@ -1,0 +1,1 @@
+{"type":"answer","id":48269,"parentType":"question","parentId":7064,"uid":8988,"contents":"移动用户上网和归属地有关，因为所有流量是需要转发回归属地和手机交换的。<br>\n比如说你是北京移动，现在人在洛杉矶漫游，数据需要从美国运营商转发到北京移动再发送到手机，所以国内手机在境外漫游也无法翻墙。<br>\n如果你是日本docomo，在北京漫游，需要从北京转发到docomo，这样是可以翻墙的","date":"2019-09-06","agreeCount":1,"discussionCount":0}

@@ -1,0 +1,1 @@
+{"type":"answer","id":48881,"parentType":"question","parentId":8158,"uid":11592,"contents":"因為防火牆會DPI, 就是加密了也會可能被查到, 防火牆不是100%, 只能猜, 覺得是VPN的就把你變慢. 防火牆的敏感度看國家有沒有大事. 我之前用SS建了幾個, 在64是他們是把我的外國IP拉黑了.<br>\n<br>\n現在用自建SSR","date":"2019-09-07","agreeCount":0,"discussionCount":2}

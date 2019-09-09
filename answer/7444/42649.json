@@ -1,0 +1,1 @@
+{"type":"answer","id":42649,"parentType":"question","parentId":7444,"uid":9297,"contents":"可以用爬虫做一个简单的采集分析<br>\n<br>\n采集规则如下：<br>\n<br>\n比如只采集每个帖子的日期。<br>\n<br>\n举例：<br>\n<br>\n分别采集8.20-8.25、7.20-7.25、6.20-6.25这三个时间组。<br>\n<br>\n然后把数据导入excel<br>\n<br>\n即可做一个简单的连登网热度分析","date":"2019-08-24","agreeCount":1,"discussionCount":3}

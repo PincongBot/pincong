@@ -1,0 +1,1 @@
+{"type":"answer_discussion","id":89118,"uid":12035,"date":"2019-08-26","contents":"小弟的經驗是，絕對的OPSEC絕大多數人都無法做到，就算軟體做到絕對安全，來自硬體的攻擊也很難防備，都只能做到相對匿名。<br>\nCIA的確在滲透進Tor網路，而現在I2P、Freenet規模又不夠，也沒有Tor Browser這種網路瀏覽器級別甚至Tails這種作業系統級別的預setting好的成品。<br>\n其實Tor也是個規模很小的網路，出口IP位址（exit nodes）只有900個左右。","parentType":"answer","parentId":43374}

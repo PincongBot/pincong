@@ -1,0 +1,1 @@
+{"type":"article_comment","id":48427,"parentType":"article","parentId":3740,"uid":1331,"contents":"HN的排序算法很简单，几乎没办法操纵，他是按小时来做的，我们把小时常数改成日期就可以了。<br>\n<br>\n但是只能用于新闻类，时事热点和科技快讯。其他类别不适合HN排序算法。","date":"2019-09-01","agreeCount":1,"discussionCount":0}

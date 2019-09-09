@@ -1,0 +1,1 @@
+{"type":"answer_discussion","id":84955,"uid":9552,"date":"2019-08-17","contents":"Google会抓IP地址，如果连续两次登录位置跳太大，他会视为异常帐号被要求使用手机认证，因为您可能是用VPN登录，IP不稳才出现这种问题。","parentType":"answer","parentId":37863}

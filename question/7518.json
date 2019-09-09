@@ -1,0 +1,1 @@
+{"type":"question","id":7518,"title":"搭建好了本地服务器为什么点任何按钮都是404呢？","uid":9054,"topics":[1923],"contents":"以前几乎没有写过PHP，用MAMP搭好了服务器，可以看到home界面，但是点任何按钮都是404，比如：<br>\n<br>\nThe requested URL /pincong-wecenter/account/login/ was not found on this server.","date":"2019-08-25","agreeCount":1,"discussionCount":0}

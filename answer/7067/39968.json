@@ -1,0 +1,1 @@
+{"type":"answer","id":39968,"parentType":"question","parentId":7067,"uid":9297,"contents":"可以限制每个ip段的登录次数<br>\n<br>\n比如一个ip登录，再退出。下次再想登录必须等1小时。<br>\n<br>\n这样的话，即使有人注册一堆小号。假设一个小号被封了，一小时内，他也没法重新登录。<br>\n<br>\n这样能一定程度上避免脚本重复注册、垃圾留言","date":"2019-08-19","agreeCount":0,"discussionCount":1}

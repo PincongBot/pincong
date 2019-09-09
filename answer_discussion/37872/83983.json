@@ -1,0 +1,1 @@
+{"type":"answer_discussion","id":83983,"uid":133,"date":"2019-08-15","contents":"@2296: 不，你说的跑是training，因为backprop比forward的flops多得多。neuromorphic chips这里不是模拟大脑，而是利用SNN的sparsity节省资源，大脑的action potentials是both spatially and temporally sparse的，和现在深度学习常用的的ANN不同，所以效率可以高数十倍","parentType":"answer","parentId":37872}

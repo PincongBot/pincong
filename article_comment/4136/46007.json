@@ -1,0 +1,1 @@
+{"type":"article_comment","id":46007,"parentType":"article","parentId":4136,"uid":11486,"contents":"谢谢耐心指导，我终于理解了，我不小心在at符号之后敲了空格才知道，原来不是敲完at用户名才加空格，必须紧跟at符号（但也不是每次的都成功，可能是javascript脚本遭遇了不可描述的网络技术故障，我后续再观察下这个问题），即 @+空格 看到弹出菜单，可以继续输入用户名进行菜单结果筛选，麻烦你后续也改一改说法吧 :-)","date":"2019-08-29","agreeCount":0,"discussionCount":0}

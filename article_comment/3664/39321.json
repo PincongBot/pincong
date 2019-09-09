@@ -1,0 +1,1 @@
+{"type":"article_comment","id":39321,"parentType":"article","parentId":3664,"uid":7330,"contents":"不知道用几十兆的GHOST文件还原到SSD盘里的VHD/VHDX虚拟盘，能不能擦除？GHOST还原之后再快速格式化HD/VHDX虚拟盘呢？因为GHOST文件只有几十兆，所以只要几秒就能还原。以前就在网上看过一些文章，说硬盘格式化了，还有方法恢复数据，但GHOST还原后就不行了，更何况GHOST还原+格式化？","date":"2019-08-21","agreeCount":0,"discussionCount":0}

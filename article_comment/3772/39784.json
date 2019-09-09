@@ -1,0 +1,1 @@
+{"type":"article_comment","id":39784,"parentType":"article","parentId":3772,"uid":2147,"contents":"用tor-browser默认安全级别就基本不会泄露IP了，如果只是用tor 搭配别的浏览器，还是会泄露。<br>\n自己测试：https://browserleaks.com/ip","date":"2019-08-22","agreeCount":0,"discussionCount":0}

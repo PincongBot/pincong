@@ -1,0 +1,1 @@
+{"type":"answer","id":48277,"parentType":"question","parentId":8084,"uid":8157,"contents":"安全删除软件。<br>\n更推荐加密软件，开个加密镜像。不需要了就直接删除。<br>\n也可以全盘加密，要引导前输入密码那种（bitlocker设定一下）。密钥一丢，算到太阳爆炸都拿不到。<br>\n更危险的人群可以用veracrypt，搞双分区加密，其中一个是秘密分区，输入特殊密码才能进，普通加密分区做做样子","date":"2019-09-06","agreeCount":1,"discussionCount":0}
