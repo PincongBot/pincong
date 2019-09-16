@@ -1,0 +1,1 @@
+{"type":"article_comment","id":56741,"parentType":"article","parentId":5029,"uid":4439,"contents":"深度学习的drop out可和这个不同。drop out是在训练中进行的，相当于：如果抽选的代表投票不满足正确(ground truth)要求，就在BP时揍这个代表，直到他按照规范投票；这样训练的结果，导致不论怎么抽选代表，投票的结果都不会离预期太远，从而实现了健壮性。这算是希望的民主吗？","date":"2019-09-14","agreeCount":0,"discussionCount":0}
