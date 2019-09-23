@@ -1,0 +1,1 @@
+{"type":"article_comment","id":59357,"parentType":"article","parentId":5236,"uid":12738,"contents":"不好意思,昨天忘了把TOR的配置方法写上来,导致您误会是直连,后来我补充上去了。也就是下载安装Tor浏览器电脑版后打开「Start Tor Browser」，选「配置」，再选「是」，再选「meek-amazon」或「meek-azure」这二个网桥，再选「否」，点连接后等几分钟即可。感谢站长为大家的网络安全操心。","date":"2019-09-19","agreeCount":1,"discussionCount":0}

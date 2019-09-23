@@ -1,0 +1,1 @@
+{"type":"article_comment","id":57465,"parentType":"article","parentId":5096,"uid":9508,"contents":"这个通过web访问ssh，是不错的。连接顺序是(1)本机浏览器--&gt;(2)中间主机--&gt;(3)SSH主机。作者完成了(1)(2)的客户端和服务端，可以通过(2)连接到任何SSH主机。","date":"2019-09-16","agreeCount":0,"discussionCount":0}

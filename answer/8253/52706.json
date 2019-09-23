@@ -1,0 +1,1 @@
+{"type":"answer","id":52706,"parentType":"question","parentId":8253,"uid":8988,"contents":"最近封禁国外vps厂商很奇怪，以vultr东京为例，正常的路由跟踪是一级一级到大陆骨干网-&gt;日本骨干网-&gt;逐级到vultr的ip，但是我那台机器被封禁后再次跟踪路由最后停到了日本骨干网","date":"2019-09-19","agreeCount":0,"discussionCount":0}
