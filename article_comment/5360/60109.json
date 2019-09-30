@@ -1,1 +1,1 @@
-{"type":"article_comment","id":60109,"parentType":"article","parentId":5360,"uid":1,"contents":"他们并没有公开排序算法……另外，他们应该维护了一个已登录用户的「已读」内容列表，还用 spark 做内容推荐服务。新品葱不太可能往这个方向发展，而是会用一些比较简单的适用于未登录用户的基于用户投票的排序算法。","date":"2019-09-21","agreeCount":0,"discussionCount":0}
+{"type":"article_comment","id":60109,"parentType":"article","parentId":5360,"uid":1,"contents":"他们并没有公开排序算法……另外，他们应该维护了一个已登录用户的「已读」内容列表，还用 spark 做内容推荐服务。新品葱不太可能往这个方向发展，而是会用一些比较简单的适用于未登录用户的基于用户投票的排序算法。","date":"2019-09-21","agreeCount":1,"discussionCount":0}

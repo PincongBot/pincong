@@ -1,0 +1,1 @@
+{"type":"article_comment","id":64098,"parentType":"article","parentId":5489,"uid":13540,"contents":"你客户端用的是什么？有没last handshake  默认服务端ip  是10.0.0.1如果能ping通说明是已经连上了   连不上是因为iptables的原因  要在你安装时的目录里执行  bash  wgmtu  有关闭iptables选项","date":"2019-09-29","agreeCount":0,"discussionCount":0}

@@ -1,0 +1,1 @@
+{"type":"article_comment","id":61694,"parentType":"article","parentId":5489,"uid":13540,"contents":"gfw只能阻断tcp  udp只能干扰不能完全封禁   我把wireguard安装在虚拟机  再开上ssr服务器端  haproxy装在路由器上  我有两个vps  负载均衡是翻墙用   国内分流还是用路由器上ssr客户端","date":"2019-09-24","agreeCount":1,"discussionCount":0}
