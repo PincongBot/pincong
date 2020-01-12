@@ -1,0 +1,1 @@
+{"type":"answer_discussion","id":133468,"uid":21337,"date":"2019-12-12","contents":"@23714: C/C++的package manager有很多，然而使用C++写的package manager就只有一个，就是跨平台的使用量比较大的vcpkg。不过在Unix和Unix like系统上，C/C++的package manager非必须，操作系统自己的包管理器就能代劳，这种做法在Unix家族已经用了几十年了。","parentType":"answer","parentId":101441}

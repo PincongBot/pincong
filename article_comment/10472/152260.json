@@ -1,0 +1,1 @@
+{"type":"article_comment","id":152260,"parentType":"article","parentId":10472,"uid":20166,"contents":"<blockquote>作为普通用户，可以做些什么，避免自己被绑架成攻击者呢？ </blockquote><br>\n在这种已知域名的情况下应该不访问这两个站就行了，但是GFW理论上有能力转化任何墙内访问去进行DDoS攻击，所以没什么好办法<br>\n<br>\n编辑：看了一下发现不对，是访问js脚本的话……大概是只要网页引用了这两个脚本就会被利用。那可能更避无可避了。","date":"2019-12-06","agreeCount":3,"discussionCount":0}

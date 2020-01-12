@@ -1,0 +1,1 @@
+{"type":"answer","id":67652,"parentType":"question","parentId":8253,"uid":17659,"contents":"没讲目前封锁wiki和pixiv用的SNI<br>\n具体来说(不专业人士瞎说)由于https会发一个明文的SNI握手包，GFW可以直接探到这个包然后reset，这导致hosts直接失效。<br>\n不是专业的说法，专业人士可以指正。<br>\n目前可以依靠一些插件和软件反代理。","date":"2019-10-28","agreeCount":1,"discussionCount":0}

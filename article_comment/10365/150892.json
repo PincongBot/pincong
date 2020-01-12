@@ -1,0 +1,1 @@
+{"type":"article_comment","id":150892,"parentType":"article","parentId":10365,"uid":13503,"contents":"<blockquote>看過收費項了，依然是只有月費制。我想問問能不能加入流量制？有些人可能只是偶爾用一用，包月好像有點不化...</blockquote><br>\n偶尔用的人用免费版呗。流量制技术上不可行，因为我的一个设计根基就是服务器并不知道你是哪一个用户，所以无法测量每一个用户用了多少流量。","date":"2019-12-05","agreeCount":0,"discussionCount":0}

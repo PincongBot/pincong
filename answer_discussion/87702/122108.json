@@ -1,0 +1,1 @@
+{"type":"answer_discussion","id":122108,"uid":21415,"date":"2019-11-28","contents":"vultr顶配的dedicated cloud每月也就240美金。如果网站大部分在cloudflare缓存，带宽支出和cpu占用微乎其微，我觉得以品葱现在的流量根本用不到这么高的配置。如果真能有每月5000刀预算，可以把绝大部分用于防ddos","parentType":"answer","parentId":87702}

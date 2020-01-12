@@ -1,1 +1,1 @@
-{"type":"article_comment","id":11880,"parentType":"article","parentId":1377,"uid":1331,"contents":"使用现有的organization 即github.com/pincong 就可以了吧<br>\n毕竟用github的人最多<br>\ngitlab和repo.or.cz什么的镜像可以通过webhook自动同步","date":"2019-04-30","agreeCount":0,"discussionCount":0}
+{"type":"article_comment","id":11880,"parentType":"article","parentId":1377,"uid":1,"contents":"使用现有的organization 即github.com/pincong 就可以了吧<br>\n毕竟用github的人最多<br>\ngitlab和repo.or.cz什么的镜像可以通过webhook自动同步","date":"2019-04-30","agreeCount":0,"discussionCount":0}

@@ -1,0 +1,1 @@
+{"type":"article_comment","id":150117,"parentType":"article","parentId":10365,"uid":7493,"contents":"你说SS/v2ray是「闭门造车」式的协议, 但我不是很明白你的软件相比起v2ray的优势是什么.<br>\n<br>\nv2ray 也可以用UDP连接,&nbsp;另外v2ray采用ws+tls+web+cdn的方式我还没听说有被墙的. 目前所谓机器学习识别都只是实验室环境的玩具, GFW识别主要还是看的一些其他特征, 而非流量本身 (其实很好理解, 这些加密后的流量, 包括https, 信息熵都非常大, 理论上就很难识别).","date":"2019-12-05","agreeCount":9,"discussionCount":0}

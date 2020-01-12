@@ -1,0 +1,1 @@
+{"type":"article_comment","id":67640,"parentType":"article","parentId":5952,"uid":7897,"contents":"SS 及其衍生，加密算法和混淆需要留意，选择不好等同自杀。至于防火长城可以识别 SS 系列流量的看法，个人感觉不靠谱。<br>\n推荐使用 Outline 在服务器上搭建。Outline 在 SS 原版基础上开发，默认 AEAD_CHACHA20_POLY1305，并且提供了操作面板，便于新建、分享和监控流量使用情况。服务器搭建完毕后，可以在移动端使用 SS 的各款客户端连接，目前使用体验良好。","date":"2019-10-04","agreeCount":0,"discussionCount":0}

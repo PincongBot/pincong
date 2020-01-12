@@ -1,0 +1,1 @@
+{"type":"question","id":12611,"title":"目前有人在使用Rust开发库和软件吗？","uid":22394,"topics":[1375,2584,406],"contents":"品葱的政治话题也不少了，我决定来问一个非政治性的。不知道有没有葱友在使用Rust开发库和软件？我的计划是等async-rs, tokio和libp2p稳定以后，可以开发一个高效、低占用、组合性强的VPN。Rust的速度和执行效率可以与C和C++媲美，而概念和设计又超越C和C++，我认为用来写IO heavy的程序是极好的。","date":"2019-12-06","agreeCount":6,"discussionCount":0}

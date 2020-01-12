@@ -1,0 +1,1 @@
+{"type":"article_comment","id":81541,"parentType":"article","parentId":6523,"uid":271,"contents":"https://write.privacytools.io/my-thoughts-on-security/slicing-onions-part-2-onion-recipes-vpn-not-required<br>\n在墙外的话，使用VPN over Tor和裸Tor没什么区别。不过，使用带混淆插件的网桥可以解决问题，比如obfs4或meek等等。<br>\n墙内的话不一样。obfs4被识别，meek速度感人，加个前置代理再开obfs4好一些","date":"2019-10-14","agreeCount":1,"discussionCount":0}

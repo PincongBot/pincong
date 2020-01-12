@@ -1,0 +1,1 @@
+{"type":"article_comment","id":143413,"parentType":"article","parentId":10063,"uid":11130,"contents":"<blockquote>一是众多 RSA 数字证书存在被破解的可能性…… </blockquote><br>\n<blockquote>一是将原有 RSA 数字证书替换为 RSA 2048 国产证书……</blockquote><br>\nRSA 数字证书不就是一个 RSA 公钥加上一些 info 再加上数字签名吗？我不太明白这种东西何来 “破解” 一说？总不可能是破解 RSA 算法吧。我觉得这就是网警编出来唬人的，目的就是让你装国产证书。","date":"2019-12-01","agreeCount":2,"discussionCount":0}

@@ -1,0 +1,1 @@
+{"type":"article_comment","id":163852,"parentType":"article","parentId":10365,"uid":13503,"contents":"<blockquote>那么请问为什么说V2Ray的协议「闭门造车」呢？您使用的协议没有「闭门造车」这个问题是体现在哪里呢？...</blockquote><br>\n我删了这段描述。我本是像表达的意思是v2ray的设计并不参考流量混淆方面的已有研究，而是很多程序员organically敲出来的一个东西，而迷雾通的协议是有一个「顶层设计」的。其实哪个好也有争议，就是cathedral vs bazaar呗。","date":"2019-12-15","agreeCount":0,"discussionCount":0}

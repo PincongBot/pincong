@@ -1,0 +1,1 @@
+{"type":"article_comment","id":140160,"parentType":"article","parentId":5489,"uid":21058,"contents":"支持发教程！<br>\n上午弄了一下，的确很不错。比较大的问题就是分流。看楼主是用虚拟机分流，我用笔记本开虚拟机怕不是会卡死≡(▔﹏▔)≡；然后是速度问题，感觉同一台VPS，用SSR的网速是Wireguard的两倍。<br>\n另外看了一下好像可以在config文件里面加“PreUp”和&quot;PostDown&quot;来分流，我没弄成。","date":"2019-11-29","agreeCount":0,"discussionCount":0}

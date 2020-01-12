@@ -1,0 +1,1 @@
+{"type":"question_discussion","id":5311,"uid":419,"date":"2019-12-09","contents":"@8647: 这与浏览器实现API的方式有关。不同浏览器上效果不一定相同。chrome下只要设置了代理，位置API就生效，但firefox下并不是这样。","parentType":"question","parentId":12920}

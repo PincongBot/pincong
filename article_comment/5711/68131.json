@@ -1,0 +1,1 @@
+{"type":"article_comment","id":68131,"parentType":"article","parentId":5711,"uid":14559,"contents":"github搭建一个墙内可以访问的页面确实是个好主意, 但翻墙困难时期github的可用性也几乎是每秒几百个字节<br>\n而且品葱这种高度敏感的网站, 一般都是用Tor Browser进行浏览, 每次重启缓存都自动清空, meek和非meek翻墙的切换又必须重启整个Tor Browser, 越是翻墙困难时期这种切换越是频繁进行, 因此浏览器缓存的作用会被大大削弱.","date":"2019-10-05","agreeCount":0,"discussionCount":0}

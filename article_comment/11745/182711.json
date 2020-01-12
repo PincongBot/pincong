@@ -1,0 +1,1 @@
+{"type":"article_comment","id":182711,"parentType":"article","parentId":11745,"uid":25796,"contents":"<blockquote> 对呀，二维码是一对一的，同样内容同样参数出来的结果一样。不确定露出来这部分的比特是不是均匀随机分布...</blockquote><br>\n<br>\n准确说不是一对一，你可以找个生成器试试。当然，可能铁路部门用的生成器是deterministic的，或者他们自己生成过的所有二维码都有内部记录可以查询。","date":"2020-01-03","agreeCount":0,"discussionCount":0}

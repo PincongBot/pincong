@@ -1,0 +1,1 @@
+{"type":"answer_discussion","id":124042,"uid":22394,"date":"2019-12-02","contents":"嗯，支持PWA以及Service Worker，唯一的问题是iOS下PWA的缓存只有一段时间有效，过期之后就要重新联网下载，这一点对于需要翻墙的网站非常不利。","parentType":"answer","parentId":74992}

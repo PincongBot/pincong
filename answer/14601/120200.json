@@ -1,0 +1,1 @@
+{"type":"answer","id":120200,"parentType":"question","parentId":14601,"uid":6576,"contents":"这个错误代号就是网络导致的问题，与手机没有太大关联。中国互联网封锁包括一项DNS污染，如果在墙内受到污染，即使翻墙也会因为缓存解析到错误的地址，导致这个问题。很多简单的VPN也根本没有对DNS污染做防护，所以网页正常，但是Google Play上不了。<br>\n<br>\n建议楼主清空DNS缓存，使用加密DNS，并且使用V2Ray等代理软件的本地DNS解析功能。如果楼主有Root权限，使用hosts也可以解决。","date":"2020-01-03","agreeCount":0,"discussionCount":0}

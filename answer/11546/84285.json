@@ -1,0 +1,1 @@
+{"type":"answer","id":84285,"parentType":"question","parentId":11546,"uid":13151,"contents":"我用SSR，目前观测到的情况是，节点不稳定，特别是手机上。一旦流量升高，就会断开，需要重新链接。但是PC端没有这样的问题，怀疑是手机端没有PC端有的负载均衡功能（猜测）。","date":"2019-11-21","agreeCount":1,"discussionCount":0}

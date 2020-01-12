@@ -1,0 +1,1 @@
+{"type":"article_comment","id":143360,"parentType":"article","parentId":9938,"uid":11130,"contents":"<blockquote>推波助澜一下，党国外交部召开记者招待会后，都会放出官方的英文发言稿：（墙内链接）https://ww...</blockquote><br>\n我刚刚试了一下，发现英文版有个挺难解决的问题 —— 时态。比如耿爽说 “美国通过香港人权法案” 用的是完成时，而说 “通过香港人权法案是干涉中国内政” 用的是现在时，因此不能像中文一样直接替换。而且英语的时态变换是不规则的，很难靠代码来实现。","date":"2019-12-01","agreeCount":0,"discussionCount":0}

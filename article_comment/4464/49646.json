@@ -1,1 +1,1 @@
-{"type":"article_comment","id":49646,"parentType":"article","parentId":4464,"uid":1331,"contents":"原始的注册观察制度就是在新手区正常发言，被翻牌子之后就可以进入主区发言。其实就是威望为0的用户无法在主区发言，现在是威望为负的用户无法在主区发言。只是把代码里的“小于”改成“小于等于”就实现了。用户可以点击页面顶部的分类选择要不要看新手区","date":"2019-09-02","agreeCount":1,"discussionCount":0}
+{"type":"article_comment","id":49646,"parentType":"article","parentId":4464,"uid":1,"contents":"原始的注册观察制度就是在新手区正常发言，被翻牌子之后就可以进入主区发言。其实就是威望为0的用户无法在主区发言，现在是威望为负的用户无法在主区发言。只是把代码里的“小于”改成“小于等于”就实现了。用户可以点击页面顶部的分类选择要不要看新手区","date":"2019-09-02","agreeCount":1,"discussionCount":0}

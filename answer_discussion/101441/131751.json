@@ -1,0 +1,1 @@
+{"type":"answer_discussion","id":131751,"uid":22394,"date":"2019-12-11","contents":"这里的VPN不是传统意义上的，是说这个软件可以用来建立和管理L2/L3/L4的tunnel，但是这个tunnel究竟使用什么transport是可以自定义的，类似于v2ray。这样比如说就可以用tls/openvpn/anyconnect/quic/kcp/ss/websocket或者任意的网络协议来承载流量。","parentType":"answer","parentId":101441}

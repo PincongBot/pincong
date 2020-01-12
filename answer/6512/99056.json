@@ -1,0 +1,1 @@
+{"type":"answer","id":99056,"parentType":"question","parentId":6512,"uid":20795,"contents":"SSR不要用了。目前SSR应该被识别了。SS没有使用不清楚情况。<br>\n推荐使用v2ray+WebSocket+TLS+Nginx<br>\n<br>\nGoogle上述关键字可以搜出来很多教程。v2ray官网有详细中文说明和推荐的第三方说明。[url=https://doubibackup.com/v2ray-ws-tls-nginx.html][/url]<br>\n操作过程比较繁琐，但是说明看得多了也就会了。","date":"2019-12-08","agreeCount":0,"discussionCount":0}

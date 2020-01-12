@@ -1,0 +1,1 @@
+{"type":"answer_discussion","id":103757,"uid":14757,"date":"2019-10-24","contents":"Steganography的程序可以在现实中实现。。。<br>\n但是可以给图片设置一个密钥，设置为几分钟内有效，过期之后在数据库中添加一个无效key值，<br>\n加密的图片就永远不会被解密出来<br>\n（当然这个key值也就废了，除非清空数据库）","parentType":"answer","parentId":65715}

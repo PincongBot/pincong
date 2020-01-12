@@ -1,0 +1,1 @@
+{"type":"article_comment","id":156219,"parentType":"article","parentId":10658,"uid":419,"contents":"个人感觉： vpn不靠谱，ssh和其他普通tcp翻墙很容易被挡，tsl的（包括wss）的好一些，udp的最稳定。<br>\n<br>\n最好淘汰ss/ssr，慎用v2ray，能上udp就上udp，能加tor就加tor。<br>\n<br>\n<b>个人推荐在udp梯子上加tor</b>","date":"2019-12-09","agreeCount":1,"discussionCount":0}

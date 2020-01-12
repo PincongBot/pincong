@@ -1,0 +1,1 @@
+{"type":"article_comment","id":177686,"parentType":"article","parentId":10365,"uid":23714,"contents":"<blockquote>1. 主要是UDP可以自己控制congestion control，并且可以实现multipath，...</blockquote><br>\nQUIC 会不会更好？","date":"2019-12-30","agreeCount":0,"discussionCount":0}

@@ -1,0 +1,1 @@
+{"type":"article_comment","id":153116,"parentType":"article","parentId":10526,"uid":20551,"contents":"如果是自然图像还是拍屏吧，网页截图应该还有其它办法<br>\n<br>\n把文字复制出来，原网页保留样式(比如知乎的logo)，背景部分一律填充纯色，再把文字填充回去。这相当于手动渲染一遍网页，杜绝css或者js里动手脚。","date":"2019-12-07","agreeCount":2,"discussionCount":0}

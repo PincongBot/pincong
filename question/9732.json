@@ -1,0 +1,1 @@
+{"type":"question","id":9732,"title":"程序开发时, 如何更好的设置代理?","uid":3125,"topics":[],"contents":"最近配置maven 真的是令人抓狂,&nbsp; 用国内镜像不知道咋了, 有些官spirng boot网上的示例程序也运行不了. 请问有什么好的方法可以快速应对开发过程中对于python, idea, maven依赖下载速度过于缓慢的问题","date":"2019-10-15","agreeCount":0,"discussionCount":0}

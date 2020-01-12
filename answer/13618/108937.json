@@ -1,0 +1,1 @@
+{"type":"answer","id":108937,"parentType":"question","parentId":13618,"uid":23714,"contents":"MTProto 是 Telegram&nbsp; 自己设计的协议，特征比较明显，自然很容易被 GFW 识别。<br>\n《现代密码学实践指南》有句名言：<b>不要自己设计加密传输协议！</b>","date":"2019-12-19","agreeCount":4,"discussionCount":5}

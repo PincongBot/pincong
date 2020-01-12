@@ -1,0 +1,1 @@
+{"type":"article_comment","id":127421,"parentType":"article","parentId":9181,"uid":20551,"contents":"这种信息安全问题最好参考编程随想君的博客<br>\n<br>\n普通人可以考虑用vert crypt加密逻辑磁盘，然后在加密盘中再开一个隐藏卷，足以应付一般水准的检查。<br>\n<br>\n对于会被刑讯逼供的高危人士，遇到警察上门（你可能只有几十秒的时间）直接擦除隐藏卷密钥或者keyfile即可。","date":"2019-11-22","agreeCount":1,"discussionCount":0}

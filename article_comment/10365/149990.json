@@ -1,0 +1,1 @@
+{"type":"article_comment","id":149990,"parentType":"article","parentId":10365,"uid":13503,"contents":"<blockquote>wireguard 是UDP，但经常被阻断。建议像WG一样按照不同平台给出详细的服务端/客户端 安装...</blockquote><br>\n是因为WG没有任何流量特征混淆呀，当然容易封。我会近期写一个「自己搭建迷雾通服务器」的指南，配置起来确实比wireguard啥的麻烦，因为迷雾通是一个整合的系统，包括自动分配入口服务器，用户验证，等等。不是一个翻墙协议而已。可以比较「自由门」","date":"2019-12-05","agreeCount":2,"discussionCount":0}

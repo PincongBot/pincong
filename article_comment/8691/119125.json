@@ -1,0 +1,1 @@
+{"type":"article_comment","id":119125,"parentType":"article","parentId":8691,"uid":18160,"contents":"看了下，它目前的html里是只有 people/admin 这样的字段<br>\n没有给uid，你得改php提供这个uid才能实现","date":"2019-11-18","agreeCount":0,"discussionCount":0}

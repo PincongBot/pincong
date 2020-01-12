@@ -1,0 +1,1 @@
+{"type":"answer","id":63435,"parentType":"question","parentId":9091,"uid":418,"contents":"这个功能目前有bug，通常一帖中只有一个发言能被替换，其他都会被隐藏。即使你在一帖中同时封禁替换两个id，通常也是只有第一个被替换一条发言，第一个人的其他发言和其他人的发言都会变成隐藏。","date":"2019-10-18","agreeCount":0,"discussionCount":0}

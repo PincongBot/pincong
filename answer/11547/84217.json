@@ -1,0 +1,1 @@
+{"type":"answer","id":84217,"parentType":"question","parentId":11547,"uid":20551,"contents":"我提醒一下用v2ray+ws+tls的各位，墙最近加强了主动探测，HTTPS最好有真实的网站做掩护。v2ray的路径尽可能用随机串，Nginx设置捕获代理错误。<br>\n<br>\n我的服务器日志最近出现了很多奇怪的嗅探，很多中国大陆的都在探测/ray，/v2，/v2ray这几个路径，似乎是墙的主动探测。","date":"2019-11-21","agreeCount":1,"discussionCount":0}

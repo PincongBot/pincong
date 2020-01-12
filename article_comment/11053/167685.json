@@ -1,0 +1,1 @@
+{"type":"article_comment","id":167685,"parentType":"article","parentId":11053,"uid":17772,"contents":"PAC模式本来就很不安全，不知道为什么那么多人喜欢用。SSR客户端还默认使用PAC模式。PAC模式要解决的一个最关键的问题就是DNS。如果本地解析会造成DNS泄漏,你上了什么网站运营商全都知道，如果监测到上品葱之类的反动网站那是分分钟拉清单。而如果远程解析，会把在国外有服务器的国内网站比如百度,b站，淘宝等解析到国外，严重影响体验。","date":"2019-12-18","agreeCount":1,"discussionCount":0}

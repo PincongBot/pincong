@@ -1,0 +1,1 @@
+{"type":"article_comment","id":125471,"parentType":"article","parentId":9105,"uid":20280,"contents":"<blockquote>Sentiment analysis 這個功能準確度如何？ </blockquote><br>\n<br>\nsentiment analysis 有不同的approach，比如lexicon或者machine learning<br>\n在我手上这个只是用的lexicon approach，如果是机器学习的话，准度会更高。<br>\n但是也分软件或者词库的质量，我觉得我使用的准度还可以。","date":"2019-11-21","agreeCount":1,"discussionCount":0}

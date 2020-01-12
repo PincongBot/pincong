@@ -1,0 +1,1 @@
+{"type":"article_comment","id":146443,"parentType":"article","parentId":10211,"uid":1,"contents":"<blockquote>我估计也是因为开发上难度较大，是否可以考虑折中，如添加对回答评论的举报功能 </blockquote><br>\n举报功能开发有难度，回答下评论的UI同样也较为困难，需要展示回复了哪个回答。展示回答下的评论功能需求量较小，所以一直没有开发。如果问题确实很严重，会考虑加入TODO。","date":"2019-12-03","agreeCount":4,"discussionCount":0}

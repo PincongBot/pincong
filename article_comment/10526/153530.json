@@ -1,0 +1,1 @@
+{"type":"article_comment","id":153530,"parentType":"article","parentId":10526,"uid":14137,"contents":"客户端overlay就可以实现，现在最差的手机显核都可以实时处理这种操作。另外JPEG/MPEG压缩本身就是靠傅里叶变换，二进制格式存的都是频域，不用inverse就可以水印。","date":"2019-12-07","agreeCount":0,"discussionCount":0}

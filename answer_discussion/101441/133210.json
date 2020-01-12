@@ -1,0 +1,1 @@
+{"type":"answer_discussion","id":133210,"uid":23714,"date":"2019-12-12","contents":"@419:这是 Rust 难以推广的主要原因，俺发现隔壁的 Go 已经有成熟的 Qt bindings 了。C/C++ 好像连 package manager 都没有。","parentType":"answer","parentId":101441}

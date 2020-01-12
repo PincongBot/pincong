@@ -1,0 +1,1 @@
+{"type":"article_comment","id":143407,"parentType":"article","parentId":10063,"uid":20412,"contents":"<blockquote>我现在是用 cloudflare 的证书进行流量混淆，以后有了建站需求再慢慢研究 </blockquote><br>\n证书是证书，那些是TLS的开源实现，<br>\n证书用的是X509v3格式，可以网上看看RFC的规范<br>\n<br>\n这些开源项目只是对rfc的实现而已<br>\n用任何TLS库都应该支持cloudflare<br>\n但是我建议用TLS1.3 开ESNI","date":"2019-12-01","agreeCount":0,"discussionCount":0}

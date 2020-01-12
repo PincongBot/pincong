@@ -1,0 +1,1 @@
+{"type":"article_comment","id":66699,"parentType":"article","parentId":5908,"uid":11130,"contents":"我建议用 websocket 协议 + TLS + cloudflare 之类的 CDN，这样能够隐藏你的真实IP。除非中共对 cloudflare 的中转节点下手，否则就不可能会被封。国庆期间我就是这样挺过来的。<br>\n<br>\nKCP 协议底层是用 UDP 实现的，据我所知，有些 ISP 会监控你的 UDP 流量，流量一大就会被封。","date":"2019-10-03","agreeCount":1,"discussionCount":0}

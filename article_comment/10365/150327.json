@@ -1,0 +1,1 @@
+{"type":"article_comment","id":150327,"parentType":"article","parentId":10365,"uid":13477,"contents":"测试了一下楼主的作品但使用的是免费的版本，同时测试的还有我自己精心写的一款的VPN，我的原理同v2ray的ws+tls+web的方式一致，但在其基础上增加了tun设备，全程使用Https加密或可以选择再加上对称加密，也就是说可以双重加密。测试的结果当然是我的VPN更快更稳定，三个月使用以来基本没断过线。当然也有可能使用的是楼主免费版本所以速度才比我的VPN慢些。","date":"2019-12-05","agreeCount":0,"discussionCount":0}

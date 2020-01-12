@@ -1,0 +1,1 @@
+{"type":"article_comment","id":163504,"parentType":"article","parentId":10365,"uid":13503,"contents":"<blockquote>密码显示在 URL 不安全，可能会被别人看到。俺建议在退出时，自动断开连接，其他用户可能也有同样的疑...</blockquote><br>\n嗯嗯，知道了，会去除在URL显示的密码。自动退出的问题是，electron在退出时自动运行一个函数的功能有bug，有时候在windows会不管用，造成退出了之后迷雾通还在跑，下次启动迷雾通时，就乱七八糟了。我会试图解决","date":"2019-12-14","agreeCount":0,"discussionCount":0}

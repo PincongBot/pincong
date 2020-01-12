@@ -1,0 +1,1 @@
+{"type":"answer","id":103599,"parentType":"question","parentId":13160,"uid":2147,"contents":"光用tor不行，普通浏览器会暴露你的IP,<br>\n必须用Tor自带的那个捆绑的Torbrowser。<br>\n另外Tor前面挂前置的代理或vpn。","date":"2019-12-13","agreeCount":3,"discussionCount":0}

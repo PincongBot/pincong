@@ -1,0 +1,1 @@
+{"type":"article_comment","id":180781,"parentType":"article","parentId":11717,"uid":23835,"contents":"GPG是很好的工具。<br>\n<br>\n要注意将自己的私钥要妥善保存，最好将后缀改为.dll之类的系统常见文件后缀。<br>\n<br>\n如果能有一台专门的机器或者专门的虚拟机装GPG最好。<br>\n<br>\n私钥备份不光要加密保存，还要注意混淆，如果能隐写在图片或者其他文件中最佳。","date":"2020-01-02","agreeCount":0,"discussionCount":0}

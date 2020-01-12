@@ -1,0 +1,1 @@
+{"type":"article_comment","id":178177,"parentType":"article","parentId":11638,"uid":9242,"contents":"為什麼不用GnuPG呢？<br>\n用hash的話，當你要證實自己身份而公開secret key時<br>\n不就把你的secret key給了其他人（比如說，管理員）<br>\n管理員就可以假扮你的身份了","date":"2019-12-31","agreeCount":3,"discussionCount":0}

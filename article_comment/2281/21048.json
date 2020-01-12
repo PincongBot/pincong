@@ -1,1 +1,1 @@
-{"type":"article_comment","id":21048,"parentType":"article","parentId":2281,"uid":3121,"contents":"不一定是钓鱼。也可能是用天津的服务器进行国内中转，但因为没有设计好导致dns在天津泄漏。国内中转一般是用于解决某些国内ISP访问国外服务器不友好的问题。这种节点我用过一些","date":"2019-07-12","agreeCount":0,"discussionCount":0}
+{"type":"article_comment","id":21048,"parentType":"article","parentId":2281,"uid":3121,"contents":"不一定是钓鱼。也可能是用天津的服务器进行国内中转，但因为没有设计好导致dns在天津泄漏。国内中转一般是用于解决某些国内ISP访问国外服务器不友好的问题。这种节点我用过一些","date":"2019-07-12","agreeCount":5,"discussionCount":0}

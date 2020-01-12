@@ -1,0 +1,1 @@
+{"type":"answer","id":109061,"parentType":"question","parentId":13618,"uid":17772,"contents":"据说MTProto具有特定的数据包大小，GFW就是根据这点精准识别的。我建议你用Telegram时直接用SS/SSR或V2Ray(电脑端软件主界面可以设置SOCKS5代理)，或者搭建一个国内中转的MTProto。","date":"2019-12-19","agreeCount":1,"discussionCount":0}

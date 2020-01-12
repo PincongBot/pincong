@@ -1,0 +1,1 @@
+{"type":"answer_discussion","id":112606,"uid":469,"date":"2019-11-12","contents":"磁卡的那个叫mst，和nfc没有任何关系，mst是传统的接触式支付，目前手机支付（除三星外，samsungpay同时支持mst+nfc双模）/金融ic卡免密支付都是nfc非接触式支付，碰一下就OK，开了小额免密/凭签名支付功能（默认打开，可在网银上关掉）后500元以下的交易不用输密码，直接签字确认就可以。目前国内的pos机几乎全部支持nfc，只有传统的ATM/CRS机和银行智能柜台是mst磁卡交易（因为银行网点懒得升级设备）","parentType":"answer","parentId":76382}

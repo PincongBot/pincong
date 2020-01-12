@@ -1,0 +1,1 @@
+{"type":"answer_discussion","id":115062,"uid":12642,"date":"2019-11-17","contents":"@11710:SoC的BL叫做BootROM或mask ROM，苹果BootROM的checkm8漏洞导致可加载自定义BL。“安卓机在这里没有验证bootloader签名”有误，如果验证BL签名可以防止BL锁被此方法破解。但有的安卓设备通过一个分区来保存解锁状态，可以通过9008刷机模式刷该分区破解。有的验证BL签名但是官方有无BL锁的BL，如小米某些机型的BL锁是后期加入的，刷早期版本BL可破解。","parentType":"answer","parentId":79556}

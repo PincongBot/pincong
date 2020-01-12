@@ -1,0 +1,1 @@
+{"type":"article_comment","id":156682,"parentType":"article","parentId":10365,"uid":13503,"contents":"<blockquote>欧版miui，直接从playstore下载的app，安装后打开，屏幕一片空白什么都没有 </blockquote><br>\nwebview（操作系统显示HTML的组件）太旧导致的。你的安卓版本是不是比较老？<br>\n<br>\n另外在playstore上应该可以更新webview。也可以试试安装谷歌浏览器。","date":"2019-12-09","agreeCount":0,"discussionCount":0}

@@ -1,1 +1,1 @@
-{"type":"answer","id":26480,"parentType":"question","parentId":1525,"uid":3214,"contents":"一人一票事实上就是“加权”的啊<br>\n因为如果你把所有人都当成网络的一个结点，某人对另一个人有影响力就画一条出边的话，显然，在一人一票的情况下，那些出度权重值和更大的结点在选举中的权重更大。","date":"2019-06-24","agreeCount":1,"discussionCount":0}
+{"type":"answer","id":26480,"parentType":"question","parentId":1525,"uid":3214,"contents":"一人一票事实上就是“加权”的啊<br>\n因为如果你把所有人都当成网络的一个结点，某人对另一个人有影响力就画一条出边的话，显然，在一人一票的情况下，那些出度权重值和更大的结点在选举中的权重更大。","date":"2019-06-24","agreeCount":2,"discussionCount":0}

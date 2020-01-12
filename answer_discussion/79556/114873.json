@@ -1,0 +1,1 @@
+{"type":"answer_discussion","id":114873,"uid":12642,"date":"2019-11-16","contents":"“bootloader”前还有更底层的固化在SoC中的bootloader，据我所知高通机型可通过9008刷机模式刷入破解BL来破解BL锁。苹果设备在这里有验证LLB签名，安卓机在这里没有验证bootloader签名。","parentType":"answer","parentId":79556}

@@ -1,0 +1,1 @@
+{"type":"answer_discussion","id":135777,"uid":1021,"date":"2019-12-15","contents":"@23605: 如niubility所说，有的软件可能会越过你的代理设置。这种情况建议把VPN和Tor装在一个虚拟机A里，需要匿名保护的软件放在另外一个虚拟机B里。<br>\nB的网关地址指向A。<br>\nA里面做转发透明代理，因为Tor只提供socks 端口，所以A的虚拟机需要用到Linux的iptables做TPROXY，Windows还没见过怎么能实现。<br>\n<br>\n好处是A里的软件不需要调代理设置了，A的所有流量统统经过Tor，同样如niubility所说，UDP协议的软件用不了。","parentType":"answer","parentId":105152}

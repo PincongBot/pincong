@@ -1,0 +1,1 @@
+{"type":"question","id":9987,"title":"本站的验证码图片为什么无法直接打开?","uid":17211,"topics":[406],"contents":"https://pincong.rocks/account/captcha/<br>\n嵌在img的src属性就可以当成图片显示, 也不像是单纯的回应头类型错误导致的乱码, 因为保存到本地还是打不开, 浏览器是Tor Browser<br>\n@admin @admin8964","date":"2019-10-22","agreeCount":0,"discussionCount":0}

@@ -1,0 +1,1 @@
+{"type":"article_comment","id":68468,"parentType":"article","parentId":6004,"uid":14137,"contents":"最简单的是换用Firefox或者Tor Browser。最新版的Firefox已经默认启用DNS over HTTPS (DoH)，这样DNS污染就无效了。Tor Browser还可以绕过服务商对域名的封杀。","date":"2019-10-05","agreeCount":0,"discussionCount":0}

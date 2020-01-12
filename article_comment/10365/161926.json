@@ -1,0 +1,1 @@
+{"type":"article_comment","id":161926,"parentType":"article","parentId":10365,"uid":419,"contents":"在win10笔记本上试用了一下，发现每次合上笔记本之后，过一段时间再打开，梯子就不行了，要手工断开，再连一次才行。<br>\n<br>\n瞎猜测：<br>\n1、笔记本低功率运行状态下，梯子没办法持续工作<br>\n2、笔记本唤醒之后ip发生变化，梯子不适应这种变化，导致出错<br>\n<br>\n<br>\n最后，期待一个树莓派版本，也就是 arm linux 命令行版","date":"2019-12-13","agreeCount":0,"discussionCount":0}

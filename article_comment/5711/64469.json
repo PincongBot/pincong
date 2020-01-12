@@ -1,0 +1,1 @@
+{"type":"article_comment","id":64469,"parentType":"article","parentId":5711,"uid":14089,"contents":"Tor Browser的安全等级只能控制remote font和js加载, css和images占用的数据还是远大于html页面, 而且品葱的html页面本身也有很多与内容无直接关系的代码, 在翻墙困难时期这多余的几十k(包括images, css, 和不必要的html代码)足以导致有意义的正文加载失败和/或梯子连接被GFW掐断.","date":"2019-09-30","agreeCount":0,"discussionCount":0}

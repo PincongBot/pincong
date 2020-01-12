@@ -1,0 +1,1 @@
+{"type":"answer","id":117560,"parentType":"question","parentId":14353,"uid":24714,"contents":"重放攻击分支下的并行攻击，单纯依靠对称性加密算法的弊端。WireGuard设计师在2016年就讨论过shadowsocks不够健壮性的来由，相同的毛病在v2ray也有。<br>\n<br>\n密码学一条纪律：除了密钥，别的一切敌对方都知道。把修建防火墙的人放高自己一个头，去小心谨慎把程序码好和接受摧残性检验。","date":"2019-12-30","agreeCount":1,"discussionCount":0}

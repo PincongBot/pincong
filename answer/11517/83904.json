@@ -1,0 +1,1 @@
+{"type":"answer","id":83904,"parentType":"question","parentId":11517,"uid":20734,"contents":"看不懂你要表达什么，如果要改hosts访问的话需要用到反向代理|sni代理等技术。可以自己搭建还要防止dns投毒","date":"2019-11-21","agreeCount":0,"discussionCount":0}

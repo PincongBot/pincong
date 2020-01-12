@@ -1,0 +1,1 @@
+{"type":"article_comment","id":152976,"parentType":"article","parentId":10526,"uid":133,"contents":"<blockquote>不知道有没有人尝试过训练一个GAN来给图片加水印和去水印，听上去是个好主意。 </blockquote><br>\n已经有了，https://github.com/marcbelmont/cnn-watermark-removal，但是效果不好，没法generalize，拿cifar或VOC train的model没办法generalize到别的图片，比如文字，很多时候文字会被当成水印删掉","date":"2019-12-06","agreeCount":1,"discussionCount":0}

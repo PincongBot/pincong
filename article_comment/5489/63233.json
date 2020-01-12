@@ -1,1 +1,1 @@
-{"type":"article_comment","id":63233,"parentType":"article","parentId":5489,"uid":10845,"contents":"wireguard用的人多了后墙能够检测到它是迟早的事。wireguard的协议特征很明显，但它的作者并没有给wireguard增加抗检测功能的打算。我担心最近cloudfare推出了warp vpn后只会加快政府墙wireguard的进度。","date":"2019-09-27","agreeCount":1,"discussionCount":0}
+{"type":"article_comment","id":63233,"parentType":"article","parentId":5489,"uid":10845,"contents":"wireguard用的人多了后墙能够检测到它是迟早的事。wireguard的协议特征很明显，但它的作者并没有给wireguard增加抗检测功能的打算。我担心最近cloudfare推出了warp vpn后只会加快政府墙wireguard的进度。","date":"2019-09-27","agreeCount":2,"discussionCount":0}

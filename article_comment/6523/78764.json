@@ -1,0 +1,1 @@
+{"type":"article_comment","id":78764,"parentType":"article","parentId":6523,"uid":14452,"contents":"Tor在多年前就被GFW封杀了（GFW屏蔽了全球的Tor中继节点和网桥），由于可能存在蜜罐，在墙内直接使用Tor是非常危险的。Tor本质是匿名工具， 代理非其所长，流量特征明显，正常人不会使用如此难上手，速度如此慢的“翻墙工具”，所以坚决反对在不必要的时候使用Tor突破网络封锁，如必须使用请在外套一层Shadowsocks。","date":"2019-10-12","agreeCount":1,"discussionCount":0}

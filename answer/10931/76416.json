@@ -1,0 +1,1 @@
+{"type":"answer","id":76416,"parentType":"question","parentId":10931,"uid":7834,"contents":"一般审核额度都是有专门的程序计算的，是不是性别歧视要看代码，如果很明确有if sex = female 巴拉巴拉，那确实有性别歧视。<br>\n<br>\n但苹果高盛这种体量的公司一大把数据挖掘岗位，很小的概率再去拍脑袋写代码，如果只是根据用户消费或违约记录做的线性回归分析，哪怕字段里有性别，我也不认为是性别歧视","date":"2019-11-12","agreeCount":9,"discussionCount":0}

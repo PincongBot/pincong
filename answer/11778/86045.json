@@ -1,0 +1,1 @@
+{"type":"answer","id":86045,"parentType":"question","parentId":11778,"uid":13377,"contents":"我感觉这网页在钓鱼<br>\n请求了百度的cookie也就算了，居然还请求了连登的cookie和API?<br>\n<br>\n稍微再研究了一下感觉这个只是网络大炮：百度的API的JS脚本会“顺便”DDOS<br>\n<br>\n我觉得我们应该统计一下，能打开和不能打开的是不是由地理上或者其他方面的相关性<br>\n我这打不开，人在美国","date":"2019-11-24","agreeCount":7,"discussionCount":5}

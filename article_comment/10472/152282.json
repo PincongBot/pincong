@@ -1,0 +1,1 @@
+{"type":"article_comment","id":152282,"parentType":"article","parentId":10472,"uid":22962,"contents":"<blockquote>作为普通用户，可以做些什么，避免自己被绑架成攻击者呢？ </blockquote><br>\n不要挂着全局代理访问国内网站，这样的流量会反向通过墙。不排除现在省级骨干网上面也部署了设备，可以装个浏览器扩展 -- HTTPS Everywhere，对支持的站点自动启用https。<br>\n除此之外无能为力","date":"2019-12-06","agreeCount":1,"discussionCount":0}

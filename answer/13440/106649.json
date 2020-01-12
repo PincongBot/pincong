@@ -1,0 +1,1 @@
+{"type":"answer","id":106649,"parentType":"question","parentId":13440,"uid":419,"contents":"BBR是TCP拥塞控制算法，只是用来改善超时和延迟的，并没有神奇加速效果。<br>\n<br>\nBBR plus是吹牛逼，其实仅仅是设置了一下BBR参数，效果存疑，未经过多少验证。<br>\n<br>\n这仅仅是TCP内部细节的调整，和安全无关。安全是上层协议范畴的事情。<br>\n<br>\n任何脚本都可能有后门，如果顺便悄悄帮您加一个转发监控日志的设置，，，","date":"2019-12-17","agreeCount":1,"discussionCount":7}

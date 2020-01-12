@@ -1,0 +1,1 @@
+{"type":"answer","id":88280,"parentType":"question","parentId":11933,"uid":21446,"contents":"可以请管理员公开前两天DDOS攻击者的IP地址吗，因为声望不够，不能在那个情况说明帖下回复。这个在cloudflare的记录中应该能查到，看看是不是中国的IP地址，因为如果是中国IP地址，就可以确定他们有不用翻墙的专线（防外线），而且应该可以掌握防外线的IP段，境外网站就可以封掉这些IP段了<br>\n<br>\nP.S. 这个建议是一个推特上的人提的 https://twitter.com/suoluo/status/531665498493038593","date":"2019-11-26","agreeCount":4,"discussionCount":0}

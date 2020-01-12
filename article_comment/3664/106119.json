@@ -1,0 +1,1 @@
+{"type":"article_comment","id":106119,"parentType":"article","parentId":3664,"uid":13802,"contents":"tor本身并不慢，是tor前置网络慢，不加前置网络几乎没法链接，所以这不是tor的问题，而是没有适合tor使用的环境。","date":"2019-11-12","agreeCount":0,"discussionCount":0}

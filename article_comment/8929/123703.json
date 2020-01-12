@@ -1,0 +1,1 @@
+{"type":"article_comment","id":123703,"parentType":"article","parentId":8929,"uid":1,"contents":"<blockquote>嗯...试用了一下基本上OK，“仅标记”还没有改成“加入观察”，然后黑名单功能从“用户组”里面移动到...</blockquote><br>\n现在还没改成加入观察，等管理日志完成后一并修改。观察就是这么设计的。加入观察的用户会在下一个commit周期在用户名旁边加入“观察”字样，较为醒目。得知加入观察后不会增加威望的管理员，如果想要恢复正常，应该会去做，不会遭到投诉。","date":"2019-11-21","agreeCount":0,"discussionCount":0}

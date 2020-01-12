@@ -1,0 +1,1 @@
+{"type":"answer","id":111865,"parentType":"question","parentId":4451,"uid":17772,"contents":"安全性还可以。注意：千万不要选分流模式，要选全局模式。也许SSR本来就是给普通人用的，因此没在安全性上考虑太多。<br>\n<br>\n<br>\nGFW会监测到随机流量，有理由怀疑是翻墙流量。如果要伪装得更好建议使用v2ray ws+tls+web。<br>\n<br>\n<br>\n会。Tor流量特征非常明显。<br>\n<br>\n<br>\n是对的。","date":"2019-12-23","agreeCount":1,"discussionCount":0}

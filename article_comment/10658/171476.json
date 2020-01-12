@@ -1,0 +1,1 @@
+{"type":"article_comment","id":171476,"parentType":"article","parentId":10658,"uid":24714,"contents":"你像我就不一样了，为了研究翻墙把很多以前没看过的书快速的撸一遍。<br>\n<br>\n从英语到密码学再到go语言，最后发现自己用了一年多WireGuard最稳定。还有一点要说的是：不怕封IP，高度重视安全性和性能释放。<br>\n<br>\n从密码学角度看到shadowsocks的加密算法全是对称加密，有因为密码设置过短遭遇TMTO攻击的缺陷。v2ray靠语言内置的goroutine机构很好的利用多端口进行数据传输，有时间戳抵抗重放攻击。","date":"2019-12-23","agreeCount":0,"discussionCount":0}

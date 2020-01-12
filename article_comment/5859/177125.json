@@ -1,0 +1,1 @@
+{"type":"article_comment","id":177125,"parentType":"article","parentId":5859,"uid":22495,"contents":"不，不要这么做。<br>\n务必使用代理访问品葱，尽可能启用Tor<br>\n即使你用eSNI DoH/DoT绕过了封锁，TLS传输很可能会暴露证书和域名。","date":"2019-12-30","agreeCount":1,"discussionCount":0}

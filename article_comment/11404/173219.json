@@ -1,0 +1,1 @@
+{"type":"article_comment","id":173219,"parentType":"article","parentId":11404,"uid":25238,"contents":"首先，Socks 流量的特征非常明显，GFW 会向双方直接发送 TCP RST 尝试中断连接，所以你不可能正常通过GFW 链接 Socks 代理。其次 TBB 代理连接失败后会尝试使用默认网桥等方式尝试连接，可能给你造成了 Socks 可用的错觉。","date":"2019-12-25","agreeCount":0,"discussionCount":0}

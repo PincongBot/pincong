@@ -1,0 +1,1 @@
+{"type":"article_comment","id":179862,"parentType":"article","parentId":11638,"uid":23714,"contents":"<blockquote>我是指在获得某字段的SHA-256值后再使用其SHA-256值的SHA-512值...... </blockquote><br>\n不建议多次 hash，未必更安全。","date":"2020-01-02","agreeCount":0,"discussionCount":0}

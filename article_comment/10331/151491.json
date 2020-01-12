@@ -1,0 +1,1 @@
+{"type":"article_comment","id":151491,"parentType":"article","parentId":10331,"uid":22394,"contents":"<blockquote>大家对品葱的要求实在太高了。品葱完全无法与知乎相提并论，因为知乎是上市盈利公司，而品葱只是站长业余时...</blockquote><br>\n完全理解，其实我感觉站长可以新开一个测试版本的品葱，对应git的master分支，然后把它放在https://test.pincong.rocks，让大家贡献和测试代码。然后每隔一段时间可以把master合并到stable上，更新现在的网站。这是现在主流开源软件通行的做法。","date":"2019-12-06","agreeCount":0,"discussionCount":0}

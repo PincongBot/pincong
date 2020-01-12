@@ -1,0 +1,1 @@
+{"type":"article_comment","id":86181,"parentType":"article","parentId":6857,"uid":16219,"contents":"其实他们修复起来很简单的，用MD5+SHA就可以解决了，因为这两个同时撞的概率几乎为0，这也是布隆过滤器的原理。所以这个只能是检测MD5才有用，顺便@币圈奇葩8964","date":"2019-10-20","agreeCount":7,"discussionCount":0}

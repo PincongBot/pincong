@@ -1,0 +1,1 @@
+{"type":"answer","id":84649,"parentType":"question","parentId":11546,"uid":19906,"contents":"SS没有遇到任何问题。<br>\n注意的是VPS不要打开TCP Fast Open，有副作用。<br>\n移动等NAT不好的网极其困难。","date":"2019-11-22","agreeCount":0,"discussionCount":0}

@@ -1,0 +1,1 @@
+{"type":"article_comment","id":163882,"parentType":"article","parentId":10966,"uid":22394,"contents":"V2ex上有人尝试部署了nebula，但是性能似乎不是特别好。另外现有的P2P VPN都假设所有节点之间都对等且默认连通，其实不是很有道理，比方说国内的节点和国外的节点之间我想组一个P2P VPN，但是要求国内与国外节点间经过固定的一系列服务器中继流量，这个时候就不能简单使用现有的P2P VPN了。又比如说不同节点间链路质量不一样，需要自定义路由策略。","date":"2019-12-15","agreeCount":0,"discussionCount":0}

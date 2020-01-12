@@ -1,0 +1,1 @@
+{"type":"question_discussion","id":4051,"uid":133,"date":"2019-11-15","contents":"@2296: 其实数据库都是公开的，拿BERT这种东西算一算句子之间embedding的mutual information就可以找到最具信息量的发言，给出label。甚至最简单的，直接拿你赞最高的发言排序一个个的人工label，所以转不转水都没区别，在你发言的那一刻就已经暴露","parentType":"question","parentId":11167}

@@ -1,0 +1,1 @@
+{"type":"article_comment","id":178243,"parentType":"article","parentId":11638,"uid":23714,"contents":"<blockquote>使用某段字符的SHA-256或CRC-64作为秘密字符串是否有安全风险？ </blockquote><br>\nSHA256 只是暂时安全，大概能用十年左右。","date":"2019-12-31","agreeCount":0,"discussionCount":0}

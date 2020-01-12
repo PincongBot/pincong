@@ -1,0 +1,1 @@
+{"type":"article_comment","id":149522,"parentType":"article","parentId":10365,"uid":13503,"contents":"<blockquote>我下载了试试，不过怎么总是登录失败呢 </blockquote><br>\n用的是中国电信吧？电信连微软在亚洲的CDN节点经常超级卡，迷雾通的用户管理服务器用微软CDN免翻墙。我会尽快解决，目前一个workaround是把电脑的DNS改1.1.1.1，这样微软会给你美国的CDN节点，应该登录不会超时了。","date":"2019-12-05","agreeCount":0,"discussionCount":0}

@@ -1,0 +1,1 @@
+{"type":"answer","id":103393,"parentType":"question","parentId":13160,"uid":23862,"contents":"不要危言耸听。一般墙内都是ss/vpn加tor，就算tor失守，vpn本身就提供了一层中转。除非VPN是蜜罐，加上品葱失陷，才有可能泄露真实地址。如果VPN和品葱本身就不保留IP数据，那随便怎样都无法抓到你。<br>\n<br>\n不过有一点很重要的是，需要设置tor不要走国内以及港澳的节点，可能是蜜罐。方法网上有，自己搜一下就行。","date":"2019-12-13","agreeCount":14,"discussionCount":0}

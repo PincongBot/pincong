@@ -1,0 +1,1 @@
+{"type":"article_comment","id":174519,"parentType":"article","parentId":10365,"uid":24714,"contents":"<blockquote>我想看作者的实现思路，但无论是官网还是 GitHub 都没有相应的文档。几个问题：1、为何会选用 U...</blockquote><br>\n<br>\n1，并没有独树一帜，能获得Linus之父称赞的WireGuard也是基于UDP。<br>\n<br>\n2，识别之后你能说说有什么对策呢？","date":"2019-12-27","agreeCount":0,"discussionCount":0}

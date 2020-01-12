@@ -1,0 +1,1 @@
+{"type":"question_discussion","id":5303,"uid":419,"date":"2019-12-09","contents":"@8647: 如果是文件协议file://或者本地ip（localhost， 127.0.0.1），位置API不会生效。必须在互联网地址上测试","parentType":"question","parentId":12920}

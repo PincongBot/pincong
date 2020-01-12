@@ -1,0 +1,1 @@
+{"type":"answer","id":90671,"parentType":"question","parentId":11789,"uid":2333,"contents":"不管是v2ray还是ssr一定要放在443端口，且做个带证书验证的假站点。可以防止九成九的封ip行为。","date":"2019-11-28","agreeCount":1,"discussionCount":0}

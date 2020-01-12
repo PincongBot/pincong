@@ -1,0 +1,1 @@
+{"type":"answer_discussion","id":110307,"uid":17735,"date":"2019-11-08","contents":"不建議不用 VPN 上品蔥：<br>\n1、你的 DNS query 會泄漏<br>\n2、域名 sni 會泄漏<br>\n3、IP 會泄漏<br>\n<br>\n前兩項可以通過加密 DNS 和 ESNI 解決（也能解決大部分翻牆問題），第三項不用 VPN 無解。僅從個人隱私保護來說，1、2是必須保護的，第三項主要防趙彈。","parentType":"answer","parentId":52186}

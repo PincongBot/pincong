@@ -1,0 +1,1 @@
+{"type":"answer","id":104248,"parentType":"question","parentId":13160,"uid":7330,"contents":"本人翻墙的方法：<br>\nVPN+SSR+TOR(开启obfs4)，因为有些网站，包括品葱，对TOR不太友好，所以在TOR后又加个赛风，即VPN+SSR+TOR(开启obfs4)+赛风，居然还能看480P的youtube，当然其中的SSR有时也会换成V2RAY或其他翻墙工具，而VPN有时是OPENVPN或wireguard等……不知道这样的翻墙姿势对不对？","date":"2019-12-14","agreeCount":1,"discussionCount":0}

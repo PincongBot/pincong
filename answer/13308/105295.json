@@ -1,0 +1,1 @@
+{"type":"answer","id":105295,"parentType":"question","parentId":13308,"uid":22245,"contents":"我稍微研究过一点，把vpn的代理端口填写到TorBrowser的高级设置里面使用代理访问网络，然后就可以通过vpn加tor上网了，验证是不是tor访问可以上这个网站https://check.torproject.org/","date":"2019-12-15","agreeCount":1,"discussionCount":0}

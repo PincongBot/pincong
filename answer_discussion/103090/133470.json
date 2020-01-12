@@ -1,0 +1,1 @@
+{"type":"answer_discussion","id":133470,"uid":22394,"date":"2019-12-12","contents":"问题可能还是出在Rust的ownership model上，可能微软想要让多个对象能共享同一个lifetime，这样比较容易实现一些数据结构，之前Rust写链表的问题大家也传了好久了。这个好像也是Qt的做法，Qt里面有一种内存管理的方式就是把对象委托给父对象，在父对象destruct的时候一并destruct。","parentType":"answer","parentId":103090}

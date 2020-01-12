@@ -1,0 +1,1 @@
+{"type":"answer","id":108831,"parentType":"question","parentId":13603,"uid":22962,"contents":"直接访问https网站会暴露的信息<br>\n1、你访问的那个网站的域名。我估计各级运营商都有在收集dns的log。对策的话就是DoH/DoT。<br>\n2、SNI，一样会暴露你访问的域名。以后会慢慢推广的ESNI可以缓解这个问题。<br>\n但是中间人不会知道你访问的<b>具体url，</b>和传输的数据","date":"2019-12-19","agreeCount":0,"discussionCount":1}

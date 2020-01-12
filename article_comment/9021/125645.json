@@ -1,0 +1,1 @@
+{"type":"article_comment","id":125645,"parentType":"article","parentId":9021,"uid":271,"contents":"<blockquote>這意思是用釣魚網站之類的方式騙交易，帳面上是有效的交易記錄，卻是違反意願的? </blockquote>不是，是客户端软件被篡改，私钥被发送到别人服务器上（正常情况下私钥只有自己知道）<br>\n然后黑客拿到了私钥，想干嘛就干嘛","date":"2019-11-22","agreeCount":1,"discussionCount":0}

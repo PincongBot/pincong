@@ -1,0 +1,1 @@
+{"type":"answer_discussion","id":116775,"uid":469,"date":"2019-11-20","contents":"@16606:对，其实是半白名单而已，通过对白名单外服务器的加密流量进行统计从而实现判定异常风险服务器，github就经常遭到误伤。","parentType":"answer","parentId":82919}

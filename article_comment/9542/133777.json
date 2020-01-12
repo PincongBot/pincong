@@ -1,0 +1,1 @@
+{"type":"article_comment","id":133777,"parentType":"article","parentId":9542,"uid":8633,"contents":"增加数据的可移动和可交互性 目前sql大概需要几个小时人力恢复,只能站长一人操作。如果把网站做成任何人都可以克隆，比如在aws app市场公开instance snapshot。网站整体复制恢复变得更容易。几分钟任何人都可以把品葱延续下去。<br>\n<br>\n这样轻松建立多个镜像（除了主站点，其他都是只读）也不用LB。一旦党国攻陷主战立即用其他代替。","date":"2019-11-25","agreeCount":1,"discussionCount":0}

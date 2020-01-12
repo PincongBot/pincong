@@ -1,0 +1,1 @@
+{"type":"answer_discussion","id":122519,"uid":20412,"date":"2019-11-29","contents":"@17086:通知代码在app.js里，也就是每开一个浏览器tab就会有一个poll<br>\n每秒会给服务器发一个poll，问有没有通知<br>\n如果我把首页所有post开一次，就有20个tab，也就是每秒20个poll 请求<br>\n这对服务器来说浪费了大量的资源！<br>\n<br>\n<br>\n解决办法可以了解下websocket或者webrtc<br>\n但是用了这个技术，就会暴露真实ip，tor都救不了你了<br>\n这种方案是可以考虑只有管理员能收到通知。。。就像私信功能一样","parentType":"answer","parentId":91245}

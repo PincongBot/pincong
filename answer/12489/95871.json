@@ -1,0 +1,1 @@
+{"type":"answer","id":95871,"parentType":"question","parentId":12489,"uid":18160,"contents":"火狐或者TOR浏览器，安装一个油猴子<br>\n然后，保存下面这句话到一个脚本<br>\n仅对pincong.rocks有效<br>\n<br>\n<pre>document.getElementById('page_video_comments').text = '影片评论'</pre><br>\n可以满足你的需求<br>\n<br>\nupdate-1<br>\n貌似管理员已经改好了。。。","date":"2019-12-04","agreeCount":0,"discussionCount":0}

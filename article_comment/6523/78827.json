@@ -1,0 +1,1 @@
+{"type":"article_comment","id":78827,"parentType":"article","parentId":6523,"uid":271,"contents":"个人认为在墙内用Tor请加前置代理，防止流量分析、定位（虽然可能性极小）。<br>\n墙外的话，使不使用前置代理反而影响不大。<br>\n无论是墙内还是墙外，更重要的在torrc里设置排除节点，并加上 StrictNodes 1","date":"2019-10-12","agreeCount":1,"discussionCount":0}

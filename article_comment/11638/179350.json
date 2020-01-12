@@ -1,0 +1,1 @@
+{"type":"article_comment","id":179350,"parentType":"article","parentId":11638,"uid":20551,"contents":"<blockquote>我是指在获得某字段的SHA-256值后再使用其SHA-256值的SHA-512值...... </blockquote><br>\n多重散列更好一些，不过懂程序的人还不如用bcrypt或者GPG。<br>\nSHA-512最大的好处是容易普及，安全性也足够了，不熟悉电脑的人可能不会操作多重散列。","date":"2020-01-01","agreeCount":1,"discussionCount":0}

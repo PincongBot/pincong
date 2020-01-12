@@ -1,0 +1,1 @@
+{"type":"article_comment","id":113389,"parentType":"article","parentId":8405,"uid":469,"contents":"当然也有应对的办法，Linux的问题能强一些，而且有专门用来批量拉黑证书的工具，之前Github上有Remove Chinese Cert的项目就有专用的工具来批量移除这类证书，还有问题没有你想象的那么恐怖，只要做好隔离，是可以防止利用证书信任体系实现的中间人攻击的，这些东西编程随想和xiaolan的博客里有提过，只要把防御做的足够好，那么被查水表的概率会大大降低。因此要多多学习信息安全方面的知识，以免被真人快抓。","date":"2019-11-15","agreeCount":0,"discussionCount":0}

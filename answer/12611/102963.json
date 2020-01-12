@@ -1,0 +1,1 @@
+{"type":"answer","id":102963,"parentType":"question","parentId":12611,"uid":15045,"contents":"没写过rust，随便答答<br>\n我不太清楚你的app面向什么平台，rust感觉还是适合os和driver（微软：在做了）。用rust写gui。。好像没听说什么好用的库。。<br>\n<br>\n要是跨平台还是java/kotlin这种语言入手吧，方便一点","date":"2019-12-12","agreeCount":0,"discussionCount":0}

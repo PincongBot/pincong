@@ -1,0 +1,1 @@
+{"type":"article_comment","id":174048,"parentType":"article","parentId":11380,"uid":23862,"contents":"<blockquote>加盐这一点其实说错了。加盐是指生成随机数据然后和原密码合在一起做哈希，不是对密码做个变换。https...</blockquote><br>\n<br>\n感谢指正！","date":"2019-12-26","agreeCount":0,"discussionCount":0}

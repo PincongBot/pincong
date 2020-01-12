@@ -1,0 +1,1 @@
+{"type":"article_comment","id":113575,"parentType":"article","parentId":8418,"uid":1021,"contents":"Gentoo 是安装稍微麻烦，装好后的维护非常省心。平滑的滚动升级，可查可控的包管理配置（/etc/portage, /var/lib/portage/world)<br>\n我用过一些流行的发行版，每次都是没过多久就感觉失去了对系统的控制，必须重装心里才舒坦一点。用gentoo 已经很久没重装系统了。","date":"2019-11-15","agreeCount":1,"discussionCount":0}

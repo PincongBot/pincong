@@ -1,0 +1,1 @@
+{"type":"article_comment","id":165838,"parentType":"article","parentId":10365,"uid":13503,"contents":"<blockquote>安卓版，国产手机好多打不开，打开直接白屏，建议楼主修复一下，毕竟翻墙软件是为了在墙内人用的，墙内人大...</blockquote><br>\n这是因为webview太旧。确实很多国内手机生产商多少年也不更新webview，我还没有找出来到底是我什么地方不兼容旧webview。我会尽快修复的。","date":"2019-12-17","agreeCount":0,"discussionCount":0}

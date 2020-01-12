@@ -1,0 +1,1 @@
+{"type":"article_comment","id":177674,"parentType":"article","parentId":10365,"uid":13503,"contents":"<blockquote>我看过你的客户端代码，开头的包引用明显用了非对称加密x25519。免疫了重放攻击，啥时候放出服务端的...</blockquote><br>\n服务端的代码在一个repo里。cmd/geph-client是客户端，geph-bridge是入口服务器，geph-exit是出口，geph-binder是中央控制服务器（负责分配入口，验证用户等等）","date":"2019-12-30","agreeCount":0,"discussionCount":0}

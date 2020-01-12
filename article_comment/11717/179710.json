@@ -1,0 +1,1 @@
+{"type":"article_comment","id":179710,"parentType":"article","parentId":11717,"uid":18291,"contents":"有需要的話，建議弄一個跟 CDEncrypt 類似的網頁版本工具，全平台都可以免安裝使用。<br>\n和 CDEncrypt 一樣使用瀏覽器自帶的 RSA 加密和簽名功能即可（SubtleCrypto API），甚至可以考慮提交到 CDEncrypt 項目。","date":"2020-01-01","agreeCount":0,"discussionCount":0}

@@ -1,0 +1,1 @@
+{"type":"answer","id":65715,"parentType":"question","parentId":9918,"uid":945,"contents":"我觉得当务之急是开发一个安全，不会被墙的论坛。另外你说的那个“加密”图片的方法heuristic太明显了。有更加sophisticated的方法，通称为隐写术（Steganography）。还有一个问题在于你开发出来这个加密解密工具之后，审查者也能用你的工具解密进行审查。所以这只适用于两个人商定好密钥之后互相传送信息，没有普适性。","date":"2019-10-24","agreeCount":1,"discussionCount":2}

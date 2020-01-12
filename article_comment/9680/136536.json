@@ -1,0 +1,1 @@
+{"type":"article_comment","id":136536,"parentType":"article","parentId":9680,"uid":419,"contents":"建议<b>实行物理隔离，专机专用</b>，在安全设备上实行软件白名单制，拒绝一切未被信任的app。<br>\n<br>\n若遵守上述规则，像题主所操作的这种设备，应该是<b>处于DMZ区域的不安全设备，不能用于处理敏感事务。</b>","date":"2019-11-27","agreeCount":1,"discussionCount":0}

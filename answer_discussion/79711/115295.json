@@ -1,0 +1,1 @@
+{"type":"answer_discussion","id":115295,"uid":18594,"date":"2019-11-17","contents":"三层代理确实多了些，系统方面隔离可以用虚拟机，其实只要做好tor进出口节点防范，反向找使用者ip难度很大。另外请问你怎么用轮子的代理？是它软件里提供的http代理吗？","parentType":"answer","parentId":79711}

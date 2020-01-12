@@ -1,0 +1,1 @@
+{"type":"article_comment","id":149407,"parentType":"article","parentId":10163,"uid":1,"contents":"<blockquote>1. 是bug，我也发现了，我用了url replace这个扩展解决了2. 是bug，我也发现了，我...</blockquote><br>\n1. 已修复。<br>\n2. 不是bug，是feature。为防止钓鱼，仅展示信任图床的图片。<br>\n3. 同样是feature。为保证安全，不记录除密码外的任何隐私信息。","date":"2019-12-04","agreeCount":0,"discussionCount":0}

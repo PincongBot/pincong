@@ -1,0 +1,1 @@
+{"type":"article_comment","id":165810,"parentType":"article","parentId":11053,"uid":7834,"contents":"利用YouTube的重定向链接再重定向到百毒的重定向链接再跳转到一个国内服务器再跳转到随机的YouTube视频<br>\n<br>\n应该是利用VPN的PAC拆分隧道钓鱼<br>\n<br>\n——如果用SS和V2RAY的PAC模式，墙内的人访问YouTube的随机网址是国外VPS的IP，但是跳转过程中访问百度和国内服务器用的是国内的IP，这样就会被定位到了，网警就会顺着网线来找你了，大家一定要小心","date":"2019-12-17","agreeCount":9,"discussionCount":0}

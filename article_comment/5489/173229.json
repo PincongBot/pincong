@@ -1,0 +1,1 @@
+{"type":"article_comment","id":173229,"parentType":"article","parentId":5489,"uid":19167,"contents":"我有个问题想请教以下，关于IOS设备翻墙的。<br>\n我目前的想法是通过IOS自带的VPN选项（IPSec/L2TP等）连接到我阿里云的服务器，然后通过V2ray连接到我境外的服务器，尝试了以下好像不可行。我具体也不知道如何在阿里云服务器上把所有流量导向1080端口，想听取以下你的意见。","date":"2019-12-25","agreeCount":0,"discussionCount":0}

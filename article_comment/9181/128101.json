@@ -1,0 +1,1 @@
+{"type":"article_comment","id":128101,"parentType":"article","parentId":9181,"uid":7330,"contents":"楼主说的LiveCD，以前也用过，不过我是在虚拟机上运行的，LINUX系统，自带TOR浏览器。我也曾试过在虚拟机上运行WINPE，ISO光盘自带上网功能的那种，最好不要用装虚拟硬盘，这样只要虚拟机重启或关机后，什么痕迹也不留，另外WINPE不要过于精简，因为这样很多软件就无法运行。","date":"2019-11-23","agreeCount":0,"discussionCount":0}

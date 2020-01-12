@@ -1,0 +1,1 @@
+{"type":"article_comment","id":127874,"parentType":"article","parentId":9181,"uid":18160,"contents":"<blockquote>用密码A解密之后，你看不到隐藏卷的存在，也无从得知是否有这个文件头。你看到的文件头，是外边这个卷的（...</blockquote><br>\n<br>\n你是对的<br>\n不可能根据文件头判断这个文件是VC文件<br>\n也不可能根据A密码知道隐藏分区是否存在","date":"2019-11-22","agreeCount":0,"discussionCount":0}

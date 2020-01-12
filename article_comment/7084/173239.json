@@ -1,0 +1,1 @@
+{"type":"article_comment","id":173239,"parentType":"article","parentId":7084,"uid":23714,"contents":"当初 Tor Project 开发 obfs&nbsp; 混淆的【直接原因】是混淆流量，对抗 GFW 的封锁。最近 GFW 已经可以识别 obfs 流量了，新的 snowflake 混淆暂时不够稳定。<br>\n有的代理服务器禁止 Tor 流量，无法作为“前置代理”使用，这时需要用 obfs，速度会有所减慢。","date":"2019-12-25","agreeCount":0,"discussionCount":0}

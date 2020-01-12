@@ -1,0 +1,1 @@
+{"type":"article_comment","id":163149,"parentType":"article","parentId":10365,"uid":23714,"contents":"<blockquote>这不算安全漏洞，这个密码在服务器端不是明文保存的，只是我没有做像样的cookie机制所以必须URL里...</blockquote><br>\n密码显示在 URL 不安全，可能会被别人看到。<br>\n俺建议在退出时，自动断开连接，其他用户可能也有同样的疑问。","date":"2019-12-14","agreeCount":1,"discussionCount":0}

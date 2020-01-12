@@ -1,0 +1,1 @@
+{"type":"article_comment","id":178198,"parentType":"article","parentId":11638,"uid":20551,"contents":"<blockquote>為什麼不用GnuPG呢？用hash的話，當你要證實自己身份而公開secret key時不就把你的se...</blockquote><br>\n对于程序员验证身份有很多方法，不过很多葱油不一定特别精通电脑。我觉得还是普及性第一，技术性第二。hash的缺陷是只能一次性使用，私钥公布后即作废。不过当限于品葱这一个网站时，hash作为恢复身份的凭据就足够了。","date":"2019-12-31","agreeCount":0,"discussionCount":0}

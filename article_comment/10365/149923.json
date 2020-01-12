@@ -1,0 +1,1 @@
+{"type":"article_comment","id":149923,"parentType":"article","parentId":10365,"uid":13503,"contents":"<blockquote>话说，服务器的真实IP实际上还是暴露了吧？如果日后GFW直接封IP那该怎么办 </blockquote><br>\n全部都中转，每个人中转用的IP是不一样的。中转IP靠domain fronting等超慢但超难封的方法分配给客户端。并不是直接连接软件里显示的IP地址","date":"2019-12-05","agreeCount":2,"discussionCount":0}

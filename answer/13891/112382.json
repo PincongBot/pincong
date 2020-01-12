@@ -1,0 +1,1 @@
+{"type":"answer","id":112382,"parentType":"question","parentId":13891,"uid":6576,"contents":"Windowsn是完全可行的。许多年前学习编程，编写过一个间谍软件，用的是截图API过去屏幕内容，不需要任何权限，杀毒软件也不会侦测到。<br>\n<br>\n原生Android和iOS应该十分安全，因为软件在新版Android没有Root权限是无法获取屏幕外内容的，即使授予了辅助功能权限也只能获取到文字，不过要防范国产系统。iOS更不用担心。","date":"2019-12-24","agreeCount":4,"discussionCount":0}

@@ -1,0 +1,1 @@
+{"type":"article_comment","id":181496,"parentType":"article","parentId":10677,"uid":21239,"contents":"<blockquote>補充一下副作用，有些網站會封tor常用的ip比如估狗會叫你做一大堆驗證 </blockquote><br>\n没错。不过也不是没有方法破解，使用tor做前置代理，再挂一个代理作最终的出口节点，人家就看不到tor了。","date":"2020-01-03","agreeCount":0,"discussionCount":0}
