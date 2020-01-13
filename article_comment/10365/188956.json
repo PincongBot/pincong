@@ -1,0 +1,1 @@
+{"type":"article_comment","id":188956,"parentType":"article","parentId":10365,"uid":25558,"contents":"<blockquote>是的，我看到go.mod了知道使用go modules但是我不会go modules,正在看怎么配置...</blockquote><br>\ngo build golang.org/x/sys/unix: /usr/local/go/pkg/tool/linux_amd64/compile: signal: killed<br>\n我的虚拟机没有swap 悲剧","date":"2020-01-08","agreeCount":0,"discussionCount":0}

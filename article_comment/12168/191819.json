@@ -1,0 +1,1 @@
+{"type":"article_comment","id":191819,"parentType":"article","parentId":12168,"uid":7601,"contents":"<blockquote>也有风险，如果你运营过网站你就知道了。有些专业的网站防火墙可以透过vpn看到真实ip，用户的操作系统...</blockquote><br>\n我也是干技术的，操作系统是可以知道的（游览器会提供用户操作系统的），但这个没什么安全价值。<br>\n而“透过vpn看到真实ip“，这个怎么实现？什么原理？信息学上就不可能。","date":"2020-01-11","agreeCount":3,"discussionCount":0}

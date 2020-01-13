@@ -1,0 +1,1 @@
+{"type":"article_comment","id":192018,"parentType":"article","parentId":12173,"uid":16306,"contents":"获取一个静态IP，选择有两个：购买国外的另一台VPS，然后再连接运行ss的VPS，那么在连接国外的转发VPS本身就需要过墙，部署ss就失去了意义。而使用国内的VPS，又面临着提供墙内VPS的商家有可能监控你的后台进程，并且无疑会把你的信息交给朝廷的风险。。。<br>\n这是悖论啊","date":"2020-01-11","agreeCount":1,"discussionCount":0}

@@ -1,0 +1,1 @@
+{"type":"answer_discussion","id":158057,"uid":7646,"date":"2020-01-11","contents":"@24216:得先识别出协议，才封的IP嘛。没法直接封协议是因为没法实时从单个数据包识别协议啊。","parentType":"answer","parentId":126432}

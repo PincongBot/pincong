@@ -1,0 +1,1 @@
+{"type":"article_comment","id":187751,"parentType":"article","parentId":11994,"uid":24216,"contents":"<blockquote>无法实现。对微信进行二次加密需破解微信本身，比如使用Xposed框架但首先，root+Xposed的...</blockquote><br>\n不是破解软件，是重写客户端，不用Xposed。","date":"2020-01-07","agreeCount":0,"discussionCount":0}

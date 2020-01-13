@@ -1,0 +1,1 @@
+{"type":"article_comment","id":193943,"parentType":"article","parentId":12238,"uid":14394,"contents":"有可能是你在中国网站的用户名密码和apple id的密码相同，被黑客撞库。VPN本身是加密传输，加上apple登录也支持https，VPN公司本身应该是无法截取到你apple账户的登录信息。","date":"2020-01-12","agreeCount":1,"discussionCount":0}

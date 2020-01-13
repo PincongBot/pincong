@@ -1,0 +1,1 @@
+{"type":"article_comment","id":187768,"parentType":"article","parentId":11994,"uid":19884,"contents":"我觉得要不就退而求其次，开发一个telegram机器人，能将文本加密，也能将密文解密。<br>\n发送微信消息前将原文发给机器人，机器人返回加密的信息，用户手工复制加密信息，粘贴到微信发送<br>\n接收方将消息发给同一个telegram机器人，获得明文消息<br>\n这个加密解密机器人也可以用其他支持API的聊天工具，比如钉钉之类的。","date":"2020-01-07","agreeCount":1,"discussionCount":0}

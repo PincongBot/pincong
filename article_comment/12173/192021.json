@@ -1,0 +1,1 @@
+{"type":"article_comment","id":192021,"parentType":"article","parentId":12173,"uid":11350,"contents":"感谢分享<br>\n<br>\n关于SS+TLS，个人的实验结果是<br>\n<br>\n新搭的服务器，从头开始就用TLS，那么这个SS基本不会被爆破<br>\n如果从中途开始用TLS，那么连通性会增加，但仍然有被爆破的可能","date":"2020-01-11","agreeCount":0,"discussionCount":0}

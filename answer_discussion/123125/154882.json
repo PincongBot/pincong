@@ -1,0 +1,1 @@
+{"type":"answer_discussion","id":154882,"uid":17993,"date":"2020-01-08","contents":"遞歸：<br>\n（求第n次時死亡人數m）<br>\n設n,m,r，<br>\nr=任意&gt;2整數，<br>\n當n=1，<br>\nm=1，<br>\n當n&gt;1，<br>\nm=（第n-1項）*r","parentType":"answer","parentId":123125}

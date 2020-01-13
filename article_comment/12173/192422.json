@@ -1,0 +1,1 @@
+{"type":"article_comment","id":192422,"parentType":"article","parentId":12173,"uid":11982,"contents":"实际上也不完全如此，shadowsocks自带一个叫privoxy的工具，这个工具的用途就是可以根据发起连接的软件或者被连接的服务器来决定是否对这个连接进行代理。<br>\n<br>\n比如，用户可以设置“仅代理访问外国ip的连接”和“仅给youtube、opera提供代理”。由于国产软件肯定不会请求国外服务器，且它们也不在你设置的分应用代理名单中。因此理论上并不会出现“从外国的代理服务器登录，GPS定位却在国内”的情况。","date":"2020-01-11","agreeCount":0,"discussionCount":0}

@@ -1,0 +1,1 @@
+{"type":"article_comment","id":187963,"parentType":"article","parentId":10365,"uid":23714,"contents":"<blockquote>macOS白屏的问题我在关注，好几个用户都提到 https://github.com/geph-of...</blockquote><br>\n俺建议先放到 Arch Linux 的 AUR （用户仓库）里面，然后是 snap，最后是各大发行版的官方仓库。<br>\n<br>\n另，<br>\n可以封装成 AppImage，不少 Linux 软件都用这个格式封装，相当于【绿色软件】。","date":"2020-01-07","agreeCount":0,"discussionCount":0}

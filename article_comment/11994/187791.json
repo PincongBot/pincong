@@ -1,0 +1,1 @@
+{"type":"article_comment","id":187791,"parentType":"article","parentId":11994,"uid":24216,"contents":"<blockquote>参考 GPG ，其设计理念就是基于通信信道不可信，会被窃听，通信前用对方的公钥将信息加密传输给对方，...</blockquote><br>\nGPG是openpgp的gnu实现，不过一般人不会用，gnu提供gpg的库，嵌入其他软件中是没有问题。","date":"2020-01-07","agreeCount":0,"discussionCount":0}

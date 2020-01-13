@@ -1,0 +1,1 @@
+{"type":"article_comment","id":185963,"parentType":"article","parentId":10365,"uid":13503,"contents":"<blockquote>&nbsp;新版測試的結果好像依然打開TCP模式會快。測試時間17點左右，公司內網電信。 </blockquote><br>\n明顯您的ISP對UDP的干擾很嚴重（看50多的丟包率...）。TCP模式就是爲您這種用戶設計的","date":"2020-01-06","agreeCount":0,"discussionCount":0}

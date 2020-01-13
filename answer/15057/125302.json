@@ -1,0 +1,1 @@
+{"type":"answer","id":125302,"parentType":"question","parentId":15057,"uid":20038,"contents":"tor 浏览器应该是没事的，页面一关就清理了。<br>\n如果实在不放心，觉得最好连系统缓存也要清理，或者最好防止被删除的缓存被恢复，那就上虚拟机，然后每次浏览结束后就格式化再拷进新文件覆盖一下也就无法恢复了。","date":"2020-01-10","agreeCount":1,"discussionCount":4}

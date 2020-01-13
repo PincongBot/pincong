@@ -1,0 +1,1 @@
+{"type":"article_comment","id":187789,"parentType":"article","parentId":11994,"uid":17890,"contents":"参考 GPG ，其设计理念就是基于通信信道不可信，会被窃听，通信前用对方的公钥将信息加密传输给对方，对方收到后用私钥解密。RSA 目前技术能力还不能轻易解密。可以认定为安全性非常高。不限定于通信载体，可以是邮件，也可以是微信等","date":"2020-01-07","agreeCount":1,"discussionCount":0}

@@ -1,0 +1,1 @@
+{"type":"article_comment","id":187766,"parentType":"article","parentId":11994,"uid":19884,"contents":"<blockquote>不是破解软件，是重写客户端，不用Xposed。 </blockquote><br>\n微信客户端是和微信服务器端通信的，你重写个客户端，没有嵌入腾讯的证书，根本无法和服务器端通信，更别说将消息传递给对方了。","date":"2020-01-07","agreeCount":0,"discussionCount":0}

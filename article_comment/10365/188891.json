@@ -1,0 +1,1 @@
+{"type":"article_comment","id":188891,"parentType":"article","parentId":10365,"uid":25558,"contents":"<blockquote>你是不是放到gopath里编译了？需要clone到别的目录，用最新Go。因为使用modules。 </blockquote><br>\n是的，我看到go.mod了知道使用go modules但是我不会go modules,正在看怎么配置","date":"2020-01-08","agreeCount":0,"discussionCount":0}

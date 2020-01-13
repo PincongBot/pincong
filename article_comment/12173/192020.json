@@ -1,0 +1,1 @@
+{"type":"article_comment","id":192020,"parentType":"article","parentId":12173,"uid":24714,"contents":"我来补充几点：AES-gcm,全称：galois counter mode。一种计算消息验证码（mac）的加密模式，mac提供一种密码校验和。<br>\n<br>\n128，192，256的区别在密钥长度和轮数，所以在TLS 1.3会用AES-128-gcm实现数据流快速传递。<br>\n<br>\n个人建议：设置预存密钥长度要超过200位二进制数，用于抵御量子计算机Grover算法。","date":"2020-01-11","agreeCount":1,"discussionCount":0}
