@@ -1,0 +1,1 @@
+{"type":"article_comment","id":195083,"parentType":"article","parentId":5850,"uid":20551,"contents":"上面有些标签是已经合并的。。。才发现品葱数据库里标签不会真的合并，我们在这边合并的标签，数据库里会用一个topic_merge表记录下来，所以这个结果还得过滤一下。","date":"2020-01-13","agreeCount":0,"discussionCount":0}

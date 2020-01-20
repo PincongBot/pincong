@@ -1,0 +1,1 @@
+{"type":"article_comment","id":198793,"parentType":"article","parentId":12173,"uid":25238,"contents":"<blockquote>gfw会模拟一个shadowsocks请求发往你服务器的那个shadowsocks端口，由于密码是错的，这时候你的服务器会返还一个类似于密码错误的回包，</blockquote><br>\n这是你的主观臆想，shadowsocks 早就不会返回任何错误。同时也证明你没仔细阅读论文。","date":"2020-01-16","agreeCount":0,"discussionCount":0}

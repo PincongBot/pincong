@@ -1,0 +1,1 @@
+{"type":"answer_discussion","id":159960,"uid":25544,"date":"2020-01-14","contents":"有什么可靠的Android抓包应用介绍吗？<br>\n<br>\n本来以前想下载一个有注入功能的HttpCanary，只是看它用中文而且不知道是否真的已开源到GitHub，后来还是放弃下载。下载过其他英文的同类应用，却只能参查看数据包，却没将修改Request跟Response的功能整合进去。","parentType":"answer","parentId":127990}

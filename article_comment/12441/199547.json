@@ -1,0 +1,1 @@
+{"type":"article_comment","id":199547,"parentType":"article","parentId":12441,"uid":24216,"contents":"<blockquote>Wine官方文档说，在wine环境下默认直接给exe文件赋予Admin权限，不会像正常Windows...</blockquote><br>\n我用wine试过病毒wannacry，当然是在虚拟机，结果整个系统的文件全被加密。","date":"2020-01-17","agreeCount":0,"discussionCount":0}

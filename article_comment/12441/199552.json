@@ -1,0 +1,1 @@
+{"type":"article_comment","id":199552,"parentType":"article","parentId":12441,"uid":24216,"contents":"<blockquote>你这和直接装windows有什么区别 </blockquote><br>\n当然有区别，虚拟机与linux host可以做到很好的隔离。主机依然是安全的，又可以用windows软件，关键是可以用snapshot。windows本来就喜欢出问题，一出问题就可以用上次的snapshot恢复。","date":"2020-01-17","agreeCount":1,"discussionCount":0}

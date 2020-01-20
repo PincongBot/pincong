@@ -1,0 +1,1 @@
+{"type":"article_comment","id":199193,"parentType":"article","parentId":12441,"uid":24216,"contents":"<blockquote>Linux内核就是操作系统，没有什么GNU系统之说，GNU指的是一系列仿UNIX的utilities...</blockquote><br>\n拜托，这是摘自GNU.org上Richard Stallman 相关文章的中文翻译，而且内核不等于操作系统。OS包含kernel，但是单独的kernel不叫OS","date":"2020-01-17","agreeCount":1,"discussionCount":0}
