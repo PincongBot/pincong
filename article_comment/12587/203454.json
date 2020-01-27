@@ -1,0 +1,1 @@
+{"type":"article_comment","id":203454,"parentType":"article","parentId":12587,"uid":20295,"contents":"<blockquote>如果是全基因组比对，可能由于基因序列太长，在alignments里面会把一个序列分开比对，注意看两边...</blockquote><br>\n那么E蛋白属于很短的吗?那么为什么在alignments里有多个 identical protein，description里只有一个100%呢?","date":"2020-01-21","agreeCount":0,"discussionCount":0}

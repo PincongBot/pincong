@@ -1,0 +1,1 @@
+{"type":"article_comment","id":209677,"parentType":"article","parentId":12895,"uid":1472,"contents":"對於這種傳染病感染人數有很多理論研究和數學模型，最簡單的是sir model（人群分為susceptible, infected, and recovered)，有三個coupled ordinary differential equations，數值解可以看到趨勢並不是指數，而是類似二次函數有一個高峰然後再下降<br>\n<br>\n之前寫了一個簡單的mathematica code（帶有animation), 感興趣的話可以分享","date":"2020-01-25","agreeCount":1,"discussionCount":0}

@@ -1,0 +1,1 @@
+{"type":"answer","id":135525,"parentType":"question","parentId":15942,"uid":27315,"contents":"现在常用的移动支付也就是微信和支付宝，真封网的话，也许支付相关接口不会封。换言之，发不出微信，但是可以用扫码支付。<br>\n另一种可能就是迅速推出局域网专用的一个支付APP，与微信和支付宝联通，起到适配器的作用。","date":"2020-01-23","agreeCount":1,"discussionCount":0}

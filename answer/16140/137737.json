@@ -1,0 +1,1 @@
+{"type":"answer","id":137737,"parentType":"question","parentId":16140,"uid":21337,"contents":"有些中欧南欧的冷门节点也挂掉了，不只是TCP阻断这么简单，而是直接做了IP丢包处理。<br>\n还好我用的几个节点还有备用方案，关掉SS改用v2ray再用别的IP暂时连上了。","date":"2020-01-25","agreeCount":0,"discussionCount":0}
