@@ -1,0 +1,1 @@
+{"type":"answer","id":147804,"parentType":"question","parentId":17038,"uid":23944,"contents":"我覺得可以請程序員設計一個瀏覽器插件。<br>\n<br>\n你在imgur可以批量上傳圖片嘛。<br>\n<br>\n那個插件的功能就是給定一個imgur的頁面鏈接，一鍵生成內嵌此頁所有圖片的bbcode。<br>\n<br>\n也就是那個插件提取imgur那一頁所有圖片的URL。然後生成<br>\n【img】URL1【/img】<br>\n【img】URL2【/img】<br>\n……<br>\n<br>\n你就可以複製粘貼啦。","date":"2020-02-02","agreeCount":0,"discussionCount":3}

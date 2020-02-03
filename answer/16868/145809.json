@@ -1,0 +1,1 @@
+{"type":"answer","id":145809,"parentType":"question","parentId":16868,"uid":27874,"contents":"咱一般装两个虚拟机。在一个虚拟机里放privoxy和VPN Gate，另一个放tor。<br>\n防火墙没发疯的时候，只开有tor的虚拟机，用上meek就可以了<br>\n不行的话就开两个，把tor的代理指向privoxy开放的端口。","date":"2020-02-01","agreeCount":2,"discussionCount":0}

@@ -1,0 +1,1 @@
+{"type":"article_comment","id":220763,"parentType":"article","parentId":10677,"uid":27874,"contents":"<blockquote>楼主有安卓上tor+前置代理的方案吗？我想用orbot+前置代理，但安卓不能设置手动设置代理。 </blockquote><br>\n<blockquote>所以安卓到底怎么弄？ </blockquote><br>\n安卓手机要让tor浏览器走vpn的话要装个privoxy，设置listen-address为127.0.0.1:9150","date":"2020-01-31","agreeCount":1,"discussionCount":0}
