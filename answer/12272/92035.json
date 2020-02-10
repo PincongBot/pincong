@@ -1,1 +1,1 @@
-{"type":"answer","id":92035,"parentType":"question","parentId":12272,"uid":14394,"contents":"别太紧张，换个VPN就行。品葱用的是cloudflare，光看VPN的连接IP记录是查不到你的，因为同个IP可能会有很多网站共享。账号密码是https加密传输，不会那么容易暴露。<br>\n<br>\n仅为个人判断，欢迎指正。","date":"2019-11-30","agreeCount":19,"discussionCount":2}
+{"type":"answer","id":92035,"parentType":"question","parentId":12272,"uid":14394,"contents":"别太紧张，换个VPN就行。品葱用的是cloudflare，光看VPN的连接IP记录是查不到你的，因为同个IP可能会有很多网站共享。账号密码是https加密传输，不会那么容易暴露。<br>\n<br>\n仅为个人判断，欢迎指正。","date":"2019-11-30","agreeCount":22,"discussionCount":2}

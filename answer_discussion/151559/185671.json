@@ -1,0 +1,1 @@
+{"type":"answer_discussion","id":185671,"uid":2482,"date":"2020-02-09","contents":"@28956:你可以改hosts  用国外的ping网站解析出品葱的ip，然后加进hosts文件里 这样上品葱就能绕过dns直接访问，防止被劫持","parentType":"answer","parentId":151559}

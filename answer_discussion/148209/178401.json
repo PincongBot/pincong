@@ -1,0 +1,1 @@
+{"type":"answer_discussion","id":178401,"uid":25544,"date":"2020-02-03","contents":"@20551:是的，看到那个$this-&gt;get_user_upvotes/downvotes_last_week($uid)被丢去calc_dynamic_reputation的$total时，还一直想不明白为什么要去看7天内的投票数量，后来才想到应该是鼓励谨慎投票，用越少越有影响力，避免滥投导致声望贬值变水。<br>\n<br>\n偏偏少点赞又会比较慢和比较少获得货币。","parentType":"answer","parentId":148209}

@@ -1,0 +1,1 @@
+{"type":"answer","id":158080,"parentType":"question","parentId":17882,"uid":18180,"contents":"win10同样的问题,希望有人能帮忙解决，也是ssr可以，v2ray不行，已关闭流量探测（软件和文件都关闭了）<br>\n&nbsp;&nbsp;&nbsp; 俺发现了，我用v2ray做前置代理，再配合obfs4网桥便可以正常链接了，网速并没有比单纯ssr变慢，不知道是为什么，应该不是机场屏蔽吧，不然为什么ssr可以。望专业人士出来解答一下","date":"2020-02-09","agreeCount":0,"discussionCount":0}

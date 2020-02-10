@@ -1,0 +1,1 @@
+{"type":"answer","id":158043,"parentType":"question","parentId":17882,"uid":5861,"contents":"如果你的客户端配置没问题的话。<br>\n可能是机场或者vps服务商ban了tor的入口结点。<br>\n也可能是服务端本身就配置了sniffing。<br>\n<br>\n你可以去找机场主问一问，不行的话就只能换机场或者自建。","date":"2020-02-09","agreeCount":1,"discussionCount":0}

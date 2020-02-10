@@ -1,0 +1,1 @@
+{"type":"answer","id":153003,"parentType":"question","parentId":17482,"uid":19167,"contents":"如果有條件自己搭建代理吧，可以申請一個域名讓Vray通過tls + websocket + nginx的方式翻墻。<br>\n具體教程：<br>\nhttps://www.xpath.org/blog/001531048571577582cfa0ea2804e5f9cb224de052a4975000<br>\n一鍵部署脚本：<br>\nhttps://github.com/wulabing/V2Ray_ws-tls_bash_onekey","date":"2020-02-06","agreeCount":3,"discussionCount":0}

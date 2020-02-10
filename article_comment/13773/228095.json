@@ -1,0 +1,1 @@
+{"type":"article_comment","id":228095,"parentType":"article","parentId":13773,"uid":13457,"contents":"<blockquote>如果真的想这么做的话，建议自己生成一对密钥就好了，不要用什么常用的邮箱来搞 gpg。其实号没了应该就...</blockquote><br>\n<br>\n不要把品蔥身份和日常生活的任一身份連結，一個身份應該使用一組密鑰，所以不可以和日常的郵箱綁在一起。我貼的公鑰裡面也是這樣的，就只有jcemao@pincong.rocks和jcemao@2049bbs.xyz兩個身份。","date":"2020-02-05","agreeCount":0,"discussionCount":0}

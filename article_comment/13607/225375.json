@@ -1,0 +1,1 @@
+{"type":"article_comment","id":225375,"parentType":"article","parentId":13607,"uid":16647,"contents":"<blockquote>去水印根本不需要p，点开F12，调下CSS样式即可 </blockquote><br>\n有一招可以防止删水印，红岸用过的，就是监测水印的DOM节点，一旦有人删，马上重新加，或者是清掉网页报错。<br>\n举例：<br>\nhttps://github.com/saucxs/watermark-dom<br>\nhttps://juejin.im/entry/5b55db355188251b11097366","date":"2020-02-03","agreeCount":3,"discussionCount":0}

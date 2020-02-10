@@ -1,0 +1,1 @@
+{"type":"article_comment","id":225397,"parentType":"article","parentId":13607,"uid":14442,"contents":"<blockquote>有一招可以防止删水印，红岸用过的，就是监测水印的DOM节点，一旦有人删，马上重新加，或者是清掉网页报...</blockquote><br>\n那直接禁用JavaScript是不是就无效了","date":"2020-02-03","agreeCount":0,"discussionCount":0}
