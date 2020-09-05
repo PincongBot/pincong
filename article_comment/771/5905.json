@@ -1,0 +1,1 @@
+{"type":"article_comment","id":5905,"parentType":"article","parentId":771,"uid":1847,"contents":"把 <pre>(add_time-1541639342)/3600/24</pre> 替换为 <pre>julianday(date(add_time, 'unixepoch')) - julianday('2018-11-08')</pre> 可读性更强一些","date":"2019-02-26","agreeCount":1,"discussionCount":0}
