@@ -1,0 +1,1 @@
+{"type":"answer_discussion","id":105,"uid":2,"date":"2018-11-15","contents":"@Hajime:可考慮平台數據庫定期備份，被大規模攻擊後，恢復到備份前狀態。損失一些內容，總比被破壞的不成樣子好。","parentType":"answer","parentId":68}
