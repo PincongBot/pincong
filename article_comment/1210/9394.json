@@ -1,0 +1,1 @@
+{"type":"article_comment","id":9394,"parentType":"article","parentId":1210,"uid":133,"contents":"那这个就没有任何意义，因为完全可以机器模拟，我只需要多线程（线程数为n），每个线程获取一个Cookies，发一个包等30秒再发一个包，就可以30秒注册n个小号。在下一个30秒内我只需要输入这些验证码，就可以无间断注册。","date":"2019-04-11","agreeCount":0,"discussionCount":0}

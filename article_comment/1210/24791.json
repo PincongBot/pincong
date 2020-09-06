@@ -1,0 +1,1 @@
+{"type":"article_comment","id":24791,"parentType":"article","parentId":1210,"uid":5000,"contents":"1. IP限制，同IP某固定时间限制<br>\n2. Java 个人签名认证（WebRTC etc），一个签名只能注册一个账号<br>\n3. Shockwave Flash cookie，一个 cookie 只能注册一个账号 <br>\n4. html5 调用 Javascript 调用 C# dll，之后即可读取主机辨识信息，包括MAC<br>\n<br>\n2-4 可以穿透 VPN、隐身浏览器、DNS","date":"2019-07-25","agreeCount":0,"discussionCount":0}

@@ -1,0 +1,1 @@
+{"type":"article_comment","id":253735,"parentType":"article","parentId":684,"uid":6967,"contents":"<blockquote>应该是mysql没连对，看看database.php </blockquote><br>\n已经解决了，的确是数据库设置没有对，谢谢","date":"2020-02-18","agreeCount":0,"discussionCount":0}

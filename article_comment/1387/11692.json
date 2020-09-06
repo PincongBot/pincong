@@ -1,0 +1,1 @@
+{"type":"article_comment","id":11692,"parentType":"article","parentId":1387,"uid":4766,"contents":"另外用匿名A、B、C等按顺序分配的匿名代号有个缺点，就是需要缓存表做用户映射，但这个映射表可以是每天清空一次。这样子同一个用户在不同日期匿名选择问题也会被分配不同的匿名代号。","date":"2019-04-27","agreeCount":2,"discussionCount":0}

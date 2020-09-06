@@ -1,0 +1,1 @@
+{"type":"article_comment","id":11156,"parentType":"article","parentId":1359,"uid":133,"contents":"改成一段时间之后再更新公开赞数比较好，随机数值没有意义，只要有变化多线程很快就查出来了，但延迟更新意义很大。只有被踩/赞的匿名用户本人可以实时看到自己的赞踩数，其他用户需要等待最长24小时才能看到变化，完美解决查匿名bug","date":"2019-04-26","agreeCount":0,"discussionCount":0}

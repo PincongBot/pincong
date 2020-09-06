@@ -1,0 +1,1 @@
+{"type":"article_comment","id":9408,"parentType":"article","parentId":1210,"uid":133,"contents":"匿名信息根本没写在数据库里，是写在本地log里的，所以查看匿名用户到底是谁需要登入服务器查看，会暴露安全性，品葱服务器的防火墙设置是仅开放443端口","date":"2019-04-11","agreeCount":0,"discussionCount":0}

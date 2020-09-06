@@ -1,0 +1,1 @@
+{"type":"article_comment","id":261085,"parentType":"article","parentId":6553,"uid":28850,"contents":"以新版Android系统（指Android7以及以上版本）来看，Google对Android打了很多补丁，直接通过漏洞获取root权限是很难成功的，只有通过第三方rec（如twrp）刷入magisk或supersu（已停更）才能获取root权限。所以这个软件很不可能（很难）获取超级用户权限","date":"2020-02-22","agreeCount":1,"discussionCount":0}

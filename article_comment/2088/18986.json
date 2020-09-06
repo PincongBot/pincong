@@ -1,0 +1,1 @@
+{"type":"article_comment","id":18986,"parentType":"article","parentId":2088,"uid":1434,"contents":"&gt; 关于定时爬取知乎热门社会性事件问题下的内容<br>\n<br>\n&gt; 经常发生社会性新闻后，知乎上的东西就会被删掉。关键是被删的回答和问题总是很“精华”的。<br>\n因此我在想，既然全站爬取知乎内容比较难，为何不搞一个项目专门在热点事件发生时，第一时间让爬虫去监控对应的知乎问题下的所有内容呢？<br>\n<br>\n&gt; 然后把数据公开。比如利用Github API存到Github上。当然，提供良好的前端页面的话，就更好了。","date":"2019-06-24","agreeCount":1,"discussionCount":0}

@@ -1,0 +1,1 @@
+{"type":"article_comment","id":11163,"parentType":"article","parentId":1359,"uid":133,"contents":"随机数值只要看变化还是可以查出来，多线程查5000用户只需要1秒，查到在你点赞之后变化的用户立刻依次尝试筛选特定用户，即可查到匿名究竟是谁。随机时间后更新赞踩可以有效解决这个问题","date":"2019-04-26","agreeCount":1,"discussionCount":0}

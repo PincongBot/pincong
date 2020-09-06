@@ -1,0 +1,1 @@
+{"type":"article_comment","id":253311,"parentType":"article","parentId":684,"uid":12037,"contents":"<blockquote>我搭建好服务器apache+mysql的环境后，设置了数据库， 把整个pincong的文件夹丢到了h...</blockquote><br>\n应该是mysql没连对，看看database.php","date":"2020-02-18","agreeCount":0,"discussionCount":0}

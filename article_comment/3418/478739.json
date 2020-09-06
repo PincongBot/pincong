@@ -1,0 +1,1 @@
+{"type":"article_comment","id":478739,"parentType":"article","parentId":3418,"uid":54298,"contents":"这跟网警没有关系，这种情况一般是学校用了WEB PROXY代理设备: 允许将特定的url, 例如twitter和favebook等转发到vpn, 其他所有url都转发给国内接入运营商通常提供的默认路由器上，自然也收GFW管控了。VOA这种政治敏感网站一般学校不会加到vpn bypass的列表，里去的，让师生访问这个网站是自找麻烦。","date":"2020-08-24","agreeCount":0,"discussionCount":0}

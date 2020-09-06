@@ -1,0 +1,1 @@
+{"type":"article_comment","id":254254,"parentType":"article","parentId":684,"uid":12037,"contents":"<blockquote>记录一下。ubuntu server 1604, LAMP&nbsp;mysql user=root, pas...</blockquote><br>\nschema删掉,重新建一个,再导入一遍,如果成功的话不应该有错误,aws_user表里面可以看到admin","date":"2020-02-20","agreeCount":0,"discussionCount":0}

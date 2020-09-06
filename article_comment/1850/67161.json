@@ -1,0 +1,1 @@
+{"type":"article_comment","id":67161,"parentType":"article","parentId":1850,"uid":14444,"contents":"按照原理来说，vpn只是加密内容（所谓的secrecy）但流量特征明显，现在墙的最大杀器应该是流量特征检测了（你去专利局搜搜可见一斑），而shadowsocks/v2ray之类专用翻墙软件在加密的基础上再把流量包装成普通网络流量（所谓的shadowy），应该更有效。","date":"2019-10-04","agreeCount":0,"discussionCount":0}

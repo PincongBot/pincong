@@ -1,0 +1,1 @@
+{"type":"article_comment","id":8232,"parentType":"article","parentId":1067,"uid":133,"contents":"已经补充技术实现细节，应该不是很困难，只要写两个内部API就好了（仅限服务器IP访问），也不用跨数据库操作。如果@admin 赞同，我可以代写controller","date":"2019-03-30","agreeCount":0,"discussionCount":0}

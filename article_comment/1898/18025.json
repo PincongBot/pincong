@@ -1,0 +1,1 @@
+{"type":"article_comment","id":18025,"parentType":"article","parentId":1898,"uid":2147,"contents":"多谢分享，不过v2ray不是必须配合nginx/apache， 可以直接开启websocket 到端口80/443经由cloudflare转发的","date":"2019-06-13","agreeCount":0,"discussionCount":0}

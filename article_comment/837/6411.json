@@ -1,0 +1,1 @@
+{"type":"article_comment","id":6411,"parentType":"article","parentId":837,"uid":2409,"contents":"我猜主要是他們相信IP洩漏並不會造成危險，因為Freenet把資料分塊，讓惡意攻擊者無法關聯IP和資料，因此他們也沒特別在意前置代理的支援。<br>\n據說Freenet被牆，不過我倒是看過武漢的IP。<br>\n另外，曾試過利用Tor和I2P代理Freenet，沒成功。","date":"2019-03-04","agreeCount":0,"discussionCount":0}
