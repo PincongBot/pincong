@@ -1,0 +1,1 @@
+{"type":"article_comment","id":486717,"parentType":"article","parentId":23635,"uid":30382,"contents":"你所指的思路与 Fire Chat 很类似，本质是一种 mesh network，多跳网络。<br>\n<br>\n只不过 Fire Chat 利用的是手机的蓝牙功能，你的方案利用的是无线电。<br>\n<br>\n这样的网络在中继节点不够的的情况下会很不稳定，甚至无法工作。而为了增加节点，比起每个人买一台无线电机器，每个人都下载一个类似 Fire Chat 的 App 显然现实得多。","date":"2020-09-01","agreeCount":2,"discussionCount":0}

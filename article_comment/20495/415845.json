@@ -1,0 +1,1 @@
+{"type":"article_comment","id":415845,"parentType":"article","parentId":20495,"uid":2482,"contents":"<a href=\"/article/item_id-415554#\" title=\"/article/item_id-415554#\"><blockquote>Tor 早就有天朝蜜罐节点了。俺不晓得 I2P 能不能像 Tor 那样排除特定国家/地区的节点。 </blockquote></a><br>\nI2P可以封锁单个节点，或者封锁 ip（段），通过编辑安装目录里的blocklist文件。","date":"2020-06-18","agreeCount":0,"discussionCount":0}

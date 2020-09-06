@@ -1,0 +1,1 @@
+{"type":"article_comment","id":464658,"parentType":"article","parentId":22661,"uid":18160,"contents":"这些策略都是修改在TCP协议栈<br>\n对普通用户不友好<br>\n<br>\n只能Linux系统的用户，自己修改tcp协议栈代码来实现了<br>\n<br>\n目前只能通过前置域名的方式来代替ESNI了。。。","date":"2020-08-08","agreeCount":2,"discussionCount":0}

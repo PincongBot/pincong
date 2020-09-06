@@ -1,0 +1,1 @@
+{"type":"article_comment","id":423070,"parentType":"article","parentId":20839,"uid":2482,"contents":"是不是没有给tor设置前置代理？点开以后进configure，勾选使用代理连接，把迷雾通的代理地址和端口（127.0.0.1:9910）填进去再连接。","date":"2020-06-26","agreeCount":0,"discussionCount":0}
