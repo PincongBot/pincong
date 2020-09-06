@@ -1,0 +1,1 @@
+{"type":"article_comment","id":155577,"parentType":"article","parentId":10472,"uid":11710,"contents":"<blockquote>禁用 JS 权限是否可行？ </blockquote><br>\n禁用js只會產生更多問題，網頁的動態內容基本只有js可以做（基本包括所有不需要刷新網頁的動作），例如之前品蔥的隨機水印就是js做出來的<br>\n比起禁用js，不如安裝強制https插件確保網頁不被竄改(前提該網站有使用https）","date":"2019-12-08","agreeCount":0,"discussionCount":0}

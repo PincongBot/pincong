@@ -1,0 +1,1 @@
+{"type":"article_comment","id":358199,"parentType":"article","parentId":15493,"uid":48205,"contents":"请问 我按照教程搭建成功 能正常上网<br>\n可是尝试开启CND时 将两处云朵变成橙色了<br>\n客户端也按教程把地址改成域名 ping出来也时变成CND的ip<br>\n可是却不能访问外网了 不知道是什么原因<br>\n客户端测试延迟ping 有时有结果有时显示timeout<br>\n用powershell ping域名时掉包率有50%-75%<br>\n<br>\n<br>\n&nbsp;","date":"2020-04-25","agreeCount":0,"discussionCount":0}

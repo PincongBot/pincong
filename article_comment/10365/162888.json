@@ -1,0 +1,1 @@
+{"type":"article_comment","id":162888,"parentType":"article","parentId":10365,"uid":13503,"contents":"<blockquote>俺发现一个“安全漏洞”：点 See plans 按钮打开的 URL 包含用户名和密码，macOS 无...</blockquote><br>\n这不算安全漏洞，这个密码在服务器端不是明文保存的，只是我没有做像样的cookie机制所以必须URL里页页带着密码才能验证。会到时候在网站端改变。<br>\n<br>\n需要把连接断开后退出，不然没有机会把迷雾通加上去的代理设置撤掉。","date":"2019-12-14","agreeCount":0,"discussionCount":0}

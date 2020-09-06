@@ -1,0 +1,1 @@
+{"type":"article_comment","id":190169,"parentType":"article","parentId":12103,"uid":23079,"contents":"密码法讲的是“加密法”（encryption algorithm），而不是password或者credential。一般人关心的是“商用密码”部分，主要是关于算法的标准和认证。法条里规定了由哪些部门制定标准、如何开展安全性检测和算法的进出口管制。这里面的风险在于商用密码检测认证时是否会将源代码提交给政府。尽管法条中规定密码管理部门不得泄漏商业机密，但是在实际中是否能够落实是个问题。","date":"2020-01-09","agreeCount":1,"discussionCount":0}

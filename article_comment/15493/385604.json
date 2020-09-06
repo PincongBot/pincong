@@ -1,0 +1,1 @@
+{"type":"article_comment","id":385604,"parentType":"article","parentId":15493,"uid":14025,"contents":"推一下<br>\n講講試完樓主的折騰方案，沒有CDN時連接狀況是可觀的（雖然延遲接近2秒）<br>\n但想使用CDN的時候，跟了你的方法，過了幾分鐘還是未能連線，但IP直連還是可以，是不是設定上有一些問題？CF下無論www和主域名都已經連上這個IP了，甚至網址也http連線成功，頗莫名其妙。","date":"2020-05-22","agreeCount":0,"discussionCount":0}

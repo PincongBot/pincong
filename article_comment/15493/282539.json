@@ -1,0 +1,1 @@
+{"type":"article_comment","id":282539,"parentType":"article","parentId":15493,"uid":25147,"contents":"大佬，我的nginx -t 显示配置没问题，但是访问网址显示404，nginx日志里显示如下<br>\n<blockquote>2020/03/04 20:11:25 [error] 15672#0: *132 open() \"/usr/share/nginx/html/fullchain.pem\" failed (2: No such file or directory)</blockquote><br>\n请问这是什么原因？","date":"2020-03-05","agreeCount":0,"discussionCount":0}

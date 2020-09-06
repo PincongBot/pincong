@@ -1,0 +1,1 @@
+{"type":"article_comment","id":297311,"parentType":"article","parentId":15493,"uid":35272,"contents":"<blockquote>校正服务器时间（和客户端时间不能超过90秒，和时区无关）时间不对就会报invalid user<br>\ninvalid user要在服务端log里面看，这需要打开log.</blockquote><br>\n大佬，我的机房在美国，时间默认是+0000，是不是要改成北京时间？<br>\n<br>\n谢谢","date":"2020-03-14","agreeCount":0,"discussionCount":0}

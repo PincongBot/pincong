@@ -1,0 +1,1 @@
+{"type":"article_comment","id":186661,"parentType":"article","parentId":10365,"uid":25558,"contents":"<blockquote>clone之后，到cmd/geph-client里跑go build .就行了 </blockquote><br>\nu缺少包文件 cannot find package 'github.com/xxxxxx' in any of : dnsproxy getmux dnsproxy listenners 等等包","date":"2020-01-06","agreeCount":0,"discussionCount":0}

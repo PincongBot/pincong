@@ -1,0 +1,1 @@
+{"type":"article_comment","id":303794,"parentType":"article","parentId":15960,"uid":2482,"contents":"啊这不就是裸tor嘛，用来搭中继节点用的。在torrc文件后面加几行字可以使本机变成一个tor流量中继。以前心血来潮想为tor网络做贡献，按着教程折腾了一番，最后因为大陆没法直连tor网络于是作罢<br>\n<br>\n顺道补充tor中继搭建指引：https://community.torproject.org/relay/","date":"2020-03-19","agreeCount":2,"discussionCount":0}

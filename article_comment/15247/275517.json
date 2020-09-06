@@ -1,0 +1,1 @@
+{"type":"article_comment","id":275517,"parentType":"article","parentId":15247,"uid":23944,"contents":"<blockquote>这可以维护一个汉字到笔画数的映射表，只要识别出汉字，找到表里对应的笔画数就可以了。我觉得乱序汉字，要...</blockquote><br>\n答案是英文字母啊。英文字母和漢字之間的關係才是難處理的那個。可以用線條連起來，也可以用顏色，用字體大小……有很多亂七八糟的方法可以表達字母和漢字的關係，人能處理而AI未必的那些。","date":"2020-03-01","agreeCount":0,"discussionCount":0}

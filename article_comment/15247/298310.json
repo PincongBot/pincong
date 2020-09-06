@@ -1,0 +1,1 @@
+{"type":"article_comment","id":298310,"parentType":"article","parentId":15247,"uid":23714,"contents":"Bug 反馈：<br>\n<ul><li>编辑器：添加“引用”之后打字会变成从右到左的反向顺序，或者其他奇怪的 bug。</li><li>影片类型不解析 BBCode。</li></ul><br>\n<br>\n建议：<br>\n<ul><li>未登录用户不能查看用户详情页面，提高爬虫抓取难度（之前有人提过 RFC，但他的建议是针对帖子）。</li></ul><br>\n<br>\n暂时想到这些，如果还有别的建议，以后再补充。","date":"2020-03-16","agreeCount":3,"discussionCount":0}

@@ -1,0 +1,1 @@
+{"type":"article_comment","id":275392,"parentType":"article","parentId":15247,"uid":20551,"contents":"<blockquote>驗證碼改加減乘除數學題行不行？另外，這個UID36525的用戶聲望怎麼窜到11了？？？ </blockquote><br>\n不行，算式里的符号很容易OCR，只要识别出来就可以破解。如果用数学题，最多在ocr之后再加一个求表达式的部分。","date":"2020-02-29","agreeCount":0,"discussionCount":0}

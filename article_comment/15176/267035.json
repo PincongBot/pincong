@@ -1,0 +1,1 @@
+{"type":"article_comment","id":267035,"parentType":"article","parentId":15176,"uid":17772,"contents":"我最近测试发现本站的封锁方式已经升级到了SNI阻断，而我记得前几个月封锁方式还仅仅是DNS污染，那时修改hosts就可以绕过封锁。封锁方式的升级无疑是对我们的工作的肯定。","date":"2020-02-25","agreeCount":49,"discussionCount":0}

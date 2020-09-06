@@ -1,0 +1,1 @@
+{"type":"article_comment","id":287295,"parentType":"article","parentId":15849,"uid":22394,"contents":"这个也太粗暴了一点，我觉得还是train一个LSTM网络，然后用Hidden state判断比较靠谱。","date":"2020-03-07","agreeCount":2,"discussionCount":0}

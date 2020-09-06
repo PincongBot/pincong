@@ -1,0 +1,1 @@
+{"type":"article_comment","id":163945,"parentType":"article","parentId":10966,"uid":23945,"contents":"<blockquote>我看到 AES-256-GCM 就预感到性能不会好，因为这个加密虽然强悍无比，也牺牲了速度，不能并发...</blockquote><br>\n网上说，大力推行GCM的原因是为了防止重放攻击。现在的科技破解是不可能的，搞破坏还是可以的。","date":"2019-12-15","agreeCount":0,"discussionCount":0}

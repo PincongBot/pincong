@@ -1,0 +1,1 @@
+{"type":"article_comment","id":280659,"parentType":"article","parentId":15176,"uid":34985,"contents":"作为一个新人，之前还奇怪，品葱的ip怎么没被封，doh+esni就可以直接访问，原来是套了cdn。<br>\n真希望ESNI早日普及，那时翻墙就更安全了。tls加密流量，DOH加密dns请求，ESNI加密域名，最后给自己的梯子套上CDN，隐藏ip，哈哈。","date":"2020-03-04","agreeCount":3,"discussionCount":0}

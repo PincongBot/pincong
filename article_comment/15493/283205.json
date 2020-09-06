@@ -1,0 +1,1 @@
+{"type":"article_comment","id":283205,"parentType":"article","parentId":15493,"uid":39770,"contents":"写的很详细呢！<br>\n这里说一下v2ray的缺点，配置链条逻辑非常混乱，各个模块之间互相干扰。不出问题还好，一有问题，不管是自己查错还是别人帮忙都非常困难。<br>\n<br>\n另外，CloudFlare目前几乎无法使用，丢包严重，时断时续，换了很多ip都一样不行。但是v2ray直连是没有问题的，目前没有发现任何干扰或限流的情况。","date":"2020-03-05","agreeCount":2,"discussionCount":0}

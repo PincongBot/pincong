@@ -1,0 +1,1 @@
+{"type":"article_comment","id":467057,"parentType":"article","parentId":12173,"uid":24962,"contents":"不管它有没有被破解，同一个VPS同时装了SSR 和V2RAY服务器，理想状态下，ssr速度快很多。但是去年沦陷纪念日前后一连上跑几分钟就没法再连上，断开等几十分钟再连可以连也是几分钟就断。这种明显就是流量被关注了。而马上改用V2RAY连，屁事没有，虽然速度比SSR慢很多，但从来没试过翻不出去，再慢也能翻出去。<br>\n说什么我也不会回去用SSR","date":"2020-08-12","agreeCount":0,"discussionCount":0}

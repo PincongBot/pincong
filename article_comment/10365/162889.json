@@ -1,0 +1,1 @@
+{"type":"article_comment","id":162889,"parentType":"article","parentId":10365,"uid":13503,"contents":"<blockquote>俺刚才看了下，DNS 恢复成了从路由器获取，设置成 127.0.0.1 之后可以打开官网。俺运行 y...</blockquote><br>\n需要在另一个控制台同时运行 ionic serve --no-open","date":"2019-12-14","agreeCount":0,"discussionCount":0}

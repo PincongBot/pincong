@@ -1,0 +1,1 @@
+{"type":"article_comment","id":274463,"parentType":"article","parentId":15402,"uid":469,"contents":"<blockquote>不是，站主不是能看IP的吗？同一个段的IP全封了不就行了吗</blockquote><br>\n这样做存在误伤许多人的风险（尤其是用Tor访问品葱的用户，因为Tor的节点是有限的），更何况品葱还可以通过DoH+ESNI直连，相当于一个反向代理，通过此方式访问品葱的用户也看不到真实IP（只能看到CloudFlare的CDN的IP），再说了这样还侵犯了用户的隐私，属于操作中的大忌","date":"2020-03-01","agreeCount":7,"discussionCount":0}

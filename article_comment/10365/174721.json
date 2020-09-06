@@ -1,0 +1,1 @@
+{"type":"article_comment","id":174721,"parentType":"article","parentId":10365,"uid":1185,"contents":"你好！如果墙的策略是：只允许可识别的流量通过；不识别的流量要么封，要么Qos。请问您会如何应对呢？国内的运营商针对UDP的Qos已经很普遍了，v2ex上有很多讨论。<br>\n鉴于这些原因，我认为您的方案似乎并不比tls有优势。","date":"2019-12-27","agreeCount":0,"discussionCount":0}

@@ -1,0 +1,1 @@
+{"type":"article_comment","id":297343,"parentType":"article","parentId":15493,"uid":35272,"contents":"<blockquote>这个和时区没有关系。关键是换算成UTC之后必须都是一样的。（相差不超过90秒） </blockquote><br>\n明白了。<br>\n我算了一下时间不超过90s。但是我现在的问题就是访问ws文件404但是可以正常不通过任何代理访问那个网站和v2ray没法用来访问外网的问题。前面的一致性也检查过了，没有问题，请大佬再费心指导一下，谢谢","date":"2020-03-15","agreeCount":0,"discussionCount":0}

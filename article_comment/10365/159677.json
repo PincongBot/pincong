@@ -1,0 +1,1 @@
+{"type":"article_comment","id":159677,"parentType":"article","parentId":10365,"uid":419,"contents":"<blockquote>关于“GUI”俺同样不喜欢 C++，俺喜欢 Rust，不过捏，GUI 目前是 Rust 的一块【短板...</blockquote><br>\n<br>\ntox仅仅是去中心，匿名性一般：<br>\n1、在双方能够直连的情况下(很容易达成)，暴露真实ip<br>\n2、即使己方路由器阻挡，只能通过relay通讯，也只有一个跳板，路径清晰<br>\n3、relay节点稀少，而且用户不在意自己连接到哪个relay，容易掉进蜜罐","date":"2019-12-11","agreeCount":1,"discussionCount":0}

@@ -1,0 +1,1 @@
+{"type":"article_comment","id":187226,"parentType":"article","parentId":11959,"uid":3487,"contents":"<blockquote>封删功能已滥用，因此不再对外开放，只对注销请求用户使用。 </blockquote><br>\n语言设计可能比较有问题：看到【封删】和【标记】两个按钮，绝大部分人都不会想到，常规意义上的“封禁”是标记功能。如果admin希望保留永久删除功能，把【封删】改为【永久删除账号】，把【标记】改为【违规处理】，大概可以起到更好的引导作用。","date":"2020-01-07","agreeCount":1,"discussionCount":0}

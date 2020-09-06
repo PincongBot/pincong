@@ -1,0 +1,1 @@
+{"type":"article_comment","id":262824,"parentType":"article","parentId":12029,"uid":469,"contents":"本来这玩意就是针对菊花搞得，西方厂商被菊花逼迫结为联盟，于是就开始追求联盟内部的设备通用化了，于是就提出了这样一个构想，其实就是相当于简化了网络硬件结构，将无法白盒化的设备尽可能的化简后的结果，类似于今天Intel平台主板固件白盒化的产物FSP（Firmware Support Parkage）那样，除了涉及商业机密的部分用闭源的二进制码发行外并只提供API供开发者调用外其他部分全开源","date":"2020-02-24","agreeCount":0,"discussionCount":0}

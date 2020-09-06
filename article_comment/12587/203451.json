@@ -1,0 +1,1 @@
+{"type":"article_comment","id":203451,"parentType":"article","parentId":12587,"uid":13068,"contents":"<blockquote>@老年人翻墙&nbsp; 我不明白的是，Alignments 里有多个 Identical Proteins，...</blockquote><br>\n如果是全基因组比对，可能由于基因序列太长，在alignments里面会把一个序列分开比对，注意看两边的序列数字。<br>\n如果是很短的序列，description和alignments应该是一一对应的","date":"2020-01-21","agreeCount":1,"discussionCount":0}

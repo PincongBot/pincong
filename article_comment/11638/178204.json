@@ -1,0 +1,1 @@
+{"type":"article_comment","id":178204,"parentType":"article","parentId":11638,"uid":4525,"contents":"建议使用bcrypt算法<br>\nsha256安全性并不是很高，对于掌握其他网站数据库的共匪来说，rainbow table容易建立<br>\nsha256撞库成功率还是有不少的","date":"2019-12-31","agreeCount":2,"discussionCount":0}

@@ -1,0 +1,1 @@
+{"type":"article_comment","id":326102,"parentType":"article","parentId":15247,"uid":20551,"contents":"【反馈bug】<br>\n<s>私信功能似乎参数设置错误，现在零威望账号也可以发送私信。<br>\n<br>\n我刚才用小号【？？？？】给大号发私信测试了一下，零威望用户现在没有私信限制。这是很严重的安全隐患，之前已经出现过一次参数设置错误，有人滥用私信群发广告的事件，望尽快修复。</s>","date":"2020-04-01","agreeCount":2,"discussionCount":0}

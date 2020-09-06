@@ -1,0 +1,1 @@
+{"type":"article_comment","id":171584,"parentType":"article","parentId":11305,"uid":18931,"contents":"对付所有“禁止复制”的网页，在PC上有一个万能的方法：<br>\n<br>\n1、打开网页控制台（一般是按F12）<br>\n2、复制文档里的body元素<br>\n3、打开about:blank<br>\n4、把body元素粘贴进去<br>\n<br>\n然后都可以随便复制谁也管不到你了。","date":"2019-12-23","agreeCount":0,"discussionCount":0}

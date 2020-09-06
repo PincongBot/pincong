@@ -1,0 +1,1 @@
+{"type":"article_comment","id":284773,"parentType":"article","parentId":15493,"uid":19145,"contents":"<blockquote>为何我把DNS改成CloudFlare的DNS时候，一定要让我输入IP地址？可是CloudFlare...</blockquote><br>\n你可以ping一下CLoudflare给你的域名服务器，上面会显示该域名服务器的地址，你填进去就好。","date":"2020-03-06","agreeCount":1,"discussionCount":0}

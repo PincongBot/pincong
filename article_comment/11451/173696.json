@@ -1,0 +1,1 @@
+{"type":"article_comment","id":173696,"parentType":"article","parentId":11451,"uid":9637,"contents":"V2ray和shadowsocks虽然是免费软件，自由软件，但是需要在服务端搭建，服务端不一定是免费的。<br>\n而你说的另外那些VPN、蓝灯等，和他们有个很大的区别就是软件方直接提供了可用的服务端。<br>\n一个是自己搭建服务端，一个是直接用他人提供的服务，显然前者对安全隐私更保险但是也更折腾，当然了，更保险但不是绝对的保险，毕竟IDC也不一定保险，比如在阿里云搭建shadowsocks，阿里云是可以看到你出站的数据的。","date":"2019-12-26","agreeCount":2,"discussionCount":0}

@@ -1,0 +1,1 @@
+{"type":"article_comment","id":289709,"parentType":"article","parentId":15493,"uid":20551,"contents":"<blockquote>大佬，有个问题弄不懂，还望有空指导下：就是cloudflare的域名服务器更改godaddy的总是显...</blockquote><br>\n能ping通就算成功。<br>\n不过最好搞清楚你的域名是哪家解析的，可以whois查询一下。","date":"2020-03-10","agreeCount":0,"discussionCount":0}

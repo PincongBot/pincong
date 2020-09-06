@@ -1,0 +1,1 @@
+{"type":"article_comment","id":246360,"parentType":"article","parentId":14641,"uid":25544,"contents":"<blockquote>但有些账号看不了，比如这个链接我点开就看不了 </blockquote><br>\n将链接从压缩的还原回去再换成IP应该是DNS的锅吧，可以试试看换Cloudflare的DNS或者谷歌DNS试试看（我不清楚墙内情况怎么设置，对你们来说是否会被发现）？","date":"2020-02-15","agreeCount":0,"discussionCount":0}

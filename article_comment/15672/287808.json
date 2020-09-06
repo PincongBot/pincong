@@ -1,0 +1,1 @@
+{"type":"article_comment","id":287808,"parentType":"article","parentId":15672,"uid":469,"contents":"<blockquote>这里显示百度云加速并不是因为使用了百度的服务器，而是为了照顾国内用户连不上谷歌reCaptcha，使...</blockquote><br>\n有可能，不过奇怪的是我上其他没被墙的使用CloudFlare保护的服务器海外站点（比如说萌百）的时候触发CloudFlare保护验证码却是Google的reCaptcha，而且不开VPN加载不出来，所以这玩意我觉得还是有问题的","date":"2020-03-08","agreeCount":1,"discussionCount":0}

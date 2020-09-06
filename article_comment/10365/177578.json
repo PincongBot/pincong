@@ -1,0 +1,1 @@
+{"type":"article_comment","id":177578,"parentType":"article","parentId":10365,"uid":24714,"contents":"<blockquote>1. 主要是UDP可以自己控制congestion control，并且可以实现multipath，...</blockquote><br>\n<br>\n我看过你的客户端代码，开头的包引用明显用了非对称加密x25519。免疫了重放攻击，啥时候放出服务端的代码？","date":"2019-12-30","agreeCount":0,"discussionCount":0}

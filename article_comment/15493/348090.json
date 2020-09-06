@@ -1,0 +1,1 @@
+{"type":"article_comment","id":348090,"parentType":"article","parentId":15493,"uid":47060,"contents":"大佬，第一次安装的时候成功了，后来换VPS再装的时候发现装完nginx之后网页没法打开（nginx状态正常，ping网页也能ping到捆绑ip），直连显示访问被拒绝，挂VPN访问显示网页未发送任何数据<br>\n而且我在本地控制台用curl -v显示80端口访问拒绝，换用别的VPS显示network unreachable，想了很久也想不明白是哪出了问题","date":"2020-04-16","agreeCount":0,"discussionCount":0}

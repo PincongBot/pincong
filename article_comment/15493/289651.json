@@ -1,0 +1,1 @@
+{"type":"article_comment","id":289651,"parentType":"article","parentId":15493,"uid":30071,"contents":"大佬，有个问题弄不懂，还望有空指导下：<br>\n就是cloudflare的域名服务器更改godaddy的总是显示 “我们无法显示您的 DNS 信息，因为您的域名服务器不是由我们管理的”，可是在用powershell ping下域名又显示能通，这个到底算是解析成功了还是没成功呢？<br>\n如果成功了，是不是就可以继续下一步了？<br>\n谢谢","date":"2020-03-10","agreeCount":0,"discussionCount":0}

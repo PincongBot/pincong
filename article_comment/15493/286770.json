@@ -1,0 +1,1 @@
+{"type":"article_comment","id":286770,"parentType":"article","parentId":15493,"uid":40963,"contents":"请问如果证书还在有效期内，想换服务器的话怎么把证书复制过去呢，我把letsencrypt文件夹复制过去以后 命令certbot certificates 找不到证书","date":"2020-03-08","agreeCount":0,"discussionCount":0}

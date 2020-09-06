@@ -1,0 +1,1 @@
+{"type":"article_comment","id":292204,"parentType":"article","parentId":15672,"uid":14137,"contents":"<blockquote>有可能，不过奇怪的是我上其他没被墙的使用CloudFlare保护的服务器海外站点（比如说萌百）的时候...</blockquote><br>\n还是觉得可疑。因为CloudFlare内网是能明文看到品葱的请求的，百度云加速如果能访问CF内网或者能读到CF的证书，那么中共就能看到所有直连用户的登录信息。","date":"2020-03-11","agreeCount":0,"discussionCount":0}

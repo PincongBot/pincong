@@ -1,0 +1,1 @@
+{"type":"article_comment","id":188981,"parentType":"article","parentId":12047,"uid":1,"contents":"<blockquote>讀了幾遍沒讀明白⋯是不是說超管雖然可以用admin發言，但是看不到admin的私信。因此，禮品卡是可...</blockquote><br>\n是的，你理解的没有问题。<br>\n超管使用admin发言是这样实现的：<br>\n威望达到一定数值后，文字编辑器旁会有一个“以admin名义发表”的选项，勾选后，发言人显示为admin.","date":"2020-01-08","agreeCount":1,"discussionCount":0}

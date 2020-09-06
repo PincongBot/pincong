@@ -1,0 +1,1 @@
+{"type":"article_comment","id":268356,"parentType":"article","parentId":15176,"uid":271,"contents":"<blockquote>我尝试过，不行。。。连接被重置推测原因一是网站不支持，二是voa被重点关照 </blockquote>目前只有Cloudflare的CDN支持，像Akamai这种根本不支持好吗，，，<br>\n自己搭网站的时候，倒是可以看看教程，添加一下支持（默认是不支持的），，，","date":"2020-02-27","agreeCount":4,"discussionCount":0}

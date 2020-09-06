@@ -1,0 +1,1 @@
+{"type":"article_comment","id":281294,"parentType":"article","parentId":15493,"uid":39875,"contents":"请问大神啊，我按攻略一步步搭建好了，win下的v2rayN可以正常使用，但是iOS下Shadowrocket怎么设置都不行呢，里面服务器和端口填的是vps的，UUID不用说了，就那一长串，算法auto，TLS选中，允许不安全选中，Peer名称写的是网站域名，混淆里面名称选websocket，服务器填的是www的全域名，路径写的是配置文件里的path/后面的字符串，带了斜杠，但是不能使用，不知道哪里错了","date":"2020-03-04","agreeCount":0,"discussionCount":0}

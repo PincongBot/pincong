@@ -1,0 +1,1 @@
+{"type":"article_comment","id":188739,"parentType":"article","parentId":10365,"uid":13503,"contents":"<blockquote>u缺少包文件 cannot find package 'github.com/xxxxxx' in ...</blockquote><br>\n你是不是放到gopath里编译了？需要clone到别的目录，用最新Go。因为使用modules。","date":"2020-01-08","agreeCount":0,"discussionCount":0}

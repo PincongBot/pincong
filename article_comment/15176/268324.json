@@ -1,0 +1,1 @@
+{"type":"article_comment","id":268324,"parentType":"article","parentId":15176,"uid":271,"contents":"<blockquote>我再次在手机上测试了Firefox 68.5.0，参考https://bugzilla.mozill...</blockquote>ESNI必须和DoH一起使用，因为要通过DNS绕过TLS 1.3发SNI让网站返回正确的证书，，，","date":"2020-02-27","agreeCount":8,"discussionCount":0}

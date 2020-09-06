@@ -1,0 +1,1 @@
+{"type":"article_comment","id":297363,"parentType":"article","parentId":15493,"uid":20551,"contents":"<blockquote>明白了。我算了一下时间不超过90s。但是我现在的问题就是访问ws文件404但是可以正常不通过任何代理...</blockquote><br>\n换成那个带log的配置文件，看下v2ray_access.log和nginx_error.log","date":"2020-03-14","agreeCount":0,"discussionCount":0}

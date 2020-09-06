@@ -1,0 +1,1 @@
+{"type":"article_comment","id":281940,"parentType":"article","parentId":15652,"uid":17987,"contents":"<blockquote>还不如for(int i = 0;i&lt;2001;i++){if(i + i取余1000 + i取余1...</blockquote><br>\n直接从1000开始循环不就得了，少循环1000次","date":"2020-03-04","agreeCount":0,"discussionCount":0}

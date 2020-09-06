@@ -1,0 +1,1 @@
+{"type":"article_comment","id":245970,"parentType":"article","parentId":14517,"uid":26126,"contents":"<blockquote>呀……請問一下是不是暫時還不支持dark mode？ </blockquote><br>\n不是很确定你的dark mode是怎么实现，不过你可以修改content.js里面的颜色数值，来得到让你满意的效果。","date":"2020-02-14","agreeCount":1,"discussionCount":0}

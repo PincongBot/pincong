@@ -1,0 +1,1 @@
+{"type":"article_comment","id":244611,"parentType":"article","parentId":14458,"uid":29073,"contents":"<blockquote>没学过统计学，武汉已经差不多千分之五的感染率了，百步亭40000人都不感染的概率接近0 </blockquote><br>\n<br>\n百步亭40000人都不感染的概率是不是该这样算：<br>\n武汉人感染概率是0.004，那么不感染的概率就是(1-0.004)=0.996<br>\n如果40000万人都不感染的概率就是<br>\n(1-0.004)^40000≈0<br>\n<br>\n小学生没文化真可怕。","date":"2020-02-14","agreeCount":3,"discussionCount":0}

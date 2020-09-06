@@ -1,0 +1,1 @@
+{"type":"article_comment","id":383049,"parentType":"article","parentId":15493,"uid":20551,"contents":"由于临近两会和六四纪念日，预期网络封锁将会加剧，特来更新此文。<br>\n<ul><li>增加了编译Nginx的内容(可启用TLS1.3和H2)。</li><li>增加了自行选择Cloudflare节点的教程。</li></ul>","date":"2020-05-19","agreeCount":3,"discussionCount":0}

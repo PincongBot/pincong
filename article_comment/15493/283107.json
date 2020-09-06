@@ -1,0 +1,1 @@
+{"type":"article_comment","id":283107,"parentType":"article","parentId":15493,"uid":25147,"contents":"<blockquote>配置文件填错了(证书路径填错，ngnix -t不会报错，但是无法访问网络) </blockquote><br>\n弄好了，不是配置文件的问题，把配置文件名字default.conf改成ngin短网址nf就好了，不太清楚是为什么。我的nginx版本是1.10.3，vps的系统是centos6.5。","date":"2020-03-05","agreeCount":0,"discussionCount":0}

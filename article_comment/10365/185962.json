@@ -1,0 +1,1 @@
+{"type":"article_comment","id":185962,"parentType":"article","parentId":10365,"uid":13503,"contents":"<blockquote>go model 怎么编译 因为不用go 提示缺少lib库 </blockquote><br>\nclone之后，到cmd/geph-client里跑go build .就行了","date":"2020-01-06","agreeCount":0,"discussionCount":0}

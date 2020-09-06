@@ -1,0 +1,1 @@
+{"type":"article_comment","id":282440,"parentType":"article","parentId":15672,"uid":15644,"contents":"<blockquote>不是这样的，我文中已经说了，要使用百度云加速需要先备案，然后才能在CloudFlare的后台开启，要...</blockquote><br>\n这就不清楚了。但是你图里是HTTPS连接，安全证书为CloudFlare官方证书，那么可以认为该连接内容无法被第三方篡改。<br>\n然而你的页面内容却是百度加速，只能证明你连接到的服务器是个使用CloudFlare官方证书的百度服务器。","date":"2020-03-05","agreeCount":4,"discussionCount":0}

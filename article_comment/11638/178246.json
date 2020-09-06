@@ -1,0 +1,1 @@
+{"type":"article_comment","id":178246,"parentType":"article","parentId":11638,"uid":23714,"contents":"<blockquote>建议使用bcrypt算法sha256安全性并不是很高，对于掌握其他网站数据库的共匪来说，rainbo...</blockquote><br>\nBCrypt 没那么安全了，不如 SCrypt，PHP 7.3 换成了 Argon2，这个算法更安全。","date":"2019-12-31","agreeCount":0,"discussionCount":0}

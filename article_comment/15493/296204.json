@@ -1,0 +1,1 @@
+{"type":"article_comment","id":296204,"parentType":"article","parentId":15493,"uid":20551,"contents":"<blockquote>老大，成功用你的方法，弄了2个梯子，谢谢啊。问题来了： 就是上传的网站那些模版， 只看到文字， 没有...</blockquote><br>\n这和服务端配置没有关系，我测了一下也没有遇到这个问题，<br>\n<br>\n看一下是不是模板的问题，或者是少传了什么文件？上传路径是/usr/share/nginx/html。模板上传好，打开应该类似于fig4.3.1那样。","date":"2020-03-13","agreeCount":0,"discussionCount":0}

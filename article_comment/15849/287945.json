@@ -1,0 +1,1 @@
+{"type":"article_comment","id":287945,"parentType":"article","parentId":15849,"uid":26126,"contents":"<blockquote>你这直接切片做比较的方法太粗暴了……就算不用神经网络 你也可以参考这个&nbsp;上面也有源码 </blockquote><br>\n1. 让我看csdn跟让反贼看百度百科没有本质区别<br>\n2. 他的那个similarity，跟我的算法没有本质区别……<br>\n3. 他的方法，用在所有人头上是 O(n^2)时间复杂度","date":"2020-03-09","agreeCount":0,"discussionCount":0}

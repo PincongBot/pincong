@@ -1,0 +1,1 @@
+{"type":"article_comment","id":173273,"parentType":"article","parentId":11380,"uid":23862,"contents":"<blockquote>请问原文经过诸如Base64、ROT47等手段编码后是否达到加盐的要求？ </blockquote><br>\n<br>\n可以，只要经过任何方式的编码后再加密（或编码）就能达到要求。但这个对于普通人意义不大，没必要把自己的密码去编码一次，经常修改就行了。","date":"2019-12-25","agreeCount":0,"discussionCount":0}

@@ -1,0 +1,1 @@
+{"type":"article_comment","id":287981,"parentType":"article","parentId":15849,"uid":26126,"contents":"<blockquote>你是一个个汉字统计，我是结巴分词成词，然后按你说的那样去处理3个词，3个词划分我挑选3这个数字，是因...</blockquote><br>\n我每5个字切一片，是你的【主谓宾】切片的一种近似，这两种方法最终给出的【抄袭指数】，不会差太远。<br>\n优点是我这个切片方式不需要借助任何分词工具，纯python不要库，而且速度非常快。对付ctrl+v绰绰有余。","date":"2020-03-08","agreeCount":0,"discussionCount":0}
