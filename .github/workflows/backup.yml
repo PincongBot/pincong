@@ -1,0 +1,78 @@
+name: Backup
+
+on:
+  workflow_dispatch:
+    inputs: {}
+  schedule:
+    - cron:  0 */6 * * *
+
+env:
+  FILES_DIR: "."
+  SITE_URL: https://pincong.rocks
+  UA: Mozilla/5.0 (rv:79.0) Gecko/20100101 Firefox/79.0
+  CONCURRENCY: 20 # The maximum concurrency of pincong.rocks is 20
+
+jobs:
+  backup:
+
+    runs-on: ubuntu-latest
+
+    strategy:
+      matrix:
+        backup_type: [user, topic, video]
+        include:
+          # article
+          - backup_type: article
+            start_id: 1
+            end_id: 10000
+          - backup_type: article
+            start_id: 10001
+            end_id: 20000
+          - backup_type: article
+            start_id: 20001
+          # question
+          - backup_type: question
+            start_id: 1
+            end_id: 10000
+          - backup_type: question
+            start_id: 10001
+            end_id: 20000
+          - backup_type: question
+            start_id: 20001
+            end_id: 30000
+          - backup_type: question
+            start_id: 30001
+      fail-fast: false
+
+    env:
+      BACKUP_TYPE: ${{ matrix.backup_type }}
+      START_ID: ${{ matrix.start_id }}
+      END_ID: ${{ matrix.end_id }}
+
+    steps:
+    # - uses: actions/checkout@v2
+      - uses: actions/checkout@v2
+        with:
+          ref: master
+          fetch-depth: 10
+          path: ${{ env.FILES_DIR }}
+
+      - uses: actions/setup-node@v1
+        with:
+          node-version: 12
+
+      - run: git config --global user.email bot@example.com
+      - run: git config --global user.name bot
+
+      - run: npm install
+
+      - name: main
+        run: npm run backup;
+
+      - name: commit
+        run: |
+          cd $FILES_DIR;
+          git add .;
+          git commit -m "$(date -uI)";
+          git push;
+

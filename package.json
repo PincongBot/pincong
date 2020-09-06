@@ -1,0 +1,9 @@
+{
+  "name": "new-pincong-backup",
+  "dependencies": {
+    "wecenter-backup-helper": "git+https://github.com/Xmader/wecenter-backup-helper.git"
+  },
+  "scripts": {
+    "backup": "node index.js"
+  }
+}
