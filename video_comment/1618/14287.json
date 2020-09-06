@@ -1,0 +1,1 @@
+{"type":"video_comment","id":14287,"parentType":"video","parentId":1618,"uid":44379,"contents":"上面这个Tor网关，可以装在OpenBSD上，号称世界上最安全的系统。安装OpenBSD时选中下面三个包就可以了：<br>\n<ul><li>bsd：内核</li><li>base66：全家桶</li><li>man66：manual</li></ul><br>\nBSD系统再算上V2Ray和Tor，占用硬盘不到300MB，平时挂在系统后台，几乎感觉不到占用资源。相比之下，CentOS选【最小安装】还要1.5GB，对于一个功能单一的网关来说实在太肥了。","date":"2020-03-30","agreeCount":4,"discussionCount":0}
