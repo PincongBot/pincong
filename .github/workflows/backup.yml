@@ -16,7 +16,7 @@ jobs:
   backup:
 
     runs-on: ubuntu-latest
-    continue-on-error: ${{ matrix.allow_fail }}
+    continue-on-error: ${{ matrix.allow_fail || false }}
 
     strategy:
       matrix:
