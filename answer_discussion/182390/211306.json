@@ -1,0 +1,1 @@
+{"type":"answer_discussion","id":211306,"uid":469,"date":"2020-02-28","contents":"@熊熊:本来就可以直连的，国际版火狐浏览器在设置里打开DoH，然后再到about:config里打开ESNI，即可直连大部分使用CloudFlare提供CDN服务的被墙网站","parentType":"answer","parentId":182390}

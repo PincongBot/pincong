@@ -1,0 +1,1 @@
+{"type":"answer_discussion","id":201620,"uid":469,"date":"2020-02-21","contents":"@HachikujiMayoi:主要是VisualStudio和Windows的关联比较紧密，再加上现有在Windows环境下的教程最多还是讲VS上C++的开发，以及最新的VS2017/2019相比上古的VC6.0的操作逻辑变动并不算太离谱，部分基础操作还是共通的，综合考虑所以才用这玩意，唯一的缺点就是占地太大了......真的无力吐槽微软的逻辑，装个VS系统盘至少要留4、50G的冗余（只装核心部分和VC++），还不允许装到其他盘里","parentType":"answer","parentId":172971}

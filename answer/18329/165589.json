@@ -1,0 +1,1 @@
+{"type":"answer","id":165589,"parentType":"question","parentId":18329,"uid":2333,"contents":"防火墙已经开始主动探测外部大流量，对于非443端口的大流量进行无差别封杀。v2ray活着是因为大部分用v2ray的都伪装成443流量。如果用ssr伪装成443，再挂一个假网站也可以骗过扫描。<br>\n着重强调一下，一定要做伪装，服务放在443，做个假网站应付扫描器。","date":"2020-02-15","agreeCount":6,"discussionCount":5}

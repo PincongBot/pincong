@@ -1,0 +1,1 @@
+{"type":"answer","id":168078,"parentType":"question","parentId":18603,"uid":28076,"contents":"上不去的話大家也可以試試修改一下DNS<br>\n用一些比較小眾一點的DNS，最好是能避免運營商DNS劫持的<br>\n運營商本身的DNS或多或少都會有一些問題<br>\n還有就是可以試試關掉IPv6，只用IPv4來連接可能會穩定一點","date":"2020-02-16","agreeCount":0,"discussionCount":4}

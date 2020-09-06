@@ -1,0 +1,1 @@
+{"type":"question","id":22222,"title":"为什么不试试给被墙的网站上反代+CDN？","uid":17712,"topics":[112],"contents":"有cloudflare的CDN加上DoH+eSNI，随便一个人都能部署一个域名+服务器去反代一个被墙的网站。<br>\n以前的话，这些网站的反代很容易就被封掉，所以没普及。但随着DoH+eSNI的普及，这个方法应该可以再次兴起了吧？<br>\n当然对于那些需要登录的网站上反代并不安全，但对各种媒体（BBC/nytimes等等）应该比较有用。","date":"2020-03-28","agreeCount":3,"discussionCount":2}

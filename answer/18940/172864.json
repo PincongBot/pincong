@@ -1,0 +1,1 @@
+{"type":"answer","id":172864,"parentType":"question","parentId":18940,"uid":33968,"contents":"安卓手機近幾個版本有一個問題：系統&amp;系統服務&amp;一些Google應用，都使用了硬編碼的GOOGLE-DNS。&lt;--系統沒有提供相關設置讓用戶自已配置。<br>\n<br>\n在中國，DNS都是偽造的，所以你沒辦法正常的解析到一些Google服務的服務器地址。<br>\n<br>\n有一些VPN協議並不能操作所有的網路流量，這類VPN可能無法讓使用了使用了硬編碼GOOGLE-DNS的功能正常運作。","date":"2020-02-20","agreeCount":3,"discussionCount":1}

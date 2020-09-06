@@ -1,0 +1,1 @@
+{"type":"answer_discussion","id":270135,"uid":26651,"date":"2020-04-24","contents":"@WhitTheNewBlu:你这个图上｢恒定斜率｣对应 log(dx/dt)=k･log(x)，解出来x(t)=[-t(k-1)]^(k-1)<br>\n然后请你结合结果说说你认为任何初值的k都必须明显下降才满意的理由。<br>\n<br>\n建议在掌握基本的数学工具的基础上点评坐标轴搞得很奇特的可视化数据，一般人不想被误导就老老实实看线性坐标k线图。","parentType":"answer","parentId":247599}

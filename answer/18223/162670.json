@@ -1,0 +1,1 @@
+{"type":"answer","id":162670,"parentType":"question","parentId":18223,"uid":10405,"contents":"我无意中发现一个方法可以判断，供参考。就是墙外的账号是不能下载墙内的微信的stickers的，比如，你用一个墙内的微信下载“专业斗图一”stickers，然后用这个微信账号发送任何一个刚刚下载的sticker去给要测试的微信账号。接下来在另外的那个微信账号上打开这个sticker下载，如果是墙外的，那你应该就会看到“Unavailable in this region”的提示；如果是墙内的，应该看到的就是“Add”的提示。也就能说明你微信版本是墙外还是墙内。","date":"2020-02-13","agreeCount":2,"discussionCount":0}

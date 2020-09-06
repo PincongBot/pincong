@@ -1,0 +1,1 @@
+{"type":"answer_discussion","id":210887,"uid":26219,"date":"2020-02-28","contents":"v2ray有个问题要注意一下。确保本地和服务器的时间要正确，时不时用ntp同步一下。我当时找这个问题，找了好几天。","parentType":"answer","parentId":183186}

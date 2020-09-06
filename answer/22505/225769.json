@@ -1,0 +1,1 @@
+{"type":"answer","id":225769,"parentType":"question","parentId":22505,"uid":30382,"contents":"实现加密和解密很容易，但把加密和解密的功能模块“嵌”到微信或者qq的客户端里面难度较大，要用到逆向工程。<br>\n比较现实的方式是利用网页微信，但腾讯很早之前就因为网页版微信被bot滥用的问题禁止掉了一大批用户登录网页微信的权限。至于Web QQ，那是上个时代的东西了。","date":"2020-04-02","agreeCount":0,"discussionCount":0}

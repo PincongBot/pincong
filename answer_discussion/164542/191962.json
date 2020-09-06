@@ -1,0 +1,1 @@
+{"type":"answer_discussion","id":191962,"uid":14442,"date":"2020-02-14","contents":"稍微纠正一下，混淆和伪装反而暴露了ssr，流量特征过于奇怪更容易被发现。目前传统ss只要使用aes-gcm, chacha-ietf-poly1305, xchacha20-ietf-poly1305这几种加密就是安全的，党国没有精确屏蔽的技术力","parentType":"answer","parentId":164542}

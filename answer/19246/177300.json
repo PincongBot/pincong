@@ -1,0 +1,1 @@
+{"type":"answer","id":177300,"parentType":"question","parentId":19246,"uid":7857,"contents":"简单来说，老牌VPN例如OpenVPN并不掩盖流量特征，告诉监控者，我就在用VPN。<br>\nShadowsocks和VMess更多是强调隐蔽性和混淆算法，不让监控者知道你在用VPN。<br>\n两者的CIA（完整性，保密性，可用性）都有所保证。","date":"2020-02-23","agreeCount":0,"discussionCount":0}

@@ -1,0 +1,1 @@
+{"type":"answer_discussion","id":252044,"uid":19471,"date":"2020-04-05","contents":"@freemyself:NAT模式将主机网卡作为路由，虚拟机通过主机网卡通讯。虚拟机对于主机是透明的。Bridge“桥接”即虚拟出一块物理网卡，从外部看来虚拟机和主机平行、独立的。","parentType":"answer","parentId":227780}

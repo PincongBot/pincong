@@ -1,0 +1,1 @@
+{"type":"answer","id":326280,"parentType":"question","parentId":19312,"uid":55322,"contents":"不管你学C还是学C++，请选用<b>最新版</b>的Visual Studio中的Visual C++（VC）。反对向初学者推荐VC98（VC6），因为落后跟不上形势；反对向初学者推荐Dev C++、Code::Blocks、C-Free等其他软件，因为它们除了小巧外没有什么功能能比得上VC，而且VC也是最普及的，最重要的是，教材编写者采用的例子都是用VC。","date":"2020-08-19","agreeCount":0,"discussionCount":0}

@@ -1,0 +1,1 @@
+{"type":"answer","id":162780,"parentType":"question","parentId":18220,"uid":30512,"contents":"@admin<br>\n<br>\n我相信：<br>\n1. 数据库多级备份应该是一直在做的。<br>\n2. 或许有定期模拟“异地恢复”的场景吧？没有的话，需要提上日程。<br>\nPS： 最近 502 的次数感觉越来越多了<br>\n<br>\n有了以上两点，即使被攻击，也很容易在另一个地方起来。","date":"2020-02-13","agreeCount":0,"discussionCount":1}

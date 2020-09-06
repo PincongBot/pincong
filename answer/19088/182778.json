@@ -1,0 +1,1 @@
+{"type":"answer","id":182778,"parentType":"question","parentId":19088,"uid":20734,"contents":"用什么隧道？哪一种协议？你这都没有说出来让人怎么猜？<br>\n隧道在翻墙方面指的是数据加密通道，协议指的是双方协商的加密协议？(大概吧)<br>\n<br>\n上隧道指 使用新的 翻墙工具 或者把 ssr的流量放到kcptun等加密通道中去&nbsp;<br>\n<br>\n猜测就是让你换新工具不要用ssr了，因为现在ssr已经不安全了。推荐用shadowsocks-libev因为速度快、资源消耗小、AEAD加密、插件多","date":"2020-02-28","agreeCount":0,"discussionCount":0}

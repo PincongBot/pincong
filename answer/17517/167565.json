@@ -1,0 +1,1 @@
+{"type":"answer","id":167565,"parentType":"question","parentId":17517,"uid":33010,"contents":"直接从大陆机房扯了一根实体光缆到了海外机房，并且接到了同一个交换机下。做iptables转发。这么干的人估计不多了吧…… 不是iplc。。而是两台机器都还海外……","date":"2020-02-17","agreeCount":1,"discussionCount":0}

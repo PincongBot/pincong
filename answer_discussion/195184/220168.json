@@ -1,0 +1,1 @@
+{"type":"answer_discussion","id":220168,"uid":17793,"date":"2020-03-06","contents":"@学英语玩游戏: 你预算那么少，那就只有最后一招了，买个XDA上有资源的红米手机，自己刷成AOSP版本的，系统层面肯定是没问题的，Bootloader层面就不要关心了，不是通缉犯用不着费那么大劲追踪你。<br>\n<br>\n但是需要一定的动手能力，自己解Bootloader锁，刷TWRP，刷底包，刷ROM，还要手机上弄梯子什么的。","parentType":"answer","parentId":195184}

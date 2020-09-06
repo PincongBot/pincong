@@ -1,0 +1,1 @@
+{"type":"answer","id":194816,"parentType":"question","parentId":20310,"uid":36001,"contents":"f服务器端的日志文件清楚地记录了每个IP的访问目标地址。但是内容是无法获知的。<br>\n然而最近的SS协议部分部分加密协议和版本又爆出了重放攻击，是可以通过漏洞获得全部的加密数据的。","date":"2020-03-06","agreeCount":0,"discussionCount":0}

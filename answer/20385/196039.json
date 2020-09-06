@@ -1,0 +1,1 @@
+{"type":"answer","id":196039,"parentType":"question","parentId":20385,"uid":40765,"contents":"说的 Trojan 协议很高大上，但是被网上的程序员扒皮后发现，其实…… 说白了就是简化版的 V2ray，区别就是反而少了伪装和加密设置。<br>\n<br>\n所以可以这样推理，墙应该是把 V2ray 内的一些设置和协议已经摸清楚了，但是一旦你不要了这些协议，用 Trojan 裸奔出去，可能觉得辣眼睛或什么其他理由，所以就无视了。<br>\n<br>\n从而 Trojan 这样幸存下来了。不过呢，在机场里不用加密你就出去，我也只能说……你胆子真的好大。","date":"2020-03-06","agreeCount":9,"discussionCount":9}

@@ -1,0 +1,1 @@
+{"type":"answer","id":175601,"parentType":"question","parentId":19088,"uid":469,"contents":"避开国人常用的VPS服务商，比如Vultr之类的，然后SSR据说用RC4能强些，不过速度很慢也不太安全，能上V2ray就上V2ray，但是别用VMess，VMess挂的很严重，最好在VPS上搭一个HTTPS站点来掩饰掩饰，买个域名配上CDN，别再用裸ip直连了，那个几乎百分百被封，最后敏感时期少用自建梯子看油管之类的，流量一大也会引起怀疑，以上内容均来自墙内玩自建梯子的朋友告诉我的经验，我自己并没有自建VPS，所以仅供参考","date":"2020-02-22","agreeCount":0,"discussionCount":4}

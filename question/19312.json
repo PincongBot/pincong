@@ -1,0 +1,1 @@
+{"type":"question","id":19312,"title":"有多少人用Visual Studio开发C和C++的？","uid":21889,"topics":[2584,10524],"contents":"别的不说，Visual Studio配置环境可以省很多事，我是真的无语了Eclipse+MinGW这一套。<br>\n<br>\n另外顺便发现Visual Studio自带的Clang最高对C支持到了C11。","date":"2020-02-24","agreeCount":0,"discussionCount":1}

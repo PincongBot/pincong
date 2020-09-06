@@ -1,0 +1,1 @@
+{"type":"answer","id":143314,"parentType":"question","parentId":16568,"uid":12274,"contents":"“密切接触者65537人”<br>\n严重怀疑他们的数据库只能存储两个字节（2^16=65536），爆表了所以解读为65537。","date":"2020-01-30","agreeCount":2,"discussionCount":0}

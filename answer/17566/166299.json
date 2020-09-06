@@ -1,0 +1,1 @@
+{"type":"answer","id":166299,"parentType":"question","parentId":17566,"uid":11188,"contents":"<blockquote>给微信加密？上次那个莫斯密码给我的想法，不知道可不可行 </blockquote><br>\n<br>\n可以通过HOOK 微信的消息发送和消息显示部分，用GPG实现微信的自动端对端加密。类似HTTPS，微信完全看不到内容","date":"2020-02-16","agreeCount":1,"discussionCount":0}

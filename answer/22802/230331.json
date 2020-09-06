@@ -1,0 +1,1 @@
+{"type":"answer","id":230331,"parentType":"question","parentId":22802,"uid":33968,"contents":"Android系統在編譯時有一個參數\"TCP擁塞算法\"對VPN的速度產生很大影響。<br>\n你可以重新編譯一下手機的系統，或者中轉一下VPN流量。","date":"2020-04-05","agreeCount":1,"discussionCount":0}

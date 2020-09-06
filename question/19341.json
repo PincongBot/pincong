@@ -1,0 +1,1 @@
+{"type":"question","id":19341,"title":"有哪些安全的git hosting service?","uid":24704,"topics":[2198,1485],"contents":"打算开发一些可能会被查水表的东西，但是用github又觉得不安全（被微软收购）。github每次登陆八成会记录你的ip、设备、possibly mac地址，这些极大的增加了共匪的社工手段<br>\n<br>\n但是v2ray开发都在GitHub上，所以GitHub应该是安全的？ 还是v2ray还不够大，等大了就该拉清单了？","date":"2020-02-25","agreeCount":0,"discussionCount":0}

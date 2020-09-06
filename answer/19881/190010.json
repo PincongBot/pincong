@@ -1,0 +1,1 @@
+{"type":"answer","id":190010,"parentType":"question","parentId":19881,"uid":1021,"contents":"一：学习社工常识<br>\n二：用 虚拟机 隔离不同安全等级的操作系统和软件<br>\n三：用 Tor over VPN 做虚拟机的网络隐身<br>\n四：用 ZFS/LUKS/VeraCrypt/bitlocker 做虚拟机磁盘文件所在分区的加密<br>\n<br>\n做好一二三条可以让东厂找不到你。<br>\n做好第四条可以让东厂找上门也没法用你电脑里的数据把你定罪，如果你不怕刑讯逼供的话。","date":"2020-03-02","agreeCount":1,"discussionCount":2}

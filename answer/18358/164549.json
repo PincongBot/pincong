@@ -1,0 +1,1 @@
+{"type":"answer","id":164549,"parentType":"question","parentId":18358,"uid":28997,"contents":"我的自用ss-libev服务器去年八月被封ip，平时就看看Twitter，看看新闻，流量也不是很大，然后就被封了。据说非tls加密的流量都不安全，ssr的混淆功能反而更容易被识别。现在的方案是用ws转发v2ray，再套的cloudflare的CDN和ssl证书。速度也说的过去。其他的新协议比如trojan gfw 也可以试一下","date":"2020-02-14","agreeCount":2,"discussionCount":3}

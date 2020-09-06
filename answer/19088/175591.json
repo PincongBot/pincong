@@ -1,0 +1,1 @@
+{"type":"answer","id":175591,"parentType":"question","parentId":19088,"uid":35252,"contents":"关键时期不要用TCP代理。过时的SSR，原版的Shadowsocks都不要用。而最近开始，v2ray VMess和Shadowsocks-libev AEAD也被识别。所以我目前的建议是：用trojan或v2ray +nginx/caddy + TLS。","date":"2020-02-22","agreeCount":0,"discussionCount":0}

@@ -1,0 +1,1 @@
+{"type":"answer_discussion","id":240554,"uid":7834,"date":"2020-03-24","contents":"AV号类似UID，正常int型都是几十亿级别，更别说bigint了，咋可能用完","parentType":"answer","parentId":216775}

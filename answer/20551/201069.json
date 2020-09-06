@@ -1,0 +1,1 @@
+{"type":"answer","id":201069,"parentType":"question","parentId":20551,"uid":30572,"contents":"楼主是想独自创新一种流量传输协议还是给现有的协议带个套做成client呢？后者的话看平台，Android的话kotlin吧，pc端Python/Go，C++学习曲线太陡了不建议。前者的话我也不知道，创新这种东西都是可遇不可求的，而且需要很长的时间积累<br>\n<br>\n另外软件这种东西单打独斗基本上比较困难，个人开发者我觉得能做到不出重大bug下给v2ray-core 这种带个套已经很不错了（当然本质上还是玩具）","date":"2020-03-11","agreeCount":0,"discussionCount":0}

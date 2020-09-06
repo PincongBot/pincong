@@ -1,0 +1,1 @@
+{"type":"answer_discussion","id":191999,"uid":14442,"date":"2020-02-14","contents":"@mamay5:ss本身是一种无明显特征的tcp数据流，ssr的http和tls混淆都是刻意把自己伪装成别的网页流量的样子，但是报文内很多字段又和真实数据不同，反而增加了自己的特征。而且我印象里ssr也已经停止维护了","parentType":"answer","parentId":164555}

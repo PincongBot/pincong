@@ -1,0 +1,1 @@
+{"type":"answer","id":224824,"parentType":"question","parentId":22456,"uid":36515,"contents":"个人猜测是品葱使用了类似于ip reputation之类的服务，vpn和tor出口节点是公共出口会频繁连接各种网站，为了防止攻击者利用这些代理进行ddos只能全部拉清单，然后让tor和vpn用户让都填验证码了","date":"2020-04-01","agreeCount":5,"discussionCount":0}

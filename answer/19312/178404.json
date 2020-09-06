@@ -1,0 +1,1 @@
+{"type":"answer","id":178404,"parentType":"question","parentId":19312,"uid":18291,"contents":"Linux 環境，eclipse 只用來編輯，編譯單獨用 makefile 之類，配合 GCC 等進行。<br>\nC 主要用做 MCU 開發，調試用串口打印。","date":"2020-02-24","agreeCount":1,"discussionCount":0}

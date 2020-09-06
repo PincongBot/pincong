@@ -1,0 +1,1 @@
+{"type":"answer_discussion","id":264550,"uid":23714,"date":"2020-04-18","contents":"建议把“屏蔽分区”和“高赞模式”做成后端实现，作为帐号的一个属性，方便用户。因为 Tor 浏览器不保留 cookies。","parentType":"answer","parentId":243239}

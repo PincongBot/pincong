@@ -1,0 +1,1 @@
+{"type":"answer","id":235473,"parentType":"question","parentId":23186,"uid":33968,"contents":"網路相關你沒有撰擇，就是C/C++。<br>\n語言這東西不是通用的，每種語言都有它的應用場景。<br>\n網路技術堆因為性能的關係，需要直接操作記意體，所以都使用C/C++作開發。<br>\n各類網路工具軟體都是C/C++開發，網路硬體提供接口也是C。<br>\n<br>\n有一本入門書，&lt;UNIX網路編程&gt;，你可以先翻一下，可以了解一下自己是不是真的想學。","date":"2020-04-11","agreeCount":1,"discussionCount":0}

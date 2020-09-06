@@ -1,0 +1,1 @@
+{"type":"question","id":17702,"title":"为什么不需要代理也能上品葱了？","uid":25198,"topics":[3033,1117],"contents":"如题，在hosts里面加入正确解析的ip并且在大陆ping得通的，把pincong.rocks解析到上面。<br>\n<br>\n就可以直接上了。我亲测有效，而且比开代理快多了，我现在就尝试没开代理。<br>\n<br>\n可见GFW没有封锁IP，只是污染了DNS。不知道什么时候这个方法会失效。<br>\n<br>\n搜索之后发现以前有人试过不用VPN上品葱，现在有点害怕被拉清单。改个名可以避免泄漏吗？","date":"2020-02-08","agreeCount":3,"discussionCount":3}

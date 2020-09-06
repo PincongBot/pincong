@@ -1,0 +1,1 @@
+{"type":"question_discussion","id":38842,"uid":467,"date":"2020-03-14","contents":"忘说了，v2ray也很难封锁，可是对外行来说太难折腾了。<br>\n<br>\nTrojan技术把数据包伪装成https流量，对传输内容使用TLS1.3算法加密，代理服务器都伪装成web服务器，为防止TCP阻断而使用UDP协议。<br>\n除非禁绝网站使用SSL加密，否则Trojan就总能畅行无阻。吐血推荐。","parentType":"question","parentId":21034}

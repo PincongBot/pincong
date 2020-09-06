@@ -1,0 +1,1 @@
+{"type":"answer_discussion","id":195706,"uid":28524,"date":"2020-02-18","contents":"@workingpaper:两台不同公司不同国家的vps都在同一时间出问题了，ip和端口都没被封，只是ssr的协议握手失败，已经重新部署v2ray和wireguard了，这两个目前都正常","parentType":"answer","parentId":165589}

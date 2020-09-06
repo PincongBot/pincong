@@ -1,0 +1,1 @@
+{"type":"answer_discussion","id":196274,"uid":28076,"date":"2020-02-17","contents":"@mamay5: 主要是走 IPv6 並不穩定，解析沒做好Routing可能會繞很遠，導致連接速度慢或者連接不上。一般調試的話都建議直接進光貓關閉IPv6功能，都走IPv4","parentType":"answer","parentId":168078}
