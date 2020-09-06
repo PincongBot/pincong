@@ -1,0 +1,1 @@
+{"type":"article_comment","id":298788,"parentType":"article","parentId":16251,"uid":5628,"contents":"<blockquote>应该没你想的那么乐观。这个盒子应该会访问以获取其他盒子的ip，类似BT里面的Tracker服务器。G...</blockquote><br>\n但是应该可以使用CloudFlare的CDN来解决部分的问题吧，就像V2Ray一样。毕竟GFW不可能把所有用CloudFlare的站点都封锁了啊。","date":"2020-03-16","agreeCount":0,"discussionCount":0}

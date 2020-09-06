@@ -1,0 +1,1 @@
+{"type":"article_comment","id":484922,"parentType":"article","parentId":17693,"uid":52346,"contents":"彩票的问题是这样的，比如中奖率是千万分之一，你开一千万次，中至少一次的概率是1 - (1 - 10^-7)^(10^7)=0.63. 其实就是1-1/e","date":"2020-08-31","agreeCount":0,"discussionCount":0}

@@ -1,0 +1,1 @@
+{"type":"article_comment","id":295078,"parentType":"article","parentId":16106,"uid":271,"contents":"可惜是假的，，，<br>\n像v2ray的（ws+tls）是没法与正常的HTTPS区分开检测的，还有既然都探测到VPN了，为什么不进一步说是哪个协议？PPTP？L2TP？IPsec？OpenVPN？WireGuard？<br>\nGFW YES又是什么鬼，，，不GFW又是什么鬼，，，<br>\n还有，为什么外网地址是域名？为什么不是IP？奇妙深刻，，，","date":"2020-03-13","agreeCount":8,"discussionCount":0}

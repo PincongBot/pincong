@@ -1,0 +1,1 @@
+{"type":"article_comment","id":294465,"parentType":"article","parentId":16076,"uid":9236,"contents":"<blockquote>现在检测技术太多了，不排除他们大量应用了深度学习技术，我也不敢确定。 </blockquote><br>\n可能性不太大，第一：数据量太大了。第二：现在的AI还是比较浅层次的，中文语义的分析还是比较难的。像微信现在拦截的敏感词，一般也就是正则表达式分析，图片就是hash值比较。","date":"2020-03-13","agreeCount":1,"discussionCount":0}

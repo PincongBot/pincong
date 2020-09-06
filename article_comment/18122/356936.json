@@ -1,0 +1,1 @@
+{"type":"article_comment","id":356936,"parentType":"article","parentId":18122,"uid":18160,"contents":"我觉得迷雾通作者的设计很厉害<br>\n其中cshirt2的newTransport函数<br>\n会把ecdhe得到的密钥做 blake2b.NewMAC(32, k)<br>\n<br>\n其中tinyss的 newSocket函数<br>\n会把ecdhe得到的密钥做hmac.New(sha256.New, k)<br>\nhmac，上面已经讲了，就不提了<br>\n<br>\nblake2b是一种新的hash算法","date":"2020-04-24","agreeCount":2,"discussionCount":0}

@@ -1,0 +1,1 @@
+{"type":"article_comment","id":444066,"parentType":"article","parentId":21757,"uid":23714,"contents":"Notepad++ 跟 vim 类似，属于 editor 而不是 IDE。当然，加装一些插件能当轻量级 IDE 用。<br>\n不过捏，notepad++ 主要的【硬伤】是只支持 Windows，因此很多程序员会用 sublime text、vscode 这些支持【跨平台】的 editor。","date":"2020-07-20","agreeCount":1,"discussionCount":0}

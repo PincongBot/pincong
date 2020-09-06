@@ -1,0 +1,1 @@
+{"type":"article_comment","id":298798,"parentType":"article","parentId":16251,"uid":28484,"contents":"<blockquote>但是应该可以使用CloudFlare的CDN来解决部分的问题吧，就像V2Ray一样。毕竟GFW不可能...</blockquote><br>\n嗯，这是一个解决方案。其实地址记录去中心化的方法很多，可以完全不依赖CDN或者任何中央服务器。并且从安全角度说，去中心化反而更安全。用户的数据肯定是以碎片化的方式记录在多个地点。不论从安全角度还是性能角度，采用中央服务器统筹的效果都不好。","date":"2020-03-16","agreeCount":0,"discussionCount":0}

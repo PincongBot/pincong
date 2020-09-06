@@ -1,0 +1,1 @@
+{"type":"article_comment","id":294541,"parentType":"article","parentId":16076,"uid":41931,"contents":"我明白您说的。我现在还是大三，深层次技术不敢确定也无法确定。但是我觉得类似于autoencoder，这种自编码神经网络的实现我觉得有一定可能性，计算代价并不算大，他只判断流量是正常的，还是不是正常的，像ss流量目前就有类似的技术去检测，上交有个申请专利是利用CNN去做ss流量分析。gfw的维稳费难保他们不会把IDS作为一个审查工具去使用。","date":"2020-03-12","agreeCount":0,"discussionCount":0}
