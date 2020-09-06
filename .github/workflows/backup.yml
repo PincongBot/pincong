@@ -22,19 +22,16 @@ jobs:
         backup_type: [user, topic, video]
         include:
           # article
-          - { backup_type: article, start_id: 1, end_id: 5000 }
-          - { backup_type: article, start_id: 5001, end_id: 10000 }
-          - { backup_type: article, start_id: 10001, end_id: 15000 }
-          - { backup_type: article, start_id: 15001, end_id: 20000 }
-          - { backup_type: article, start_id: 20001 }
+          - { backup_type: article, start_id: 1, end_id: 8000 }
+          - { backup_type: article, start_id: 8001, end_id: 16000 }
+          - { backup_type: article, start_id: 16001, end_id: 24000 }
+          - { backup_type: article, start_id: 24001 }
           # question
-          - { backup_type: question, start_id: 1, end_id: 5000 }
-          - { backup_type: question, start_id: 5001, end_id: 10000 }
-          - { backup_type: question, start_id: 10001, end_id: 15000 }
-          - { backup_type: question, start_id: 15001, end_id: 20000 }
-          - { backup_type: question, start_id: 20001, end_id: 25000 }
-          - { backup_type: question, start_id: 25001, end_id: 30000 }
-          - { backup_type: question, start_id: 30001 }
+          - { backup_type: question, start_id: 1, end_id: 8000 }
+          - { backup_type: question, start_id: 8001, end_id: 16000 }
+          - { backup_type: question, start_id: 16001, end_id: 24000 }
+          - { backup_type: question, start_id: 24001, end_id: 32000 }
+          - { backup_type: question, start_id: 32001 }
       fail-fast: false
 
     env:
