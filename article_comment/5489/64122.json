@@ -1,0 +1,1 @@
+{"type":"article_comment","id":64122,"parentType":"article","parentId":5489,"uid":8154,"contents":"linux下客户端是wireguard-tool的命令行，我把freewall-cmd都删了还没搞定，然后重新找了个脚本实验还是不行．这个不需要交换服务器和本地的public key吗？https://www.atrandys.com/2019/1681.html","date":"2019-09-29","agreeCount":0,"discussionCount":0}

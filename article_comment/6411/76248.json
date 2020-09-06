@@ -1,0 +1,1 @@
+{"type":"article_comment","id":76248,"parentType":"article","parentId":6411,"uid":15661,"contents":"好像理解有误, 我意思是VPS的IP被GFW封锁, 所以墙内无法连上VPS进行翻墙的情况, I2P由于工作原理的关系, 只要不是IP白名单或者协议白名单(即只允许常见常规协议, 发现未知协议数据流一律断开)就很难封锁.","date":"2019-10-10","agreeCount":0,"discussionCount":0}

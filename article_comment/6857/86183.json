@@ -1,0 +1,1 @@
+{"type":"article_comment","id":86183,"parentType":"article","parentId":6857,"uid":15300,"contents":"這個可以試試呢，但是有一個大問題在這裡？<br>\n<br>\n牆內真的只用 md5 進行檢測嗎？要是他們是用其他 hash algorthium 或者會檢測檔案大小的話，這個招數就沒用了。","date":"2019-10-20","agreeCount":0,"discussionCount":0}

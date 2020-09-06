@@ -1,0 +1,1 @@
+{"type":"article_comment","id":76236,"parentType":"article","parentId":6007,"uid":15140,"contents":"VPN不该译成‘虚拟个人隧道’，我个人喜欢‘虚拟专用网络’的译法； private这里是网络用语，private IP, public IP， 区别标准是可不可以通过互联网路由的；隧道是tunnel，而一个VPN可以是多点组成，也就是十几甚至上百条隧道、连接几千几万个终端互相可见；","date":"2019-10-10","agreeCount":1,"discussionCount":0}

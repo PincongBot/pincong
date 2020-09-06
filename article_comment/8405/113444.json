@@ -1,0 +1,1 @@
+{"type":"article_comment","id":113444,"parentType":"article","parentId":8405,"uid":18160,"contents":"你翻墙要么SS要么v2ray，这两个现在都是在模拟https+websocket的流量特征来逃避浏量嗅探<br>\n<br>\nhttps的握手，如果是tls1.2 很容易被被sni rst掉<br>\n甚至可以直接用root ca直接破解你在看什么web<br>\n<br>\n所以ca删除是最基本的安全保障<br>\n否则等于在GFW里裸奔","date":"2019-11-15","agreeCount":0,"discussionCount":0}
