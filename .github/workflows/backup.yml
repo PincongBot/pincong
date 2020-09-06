@@ -50,6 +50,12 @@ jobs:
         with:
           node-version: 12
 
+      - name: public ip
+        run: curl https://api.ipify.org
+      - name: test
+        run: |
+          curl $SITE_URL -H "User-Agent: $UA"
+
       - run: git config --global user.email bot@example.com
       - run: git config --global user.name bot
 
