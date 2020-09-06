@@ -1,0 +1,1 @@
+{"type":"answer","id":41862,"parentType":"question","parentId":7313,"uid":15,"contents":"不是手动备份<br>\n是crontab定时备份数据至github<br>\n<br>\n我们都是志愿者，能力有限，除非能够成立一支全职的开发团队，否则不会使用IPFS技术","date":"2019-08-22","agreeCount":1,"discussionCount":0}

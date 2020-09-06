@@ -1,0 +1,1 @@
+{"type":"answer","id":12983,"parentType":"question","parentId":2682,"uid":2409,"contents":"共同點:<br>\n1. 都經過第三方伺服器<br>\n2. 都能隱藏IP<br>\n<br>\n差異: <br>\n1. VPN的流量加密過<br>\n2. VPN處理所有流量，代理只處理一個程式的流量<br>\n<br>\n賽風既用了代理技術也用了VPN<br>\n它著重於突破封鎖，而非網路安全<br>\n若單純要翻牆，可以用賽風<br>\n翻牆後想幹大事，就不能用","date":"2019-03-15","agreeCount":0,"discussionCount":2}

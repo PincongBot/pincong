@@ -1,0 +1,1 @@
+{"type":"answer","id":40155,"parentType":"question","parentId":7089,"uid":2900,"contents":"GFW 是主要原因，python 和golang 的一些下载源直接就在封杀名单里<br>\n<br>\n另外 GFW 检测到从国外下载达到很小的一个上限，就干扰中断连接；体现出来就是下载不稳定，随时中断，一些不支持断点续传的下载源，永远不可能把软件完整的下下来。","date":"2019-08-19","agreeCount":2,"discussionCount":0}

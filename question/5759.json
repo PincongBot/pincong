@@ -1,0 +1,1 @@
+{"type":"question","id":5759,"title":"請問，近日本站網頁字體大小與字型變更是否為bug?","uid":2409,"topics":[],"contents":"最近發現本站網頁的字體一直變動，不知是否為站方故意為之?<br>\n印象中本來標題是h3，現在改成h4了，也可能是我記錯。<br>\n<br>\n另外，icomoon的woff，回傳header一直顯示403錯誤。<br>\n我推測和Tor有關，因為在其它網路環境下顯示200正常。<br>\n不知有沒有其它用戶也看到此變化?","date":"2019-07-19","agreeCount":1,"discussionCount":0}

@@ -1,0 +1,1 @@
+{"type":"answer","id":35440,"parentType":"question","parentId":6434,"uid":4563,"contents":"首先微内核这个概念是早就存在的，微内核与宏内核区别就是把大部分可以放到userspace的功能都放到userspace了，你要使用某些功能还是要去做的，特别强调微内核，潜台词就是这个内核目前很简陋。另外，现在手机跑不快不是内核的锅，是java的锅，是毒瘤app的锅，没啥好吹的","date":"2019-08-09","agreeCount":3,"discussionCount":1}

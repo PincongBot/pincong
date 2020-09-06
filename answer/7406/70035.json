@@ -1,0 +1,1 @@
+{"type":"answer","id":70035,"parentType":"question","parentId":7406,"uid":6616,"contents":"一般认为Signal App本身是安全的，它的唯一缺陷在于必须使用手机号注册，除此之外，它的协议按照密码学界主流公认的安全实践设计（而不像Telegram的MTProto自己造轮子），整套系统开源，不像WhatsApp有潜在的后门可能。<br>\n<br>\n不过，考虑到国产手机、国行手机可能会有后门，在那上面使用Signal是不能保证安全的。","date":"2019-11-01","agreeCount":0,"discussionCount":0}
