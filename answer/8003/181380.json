@@ -1,0 +1,1 @@
+{"type":"answer","id":181380,"parentType":"question","parentId":8003,"uid":20734,"contents":"最完美的方案是<br>\n<br>\nss-libev+obfs 处理tcp<br>\nchinadns+dns2socks 处理dns<br>\nipset+tproxy+iptables 全局透明代理<br>\n<br>\n做到dns udp tcp国内外分流无缝翻墙浏览<br>\n<br>\n我自己写了脚本用在路由器上效果非常好","date":"2020-02-26","agreeCount":0,"discussionCount":0}

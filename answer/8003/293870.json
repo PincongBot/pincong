@@ -1,0 +1,1 @@
+{"type":"answer","id":293870,"parentType":"question","parentId":8003,"uid":51884,"contents":"直接从GitHub上clone代码特别特别慢，后来我发现是因为GitHub CDN的DNS被污染了，改hosts表就可以变超快。<br>\n我自己搭了一个ss服务器，但是全部流量走ss也不划算。<br>\n我现在有块树莓派，我在想可不可以通过DNS-over-https将外国的DNS的缓存到本地，这样一些不那么敏感的数据可以走CDN快些？","date":"2020-06-22","agreeCount":0,"discussionCount":0}
