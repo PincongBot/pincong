@@ -1,0 +1,1 @@
+{"type":"article_comment","id":281877,"parentType":"article","parentId":15652,"uid":11946,"contents":"肺炎相加三次，和最後兩位數為01，所以肺炎是67。<br>\n考慮2001的百位數，漢x2+2的個位數為0，漢可以是4或9。但漢如果是9，武是甚麽正整數也不能取得2001。所以漢是4，導出武是1。<br>\n因此武x漢x肺x炎=1x4x6x7=168","date":"2020-03-04","agreeCount":3,"discussionCount":0}

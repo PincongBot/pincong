@@ -1,0 +1,1 @@
+{"type":"answer_discussion","id":314404,"uid":6576,"date":"2020-07-03","contents":"中国境内的DNS本就无法设置，上级路由会把请求拦截掉重定向回运营商的。","parentType":"answer","parentId":298533}

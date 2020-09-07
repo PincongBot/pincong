@@ -1,0 +1,1 @@
+{"type":"article_comment","id":420279,"parentType":"article","parentId":20708,"uid":33968,"contents":"1. 存在<br>\n2. 公網ip無法作偽<br>\n3. 翻墙要用ipv4。GFW是ipv4的，ipv6默認啟用了ipsec，gfw审查不了，所以會無差別限制ipv6的國際流量。","date":"2020-06-22","agreeCount":0,"discussionCount":0}

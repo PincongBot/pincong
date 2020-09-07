@@ -1,0 +1,1 @@
+{"type":"answer","id":290693,"parentType":"question","parentId":27334,"uid":5640,"contents":"默认情况下，Tor不会保留cookies信息，每次重启都需要登陆。<br>\n<br>\n你可以进设置中，假设使用英文版，搜索private：<br>\n<br>\n在Manage Permissions中删除所有例外情况。<br>\n在History中勾选Always use private browsing mode。<br>\n<br>\n更好的建议是，在翻墙的环境中，使用Google搜索Tor，并下载全新的英文版本。","date":"2020-06-17","agreeCount":1,"discussionCount":0}

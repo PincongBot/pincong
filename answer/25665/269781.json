@@ -1,0 +1,1 @@
+{"type":"answer","id":269781,"parentType":"question","parentId":25665,"uid":14482,"contents":"我在想有没有可能制造一些样本，比如在正常内容中稍加一些私货，让防火墙的神经网络在训练中把正常的内容也作为特征学习了去，这样就能增大假阳性。","date":"2020-05-22","agreeCount":2,"discussionCount":0}

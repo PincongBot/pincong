@@ -1,0 +1,1 @@
+{"type":"answer","id":164653,"parentType":"question","parentId":18358,"uid":30572,"contents":"没研究过加密方式，只是能识别属于ss流量吧，破译内容应该比较困难，另外我看GitHub上说gcm加密的更安全一些。<br>\n<br>\n至于墙的话，说实话它看到你们用一些奇怪的端口号多半就会判断为ss了，所以还是v2+TLS安全些。","date":"2020-02-14","agreeCount":1,"discussionCount":0}

@@ -1,0 +1,1 @@
+{"type":"answer","id":326470,"parentType":"question","parentId":30002,"uid":51002,"contents":"比如你用google的server，因为他的ip被墙了，所以即使来源为google的ip报文可以传入国内，国内向google的报文也发不回来，因此google的ip访问不了国内，虽然gfw主观上不是为了阻止国外防止国内，但是确实造成了连带影响","date":"2020-08-21","agreeCount":0,"discussionCount":0}

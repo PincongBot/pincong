@@ -1,0 +1,1 @@
+{"type":"answer","id":288378,"parentType":"question","parentId":27151,"uid":41163,"contents":"很赞赏这个想法，不过恕我直言，要实现可能需要更复杂的技术<br>\n防火长城不仅仅有基于域名的阻挡，也有基于IP的阻挡和基于关键词的阻挡<br>\n基于关键词的阻挡倒是可以用加密绕过，可是如果把若干伺服器的IP都列入黑名单了要怎么办呢","date":"2020-06-11","agreeCount":1,"discussionCount":2}

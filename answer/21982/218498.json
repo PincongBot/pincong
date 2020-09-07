@@ -1,0 +1,1 @@
+{"type":"answer","id":218498,"parentType":"question","parentId":21982,"uid":41052,"contents":"安装gpg4win，开源免费的，各自生成自己的公钥，再通过gmail交公钥，各自加密文件后通过firefox send服务传送文件，即使被拦截也没事，只要没有私钥就无法破译。","date":"2020-03-26","agreeCount":1,"discussionCount":0}

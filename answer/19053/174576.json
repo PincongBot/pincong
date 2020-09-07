@@ -1,0 +1,1 @@
+{"type":"answer","id":174576,"parentType":"question","parentId":19053,"uid":25631,"contents":"@约瑟夫习特勒<br>\n哪天你误触了就悲了（<br>\n没有 API 可以支援格式化。除非你设置 Tasker 操作手机，但是那样还是要先解锁。<br>\n唯一的办法是你自己编译一个 Virtual app，然后触发了操作就清空虚拟机内的数据。","date":"2020-02-21","agreeCount":2,"discussionCount":0}

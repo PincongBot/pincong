@@ -1,0 +1,1 @@
+{"type":"question_discussion","id":50299,"uid":17064,"date":"2020-04-18","contents":"int unificationDate=2016;<br>\nif(unificationDate==Time.year){<br>\n&nbsp;&nbsp;&nbsp; unificationDate=Time.year+4;<br>\n}<br>\nprint(unificationDate+\"是武统的最佳时机。\");","parentType":"question","parentId":23786}

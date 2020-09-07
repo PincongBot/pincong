@@ -1,0 +1,1 @@
+{"type":"answer","id":164078,"parentType":"question","parentId":18329,"uid":28524,"contents":"确实是，这回大概率是针对SSR的协议封锁的，我个人用的vps，从来没共享给其他人，主机是好的，但是ssr协议握手不成功，重新在vps上部署了wireguard才翻出来，打算多部署几种不同的VPN了，不然一个挂了，就看不到外面的世界了","date":"2020-02-13","agreeCount":2,"discussionCount":2}

@@ -1,0 +1,1 @@
+{"type":"answer","id":299698,"parentType":"question","parentId":28039,"uid":23693,"contents":"主流发行版的包管理器，例如apt和dnf，会验证软件包(deb和rpm包)的GPG签名，确保它只能是从上游站点镜像产生的，这样无论是哪一个镜像站，都无法让修改过的软件包通过检查。<br>\n<br>\n另外不要用http，21世纪了，tls1.3已经基本没有你能感觉到的延迟影响了，https可以防止你的数据流在运营商的服务器之间裸奔。","date":"2020-07-04","agreeCount":2,"discussionCount":0}

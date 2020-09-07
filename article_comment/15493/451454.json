@@ -1,0 +1,1 @@
+{"type":"article_comment","id":451454,"parentType":"article","parentId":15493,"uid":32878,"contents":"v2ray这类自创的协议我并不认为他们是安全的，这个理由就够了：SSL（TLS）这类在不断发展的、经过分析的协议都被发现有问题，正在不断地修正，更何况是自创的协议呢。姜还是老的辣，我搭建的VPS服务器从来只用TLS1.2/1.3。","date":"2020-07-26","agreeCount":0,"discussionCount":0}

@@ -1,0 +1,1 @@
+{"type":"article_comment","id":297270,"parentType":"article","parentId":15493,"uid":42348,"contents":"<b>求助眾大神，俺是小白，想一步步跟着做，做到 安装Certbot 這一步，輸入：yum install -y python36 &amp;&amp; pip3 install certbot<br>\n</b>得到：-bash: yum: command not found<br>\n請問如何是好？","date":"2020-03-14","agreeCount":0,"discussionCount":0}

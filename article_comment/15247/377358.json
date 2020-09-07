@@ -1,0 +1,1 @@
+{"type":"article_comment","id":377358,"parentType":"article","parentId":15247,"uid":6868,"contents":"<blockquote>以及純數字tag點進去不是該數字，而是對應的第N個話題，比如83是「時尚」。這樣會導致刪不掉83這個話題。</blockquote><br>\n<br>\n83 有什麼特殊含義嗎？之前處理過 1984 的問題，記得當時成功地將 1984 與一九八四的話題合併在一起，兩個 tag 也都能正常顯示，然而不知為何方才查看時 1984 變成了 Not Found，或許現在不允許數字 tag 了也說不定？","date":"2020-05-15","agreeCount":0,"discussionCount":0}

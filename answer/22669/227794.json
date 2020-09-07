@@ -1,0 +1,1 @@
+{"type":"answer","id":227794,"parentType":"question","parentId":22669,"uid":7553,"contents":"能改hosts的话，可以在里面加上这种屏蔽规则<br>\n<blockquote>127.0.0.1 www.weibo.com</blockquote><br>\n给每个墙内网站加一条就能把墙内网站全屏蔽掉<br>\n现在墙内没剩几个网站还有人用了，早就不是那种百家齐放的时代，全屏蔽掉不难","date":"2020-04-03","agreeCount":1,"discussionCount":0}

@@ -1,0 +1,1 @@
+{"type":"article_comment","id":457769,"parentType":"article","parentId":15493,"uid":48102,"contents":"请教，在电脑上使用v2rayN关闭跳过证书验证(allow insecure 的值为false）可以正常连接<br>\n而在ipad上的shadowrocket只有开启了允许不安全(勾选允许不安全）才能联网，否则无法联网<br>\n这可能是什么导致的呢？开启这个选项会带来安全问题吗？","date":"2020-08-01","agreeCount":0,"discussionCount":0}

@@ -1,0 +1,1 @@
+{"type":"article_comment","id":429674,"parentType":"article","parentId":384,"uid":52206,"contents":"如果用中文字拆散得到的笔画和部件做噪点，是否能干扰ocr识别？例如：勹 亻乛乚丿亠………如果大小尺寸与文字本身出现这些笔画时的尺寸【接近但不相等】，位置随机或者干脆叠加在原本的文字上，即使颜色一样，应该不干扰人眼阅读，不知这样能不能干扰程序识别？","date":"2020-07-04","agreeCount":0,"discussionCount":0}

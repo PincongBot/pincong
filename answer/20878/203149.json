@@ -1,0 +1,1 @@
+{"type":"answer","id":203149,"parentType":"question","parentId":20878,"uid":18160,"contents":"区块链是一个分布式的数据库。<br>\n为了保证数据的一致性，所以提出了共识算法。<br>\nPoW固然是一族共识算法，但是还有PoS算法【不浪费算力】，Paxos算法、Raft算法、拜占庭算法、PBFT 算法。。。<br>\n<br>\n如果，你一定要谈PoW这族算法，答案是只能浪费算力！","date":"2020-03-12","agreeCount":3,"discussionCount":0}

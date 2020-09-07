@@ -1,0 +1,1 @@
+{"type":"answer","id":187358,"parentType":"question","parentId":19869,"uid":31931,"contents":"用一个图算法可以像抓犯罪团伙那样揪出一堆互关互赞的小号，即设计一个闭包算法：<br>\n<br>\n1. 找到一个小号；<br>\n2. 找到这个小号有双向关联的帐号团体C<br>\n3. 按照高置信度制定判断小号规则R<br>\n4. 迭代，按照R剔除非小号群体c<br>\n5. 集体拉黑剩余小号","date":"2020-03-02","agreeCount":9,"discussionCount":2}

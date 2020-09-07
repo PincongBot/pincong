@@ -1,0 +1,1 @@
+{"type":"article_comment","id":297273,"parentType":"article","parentId":15493,"uid":20551,"contents":"<blockquote>得到：-bash: yum: command not found請問如何是好？ </blockquote><br>\n你的系统是Ubuntu吧…在VPS网页控制面板上重装点reinstall，系统选择成CentOS7就可以了。前面已经做过的操作（配置域名之类）不受影响。","date":"2020-03-15","agreeCount":0,"discussionCount":0}

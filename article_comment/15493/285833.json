@@ -1,0 +1,1 @@
+{"type":"article_comment","id":285833,"parentType":"article","parentId":15493,"uid":21587,"contents":"<blockquote>证书路径填错了，比如你的域名是www.alician.monster，路径应该填：/etc/lets...</blockquote><br>\n<br>\n感谢，vultr 上搞定了，但 ipv6 还是不行，显示 \"io: read/write on closed pipe\" ，我把 listen 改成了 \"0.0.0.0\" 或是直接注释掉都不行，大佬知道怎么解决吗？","date":"2020-03-06","agreeCount":0,"discussionCount":0}

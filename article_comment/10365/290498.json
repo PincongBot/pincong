@@ -1,0 +1,1 @@
+{"type":"article_comment","id":290498,"parentType":"article","parentId":10365,"uid":26126,"contents":"迷雾通的客户端（居然electron）臃肿程度<b>令人发指</b>。在主页还是提供一个geph-client only的下载比较好。<br>\n不是批评作者，只是觉得没有必要，electron一套搞下来也要费不少功夫，这么简单的界面，直接Tk一个不好嘛……<br>\n<br>\nwindows用户直接双击geph-client.exe即可运行迷雾通（命令行界面，但不影响使用。）","date":"2020-03-10","agreeCount":2,"discussionCount":0}

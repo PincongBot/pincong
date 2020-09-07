@@ -1,0 +1,1 @@
+{"type":"article_comment","id":329000,"parentType":"article","parentId":17097,"uid":26126,"contents":"你要修改文件存储机制，头像是上传到本地，而本地目录每次重启都会清空，所以只要重启一次就会丢失头像。<br>\n<br>\n你应该把用户上传的头像（以及其他任何文件）都存到你的数据库里去。","date":"2020-04-02","agreeCount":2,"discussionCount":0}

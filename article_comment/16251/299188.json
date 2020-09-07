@@ -1,0 +1,1 @@
+{"type":"article_comment","id":299188,"parentType":"article","parentId":16251,"uid":28484,"contents":"<blockquote>CDN应该不算是中央服务器统筹吧，只是能让你的数据看起来与浏览正常网站无异吧。 </blockquote><br>\n严格说不算中央服务器，可以理解为分布式的服务器。但是也并不是去中心化，因为CDN还是无法摆脱“服务器”，真正的去中心化是可以做到完全没有服务器的。","date":"2020-03-16","agreeCount":0,"discussionCount":0}

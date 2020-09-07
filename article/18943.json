@@ -1,0 +1,1 @@
+{"type":"article","id":18943,"title":"【霏艺所思】比特币PoW算法实现代码笔记","uid":18160,"topics":[9007,1080,9031],"contents":"https://github.com/bitcoin/bitcoin<br>\npow实现部分<br>\nmerkle实现<br>\nunivalue实现<br>\n<br>\n<br>\n练手的研究，看看通过量子算法【Grover搜索】能不能实现PoW的攻击。。。<br>\n所以必须先理解PoW在干嘛","date":"2020-05-17","agreeCount":4,"discussionCount":0}

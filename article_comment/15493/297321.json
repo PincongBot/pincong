@@ -1,0 +1,1 @@
+{"type":"article_comment","id":297321,"parentType":"article","parentId":15493,"uid":20551,"contents":"<blockquote>大佬，我的机房在美国，时间默认是+0000，是不是要改成北京时间？谢谢 </blockquote><br>\n这个和时区没有关系。关键是换算成UTC之后必须都是一样的。（相差不超过90秒）","date":"2020-03-15","agreeCount":0,"discussionCount":0}

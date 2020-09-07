@@ -1,0 +1,1 @@
+{"type":"answer","id":196017,"parentType":"question","parentId":20385,"uid":36067,"contents":"1. V2Ray 也有 WebSocket + TLS，還沒聽說用這種配置的被防火墻識別的案例<br>\n3. http 是明文傳輸，中間人可以輕易看到一切傳輸的數據，可以輕易地對數據進行截獲與修改。雖然我沒有用過 Trojan，但想必製作者應該是不會傻到忽略這一點的。","date":"2020-03-07","agreeCount":6,"discussionCount":6}

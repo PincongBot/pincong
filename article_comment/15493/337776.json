@@ -1,0 +1,1 @@
+{"type":"article_comment","id":337776,"parentType":"article","parentId":15493,"uid":44998,"contents":"您好&nbsp;博主！<br>\n我用你的方法成功配置了&nbsp;但是速度非常慢&nbsp; 我想是不是不支持tls1.3的原因，我的系统是centos7，openssl版本不是1.1.1，能不能指点下，怎么才能启动tls1.3支持，我搞了一个星期了，还是没成功！","date":"2020-04-10","agreeCount":0,"discussionCount":0}

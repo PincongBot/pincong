@@ -1,0 +1,1 @@
+{"type":"article_comment","id":277720,"parentType":"article","parentId":15493,"uid":20551,"contents":"<blockquote>使用 caddy 替换 Nginx 如何？&nbsp; </blockquote><br>\n理论上caddy配置要比nginx简单，因为可以自动配置证书。但caddy需要自己配置systemd守护进程，官方提供的脚本有坑，需要修改。此外caddy还有其它一些配置，对程序员很简单，但给新手增加了难度。<br>\n<br>\n综上教程里用nginx，只要简单复制粘贴命令，就可以搞定。","date":"2020-03-02","agreeCount":2,"discussionCount":0}

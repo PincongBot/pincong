@@ -1,0 +1,1 @@
+{"type":"article_comment","id":299666,"parentType":"article","parentId":15493,"uid":24041,"contents":"<blockquote>是用的certbot，我的/etc/nginx/conf.d/下默认有个ssh.conf，里面看到把...</blockquote><br>\n你按照楼主的教程，把配置文件放到/etc/nginx/conf.d/目录里面就可以了，这个目录就是用来放置nginx配置文件的，至于配置文件的名字是什么不重要，nginx重启后都会去读这个目录里面的所有配置文件的。","date":"2020-03-17","agreeCount":0,"discussionCount":0}

@@ -1,0 +1,1 @@
+{"type":"article_comment","id":435581,"parentType":"article","parentId":21358,"uid":11839,"contents":"我不太清楚这有什麼好大驚小怪，想搞個大新聞嗎？不要說拔出一塊磁碟，當時阿里還演示了整台server斷電都不影響任何數據。如果是單純的compute node，肯定是RAID1，單盤沒有任何影響；如果是data node，那麼至少也是3副本，整台server都關掉都不會有影響。而且這個事情多半是技術員在邊上宣稱“隨便拔出任何一塊都不會有問題，您可以試一下”於是……","date":"2020-07-10","agreeCount":0,"discussionCount":0}

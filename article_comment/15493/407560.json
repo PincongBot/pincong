@@ -1,0 +1,1 @@
+{"type":"article_comment","id":407560,"parentType":"article","parentId":15493,"uid":40802,"contents":"你好，我的nginx服务是正常的，可以科学。打开域名显示404 Not Found，上传网页目录后也是，重启服务也是。我的服务器没有nginx源，是按照回复里的安装源装上的。另外重启服务器后，nginx不会自动重启，要手动启动。麻烦您告诉我该怎么做？谢谢！","date":"2020-06-09","agreeCount":0,"discussionCount":0}

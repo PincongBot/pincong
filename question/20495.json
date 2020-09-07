@@ -1,0 +1,1 @@
+{"type":"question","id":20495,"title":"为什么备份数据没有password hash?","uid":26126,"topics":[1954,7594,153,6540,1548],"contents":"品葱的hash是bcrypt，爆破风险很小（除非密码极弱），可考虑公布。<br>\n<br>\n现在备份里没有hash，这样备份出来的品葱站，根本就没法登陆嘛。<br>\n<br>\n等品葱真的被橄榄，也复不了盘，只能全民小号从零开始炼。","date":"2020-03-07","agreeCount":1,"discussionCount":0}

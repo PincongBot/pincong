@@ -1,0 +1,1 @@
+{"type":"article_comment","id":413486,"parentType":"article","parentId":20383,"uid":21566,"contents":"<a href=\"/article/item_id-413217#\" title=\"/article/item_id-413217#\"><blockquote>第3题 有点麻烦 我的答案是站到977号位置比较简略的分析方法是通过，在3人到16人情况，分别进行分...</blockquote></a><br>\n这个模型是约瑟夫环，其递推公式可推广为P(n,k)=[P(n-1,k)+k]%n, k为每数到第k人便枪毙","date":"2020-06-15","agreeCount":2,"discussionCount":0}

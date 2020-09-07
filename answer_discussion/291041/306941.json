@@ -1,0 +1,1 @@
+{"type":"answer_discussion","id":306941,"uid":32807,"date":"2020-06-17","contents":"SSH tunnel不是很了解，翻墙圈子里也没几个人说，优缺点需要你自己去查，V2Ray你去看品葱的技术贴，简单说就是伪装成真正的网站骗过墙的流量识别和主动探测，而且可以用CDN隐藏本机IP，很稳定，并且是真HTTPS流量且走标准443端口，可抗QoS，去年国庆，今年64都很稳定","parentType":"answer","parentId":291041}

@@ -1,0 +1,1 @@
+{"type":"article_comment","id":299191,"parentType":"article","parentId":16251,"uid":28484,"contents":"<blockquote>比较好奇这种分布式云存储是怎么解决有硬盘下线的问题,多存几份吗 </blockquote><br>\n有大量的空间冗余。用户外挂的硬盘只有50%会增加到自己的容量里，冗余至少1倍。一定会有备份的。","date":"2020-03-17","agreeCount":0,"discussionCount":0}

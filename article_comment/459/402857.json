@@ -1,0 +1,1 @@
+{"type":"article_comment","id":402857,"parentType":"article","parentId":459,"uid":50980,"contents":"用过这个， tesseract 比较适合规整的文字， 如果文字不够规整，需要先把文字或编码如车牌或护照号等先定位，然后使用ROI （region of interest ) 后再用tesseract 识别。","date":"2020-06-05","agreeCount":0,"discussionCount":0}

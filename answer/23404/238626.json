@@ -1,0 +1,1 @@
+{"type":"answer","id":238626,"parentType":"question","parentId":23404,"uid":7834,"contents":"就算是v2ray+ws+tls也存在被阻断的可能性，TCP阻断、节点流量过大、简单的抽风、运营商问题、机房问题等，什么原因都有可能，不要太纠结这种问题","date":"2020-04-14","agreeCount":2,"discussionCount":2}

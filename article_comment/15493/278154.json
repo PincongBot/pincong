@@ -1,0 +1,1 @@
+{"type":"article_comment","id":278154,"parentType":"article","parentId":15493,"uid":38554,"contents":"<blockquote>理论上caddy配置要比nginx简单，因为可以自动配置证书。但caddy需要自己配置systemd...</blockquote><br>\n如果要v2ray不走ws走http/2必须用caddy。http/2本人没试过，相传比ws快，但又据说没有快多少没必要用。其它情况两个都差不多，我自己用的nginx","date":"2020-03-02","agreeCount":1,"discussionCount":0}

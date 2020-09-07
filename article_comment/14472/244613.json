@@ -1,0 +1,1 @@
+{"type":"article_comment","id":244613,"parentType":"article","parentId":14472,"uid":31774,"contents":"V2ray websocket+tls+web，是HTTPS翻墙，别人访问是个网站，你访问是代理。<br>\n搭建需要较多知识，先买个便宜VPS，然后在上面搭建个能HTTPS访问的网站，然后搭建V2ray。<br>\n<br>\n如果觉得麻烦就机场花钱买个号，被墙能自动换IP那种。","date":"2020-02-14","agreeCount":4,"discussionCount":0}

@@ -1,0 +1,1 @@
+{"type":"article_comment","id":275462,"parentType":"article","parentId":15247,"uid":20551,"contents":"<blockquote>這樣子也不行嗎？漢字表達式+噪點鬼畜+混亂排版 </blockquote><br>\n这个…破解这个验证码的难点不是数学题，而是OCR。如果攻击者知道品葱验证码是数学题，就会预先写好解题程序，然后等着OCR就可以了。<br>\n<br>\n不过识别汉字确实要难得多。现在AI识别印刷体效果也一般，更不用说验证码，特别是干扰+重叠+空间错乱。其实可以考虑汉字验证码。","date":"2020-02-29","agreeCount":1,"discussionCount":0}

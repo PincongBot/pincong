@@ -1,0 +1,1 @@
+{"type":"answer","id":175153,"parentType":"question","parentId":19088,"uid":30331,"contents":"ssr已被全面检测流量特性。aes256cfb已经是秒封端口号。大约十几分钟半小时左右就會封掉.同ip封端口号大约三四次就会墙ip。<br>\n建议v2ray或者libev aesgcm（好像不会检测。）或者最近火的trojan，但速度不如ss。","date":"2020-02-23","agreeCount":4,"discussionCount":1}

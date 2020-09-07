@@ -1,0 +1,1 @@
+{"type":"article_comment","id":281894,"parentType":"article","parentId":15652,"uid":34423,"contents":"<blockquote>&nbsp;笨办法全试一遍&nbsp; &nbsp; int i=1,j, k=10;&nbsp; &nbsp; for(j=1;j&lt;9;j++)&nbsp; ...</blockquote><br>\n还不如<br>\nfor(int i = 0;i&lt;2001;i++)<br>\n{<br>\nif(i + i取余1000 + i取余100 == 2001)return i;<br>\n}","date":"2020-03-05","agreeCount":2,"discussionCount":0}

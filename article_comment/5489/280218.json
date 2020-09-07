@@ -1,0 +1,1 @@
+{"type":"article_comment","id":280218,"parentType":"article","parentId":5489,"uid":13540,"contents":"<blockquote>那你还说ip被墙都不怕是指什么 </blockquote><br>\n有一段时间gfw封锁使用tcp阻断 症状就是可以ping 但tcp之类应用无法连接 如果是这wireguard 使用udp通讯是封锁不掉 但现在gfw使用更粗暴的办法 直接禁止所有通讯 但是如果有ipv6地址有可能还可以用","date":"2020-03-04","agreeCount":0,"discussionCount":0}

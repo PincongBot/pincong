@@ -1,0 +1,1 @@
+{"type":"article_comment","id":320029,"parentType":"article","parentId":16884,"uid":544,"contents":"<blockquote>这一步的逻辑跳跃有点大。。。为什么这个实验意味着墙可以检测出用户的流量？</blockquote><br>\n<br>\n@沉默的广场<br>\n<br>\n以 v2rayN 为例，allowInsecure 默认为 true（这个默认值默认不安全，可能是因为有些翻墙者技术水平不行，用的就是自签名证书）。假设翻墙者被中间人攻击，v2ray 不会拦截有问题的证书，https 就掩盖不了翻墙的流量了","date":"2020-03-27","agreeCount":3,"discussionCount":0}

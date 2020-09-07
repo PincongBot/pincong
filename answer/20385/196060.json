@@ -1,0 +1,1 @@
+{"type":"answer","id":196060,"parentType":"question","parentId":20385,"uid":29332,"contents":"个人觉得是V2ray简化版，降低了Vmess协议的加密程度（已确定），砍掉了TCP连接（待明确），从而提升了速度。上次测试时发现可以用V2rayN客户端连接Trojan，可见相似程度","date":"2020-03-06","agreeCount":5,"discussionCount":0}

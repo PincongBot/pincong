@@ -1,0 +1,1 @@
+{"type":"answer","id":183169,"parentType":"question","parentId":19550,"uid":9073,"contents":"vi /etc/v2ray/config.json<br>\n<br>\n把里边那堆网址删掉即可（可能得留一个，改成无意义的网址即可）。然后重启v2ray。<br>\n<br>\n如果要用tor 把sniffing从true改为false","date":"2020-02-27","agreeCount":0,"discussionCount":0}

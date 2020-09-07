@@ -1,0 +1,1 @@
+{"type":"article_comment","id":466933,"parentType":"article","parentId":11638,"uid":42325,"contents":"个人感觉还有另一个思路——AES-256，可以杜绝撞库的问题。<br>\n将自身ID进行加密，公布密文<br>\n需要证明的时候，再公布加密时使用的密码，如果密码能够正确解密出原本的ID，则密码为真","date":"2020-08-11","agreeCount":0,"discussionCount":0}

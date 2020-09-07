@@ -1,0 +1,1 @@
+{"type":"article_comment","id":248007,"parentType":"article","parentId":14272,"uid":27117,"contents":"<blockquote>实际上作为技术人员，这个很好破解。。。1. 乱序生成器。破解：1/ 拆字拆成单字2/ 去除冠词量词等...</blockquote><br>\n请问如果搞一个汉字拼音库，输入“通假字”（如：清风孢子浦），能否通过拼音比对的方式，比对到敏感词？这样的实施除了收集配音，工程量和难度大吗","date":"2020-02-16","agreeCount":0,"discussionCount":0}

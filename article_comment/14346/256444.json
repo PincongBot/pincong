@@ -1,0 +1,1 @@
+{"type":"article_comment","id":256444,"parentType":"article","parentId":14346,"uid":11,"contents":"<blockquote>救命呀，王小波那篇操作失误，中间对齐了。怎么改回左边对齐？？？ </blockquote><br>\n用那个&lt;&gt;（源代码模式），去掉[center ] 和[/center ]<br>\n<br>\n王小波🤩","date":"2020-02-21","agreeCount":0,"discussionCount":0}

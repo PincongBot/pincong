@@ -1,0 +1,1 @@
+{"type":"question_discussion","id":32952,"uid":469,"date":"2020-02-29","contents":"@tyiuo:不过有半开源的bios/uefi固件可以刷入，因为Intel开放了FSP（AMD也有类似的东西），提供了启动计算机所必须的API，任何人都可以调用以制作属于自己的主板固件","parentType":"question","parentId":19508}

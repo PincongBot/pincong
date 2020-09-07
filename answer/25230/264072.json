@@ -1,0 +1,1 @@
+{"type":"answer","id":264072,"parentType":"question","parentId":25230,"uid":42717,"contents":"<pre>这种DNS污染的方式曾经向中国大陆以外的用户造成影响。当美国和智利的用户试图访问热门社交网站如facebook.com和youtube.com还有twitter.com等域名，他们的域名查询请求转交给中国控制的DNS根镜像服务器处理，由于这些网站在中国被封锁，结果用户收到了错误的DNS解析信息，这意味着防火长城的DNS污染已影响国际互联网</pre><br>\n<br>\n估计是这类事件导致的","date":"2020-05-13","agreeCount":0,"discussionCount":0}

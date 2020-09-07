@@ -1,0 +1,1 @@
+{"type":"answer_discussion","id":192036,"uid":28524,"date":"2020-02-13","contents":"如果是ssr的话，最好是单独使用，避免共享给别人，加密方式要选比较强的，如果可以的话要用kcptun转成udp流量，udp不太容易被封，但是国内udp环境不好","parentType":"answer","parentId":164078}

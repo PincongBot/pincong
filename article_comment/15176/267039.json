@@ -1,0 +1,1 @@
+{"type":"article_comment","id":267039,"parentType":"article","parentId":15176,"uid":8916,"contents":"<blockquote>我最近测试发现本站的封锁方式已经升级到了SNI阻断，而我记得前几个月封锁方式还仅仅是DNS污染，那时...</blockquote><br>\n确实是，前段时间还可以直连，现在必须挂v","date":"2020-02-25","agreeCount":11,"discussionCount":0}

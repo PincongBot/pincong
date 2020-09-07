@@ -1,0 +1,1 @@
+{"type":"answer","id":246216,"parentType":"question","parentId":23992,"uid":6576,"contents":"Pandownload 的原理只是aria多线程下载而已，目前同样原理的软件还有很多，比如 Baidupcs-go (github) 也可以使用。<br>\n<br>\nPandownload 的服务器主要做的是部分链接解析和存储提取码的服务，在 greasyforks 也有类似的插件。<br>\n<br>\n在天朝连多线程下载都叫侵入计算机网络，⏩⏩","date":"2020-04-21","agreeCount":4,"discussionCount":0}

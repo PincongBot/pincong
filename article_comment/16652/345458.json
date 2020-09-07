@@ -1,0 +1,1 @@
+{"type":"article_comment","id":345458,"parentType":"article","parentId":16652,"uid":7850,"contents":"这类方式最大的问题是特征太明显，有可能被记为重点关注对象（虽然现在没有证据表明这一点），说穿了就是没有几个可用的安全公共信道，pastebin只能说勉强堪用。这种信息交换方式只应该用于简单的握手，为下一步通讯做准备。可是如果要线下劝说周围人使用PGP，为什么不直接跳过这一步？","date":"2020-04-15","agreeCount":1,"discussionCount":0}

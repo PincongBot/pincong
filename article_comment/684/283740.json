@@ -1,0 +1,1 @@
+{"type":"article_comment","id":283740,"parentType":"article","parentId":684,"uid":26126,"contents":"导入备份数据：<br>\n<br>\n$ wget ...pink.sql<br>\n<br>\n$ mysql db &lt; pink.sql<br>\n<br>\n即可。<br>\n<br>\n暂时仍缺 upload/ 的头像数据。","date":"2020-03-05","agreeCount":1,"discussionCount":0}

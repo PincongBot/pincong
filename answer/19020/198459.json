@@ -1,0 +1,1 @@
+{"type":"answer","id":198459,"parentType":"question","parentId":19020,"uid":41172,"contents":"不管什么情况 确认你的地址栏里包含 HTTPS安全标志 ，不排除有DNS劫持作为蜜罐，也就是你访问的不是真正的目标网站，而是一个假的网站，HTTPS会排除这样的陷阱。","date":"2020-03-09","agreeCount":0,"discussionCount":0}

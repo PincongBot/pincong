@@ -1,0 +1,1 @@
+{"type":"article_comment","id":282557,"parentType":"article","parentId":15672,"uid":36917,"contents":"这里显示百度云加速并不是因为使用了百度的服务器，而是为了照顾国内用户连不上谷歌reCaptcha，使用百度的验证码页面。很多其他套CF的站都是这样的。<br>\n不过，即便连接的服务器还在国外，百度作为验证码提供方，必定会以这个页面采集信息。为了隐私与安全着想，最好还是不要直连。","date":"2020-03-05","agreeCount":9,"discussionCount":0}

@@ -1,0 +1,1 @@
+{"type":"answer","id":211056,"parentType":"question","parentId":21412,"uid":31941,"contents":"谷歌浏览器的话，去https://whatleaks.com/检查一下，若是WebRTC那一行出现真实IP泄露，可以下载谷歌插件WebRTC Leak Prevent，选择第三项disable non-proxied UDP就行。","date":"2020-03-18","agreeCount":2,"discussionCount":0}

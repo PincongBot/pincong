@@ -1,0 +1,1 @@
+{"type":"answer_discussion","id":192285,"uid":32581,"date":"2020-02-15","contents":"@耄先生:我的建议是用aes系加密，不要混淆（混淆那边选择plain），这样流量特征不会显得特别奇怪。不过，有条件还是TLS。","parentType":"answer","parentId":164542}

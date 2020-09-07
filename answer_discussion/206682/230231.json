@@ -1,0 +1,1 @@
+{"type":"answer_discussion","id":230231,"uid":469,"date":"2020-03-15","contents":"RC4在特殊时段相比AES等加密算法流量特征相对不明显，在危险时期反而十分坚挺，虽然极不安全（比起使用DoH+ESNI直连还危险），但是套一层Tor即可解决安全问题，关键时刻能不能翻出来最重要，安全问题只要能翻出墙来也就是套层Tor的事情","parentType":"answer","parentId":206682}

@@ -1,0 +1,1 @@
+{"type":"article_comment","id":377766,"parentType":"article","parentId":18865,"uid":1300,"contents":"推倒防火墙的唯一办法，就是白名单。<br>\n<br>\n当你在墙内，能访问哪些网站都依赖于这份白名单时，就真的不需要防火墙了，因为不再需要它的分析和抓包过滤功能，把白名单做到每个城市或每个省份的交换机固件中，定时更新一下固件，就行了。","date":"2020-05-14","agreeCount":1,"discussionCount":0}

@@ -1,0 +1,1 @@
+{"type":"answer","id":292995,"parentType":"question","parentId":27425,"uid":51821,"contents":"这玩意就是有侦听能力的xor密码，传输1k有价值信息的同时传输了3k冗余，而且经典信道不防流量嗅探，整体安全性和SSR差不多","date":"2020-06-22","agreeCount":0,"discussionCount":0}

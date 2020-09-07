@@ -1,0 +1,1 @@
+{"type":"answer","id":251684,"parentType":"question","parentId":24386,"uid":17772,"contents":"任何不会按照政府的要求审查内容的RSS提供商都不可能长期稳定存在，服务器在国内的会被要求下线整改，服务器在国外的会被墙。<br>\n建议使用nextcloud加上RSS插件，自己在墙外的vps上搭建一个，此VPS顺便可以用来翻墙，一举两得。","date":"2020-04-28","agreeCount":0,"discussionCount":0}

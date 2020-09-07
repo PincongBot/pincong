@@ -1,0 +1,1 @@
+{"type":"article_comment","id":343111,"parentType":"article","parentId":15493,"uid":20551,"contents":"修正nginx配置一处问题：<br>\n配置文件里增加长连接：keepalive_timeout 3600 3600;<br>\n可以明显提高性能。","date":"2020-04-13","agreeCount":2,"discussionCount":0}

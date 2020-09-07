@@ -1,0 +1,1 @@
+{"type":"article_comment","id":403378,"parentType":"article","parentId":15493,"uid":51006,"contents":"大佬你好，由于想尝试TLS1.3，我按照教程编译了Nginx，但是配置文件似乎和yum安装的不通用，研究了很久也无法启动编译的Nginx服务，确定是配置文件问题，使用默认的配置文件就可以正常启动...大佬能给一个编译Nginx的配置方案吗？万分感谢！<br>\n=======================已解决<br>\n不死心又倒腾了几次，终于解决了，配置文件是通用的，是我写错了。","date":"2020-06-04","agreeCount":0,"discussionCount":0}

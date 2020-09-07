@@ -1,0 +1,1 @@
+{"type":"article_comment","id":259716,"parentType":"article","parentId":2710,"uid":469,"contents":"现在敏感时期已经是半白名单机制了，对加密流量进行随机丢包，只要不在所谓白名单（常用的微软更新服务器等）内的境外服务器非常规特征（常见的HTTPS等）加密流量一大就直接掐端口，如果换端口继续的话就随机封ip，结果每遇到敏感时期经常有被误伤到的服务器。","date":"2020-02-23","agreeCount":0,"discussionCount":0}

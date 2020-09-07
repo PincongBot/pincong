@@ -1,0 +1,1 @@
+{"type":"article_comment","id":307396,"parentType":"article","parentId":16449,"uid":31713,"contents":"几点建议：<br>\n1，解密最好加个验证码，防止自动审核工具升级到你的网站去自动解密。<br>\n2，密钥最好加盐，防止密钥被自动审核获取后使用相同算法本地解密。<br>\n3，密文最好能有一些隐蔽性，比如用一张图片，把密文隐藏为数字水印，防止被识别为无意义内容自动屏蔽。","date":"2020-03-21","agreeCount":2,"discussionCount":0}

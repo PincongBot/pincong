@@ -1,0 +1,1 @@
+{"type":"answer","id":293686,"parentType":"question","parentId":27576,"uid":24016,"contents":"互相可以ping通不是说明已经找到了吗？没搞懂需求是什么？<br>\n要是看ip地址大概就是类似这种命令吧&nbsp; arp -a |grep 你摄像头的mac地址","date":"2020-06-22","agreeCount":0,"discussionCount":0}

@@ -1,0 +1,1 @@
+{"type":"article_comment","id":283124,"parentType":"article","parentId":15493,"uid":20551,"contents":"<blockquote>弄好了，不是配置文件的问题，把配置文件名字default.conf改成ngin短网址nf就好了，不...</blockquote><br>\n你前面自动配置证书用的是certbot吗？为什么证书会在网页路径下？<br>\nusr/share/nginx/html/fullchain.pem","date":"2020-03-06","agreeCount":0,"discussionCount":0}

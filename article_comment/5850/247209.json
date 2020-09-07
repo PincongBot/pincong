@@ -1,0 +1,1 @@
+{"type":"article_comment","id":247209,"parentType":"article","parentId":5850,"uid":11,"contents":"发现合并后的一个feature：拿两个搏击俱乐部举例，主俱乐部从外面只显示自己本身的楼层数，进来后则显示了包含了合并另一个被合并俱乐部的楼层数。外面1401，进来1415（即包含了被合并的14层）。这没什么问题，只是大家没法正确的“翻页”了w","date":"2020-02-16","agreeCount":0,"discussionCount":0}

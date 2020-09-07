@@ -1,0 +1,1 @@
+{"type":"article_comment","id":464876,"parentType":"article","parentId":22661,"uid":271,"contents":"<a href=\"/article/item_id-464827#\" title=\"/article/item_id-464827#\"><blockquote>封锁所有ESNI，ESNI是TLS1.3的基础特性，基本等于是白名单了吧？现在网站基本都是HTTPS...</blockquote></a><br>\nESNI是TLS1.3的<b>可选</b>特性，也就是说要使用ESNI必须上TLS1.3，但是上TLS1.3不一定用ESNI，，，","date":"2020-08-08","agreeCount":6,"discussionCount":0}

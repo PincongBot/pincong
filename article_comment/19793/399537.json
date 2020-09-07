@@ -1,0 +1,1 @@
+{"type":"article_comment","id":399537,"parentType":"article","parentId":19793,"uid":31423,"contents":"新的bug已经出现，请不要再使用裸VMess<br>\n<a href=\"https://github.com/v2ray/v2ray-core/issues/2523\" rel=\"nofollow noreferrer noopener\" target=\"_blank\">vmess协议设计和实现缺陷可导致服务器遭到主动探测特征识别(附PoC)</a>","date":"2020-06-02","agreeCount":0,"discussionCount":0}

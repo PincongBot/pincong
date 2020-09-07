@@ -1,0 +1,1 @@
+{"type":"answer","id":163375,"parentType":"question","parentId":18255,"uid":26267,"contents":"我认为他想说的是驻点而不是拐点。<br>\n<br>\n驻点梯度为0，拐点的Hessian矩阵行列式为0<br>\n<br>\n驻点的Hessian的特征值如果有正有负，那么就是鞍点。<br>\n<br>\n驻点的Hessian如果是正/负定的，那么就是极小/大值。<br>\n<br>\n而拐点是凹凸性改变的点。<br>\n<br>\n他想表达的意思应该是疫情在一个鞍点上，要选择方向","date":"2020-02-13","agreeCount":0,"discussionCount":1}

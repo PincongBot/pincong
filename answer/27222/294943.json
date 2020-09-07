@@ -1,0 +1,1 @@
+{"type":"answer","id":294943,"parentType":"question","parentId":27222,"uid":18160,"contents":"https://github.com/libvirt/libvirt/blob/master/include/libvirt/libvirt-nodedev.h<br>\n<br>\n你可以從這個代碼開始讀起<br>\n<br>\nPS：我覺得你需要去看提問的藝術之類的書<br>\n我是完全沒看懂你想問什麽<br>\n<br>\n到底是捕獲host的mouse傳給guest<br>\n還是在guest裏create一個mouse，自己給這個mouse發指令？","date":"2020-06-24","agreeCount":0,"discussionCount":1}

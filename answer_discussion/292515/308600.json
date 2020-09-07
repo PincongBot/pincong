@@ -1,0 +1,1 @@
+{"type":"answer_discussion","id":308600,"uid":23945,"date":"2020-06-21","contents":"@币圈奇葩8964:很多软件（包括火狐，不包括chrome）只要ipv6tcp握手成功就一根筋连接ipv6，然后就会卡tls握手（连接的是国内网站，撞到了移动的跨国流量限速墙）。<br>\n<br>\n上次我爸打开一个政府网站半天打不开，把电脑的ipv6一关就打开了。<br>\n<br>\n所以对于电脑小白，电脑能上网是最重要的。","parentType":"answer","parentId":292515}

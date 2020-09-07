@@ -1,0 +1,1 @@
+{"type":"article_comment","id":286745,"parentType":"article","parentId":15493,"uid":21587,"contents":"<blockquote>SSL证书只绑定域名，跟IP无关，换IP之后原来的证书还是有效的。v2ray started是客户端...</blockquote><br>\n<br>\n我试了下 netcat -nv xxx 443，ipv4 的话是通的，v6就不通，请问是因为这个原因导致的v6连接失败吗？<br>\n<br>\n包括 netstat -nltp 返回的结果里，tcp6 中也没有 443。","date":"2020-03-08","agreeCount":0,"discussionCount":0}

@@ -1,0 +1,1 @@
+{"type":"answer","id":178390,"parentType":"question","parentId":19316,"uid":23689,"contents":"主力開發Arch+kde,lts kernel<br>\n<br>\nWindows 寫python也不錯，反正docker/wsl 能彌補缺*nix系toolchain的問題<br>\n<br>\nMac 還好，但還是bsd更好（茶<br>\n<br>\n其他Linux distro,非rolling release使用上不方便，pacman使我留在了arch&nbsp;","date":"2020-02-24","agreeCount":1,"discussionCount":2}

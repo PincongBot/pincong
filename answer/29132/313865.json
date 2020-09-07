@@ -1,0 +1,1 @@
+{"type":"answer","id":313865,"parentType":"question","parentId":29132,"uid":19884,"contents":"签名的作用是证明发布者没有被仿冒，而不是证明发布的内容无害<br>\nCNNIC，Wosign，Starcom的根证书的确被Windows， Firefox，Android之类的带默认证书的软件产品给移除了；如果你的系统或者浏览器里还有信任这些根证书，需要手工删除下","date":"2020-07-31","agreeCount":1,"discussionCount":0}

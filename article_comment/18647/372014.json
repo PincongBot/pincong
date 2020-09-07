@@ -1,0 +1,1 @@
+{"type":"article_comment","id":372014,"parentType":"article","parentId":18647,"uid":16360,"contents":"这不叫匿名。公共网络下，路由器可以伪造证书，劫持流量。除非你上网不登陆任何网站，不使用任何cookie，否则被中间人攻击，不但身份会被发现，密码都是人家的了。<br>\n<br>\n就算登陆VPN，但是要完成验证，你总要发送密码或者密钥吧？加密通道被劫持，你的身份和秘密就都泄露了。","date":"2020-05-08","agreeCount":6,"discussionCount":0}

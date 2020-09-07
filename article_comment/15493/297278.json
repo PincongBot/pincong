@@ -1,0 +1,1 @@
+{"type":"article_comment","id":297278,"parentType":"article","parentId":15493,"uid":35272,"contents":"<blockquote>看上去是v2ray那边的问题，再试试：1. websocket路径，nginx和v2ray是不是完全...</blockquote><br>\n<br>\n我改完log之后ws文件访问不了502错误了....","date":"2020-03-15","agreeCount":0,"discussionCount":0}

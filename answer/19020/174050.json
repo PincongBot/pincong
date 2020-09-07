@@ -1,0 +1,1 @@
+{"type":"answer","id":174050,"parentType":"question","parentId":19020,"uid":23945,"contents":"有的时候墙负荷过重，抽风了可以上。<br>\n<br>\n断了VPN后DNS缓存没有清除可能可以直连。<br>\n<br>\n改hosts一样可以连接。<br>\n<br>\n后面一长串代码是cloudflare的防cc攻击用的。<br>\n<br>\n当然，如果你是被警察盯上的高危群体，一定不能用直连，因为百度云加速与cf有合作。","date":"2020-02-21","agreeCount":0,"discussionCount":0}

@@ -1,0 +1,1 @@
+{"type":"article_comment","id":297301,"parentType":"article","parentId":15493,"uid":35272,"contents":"<blockquote>我测了一下配置文件应该没有问题。这个配置文件是保存在/root/下面，如果出问题就是没有这个目录的权...</blockquote><br>\n<br>\n哦，对了。刚才把您的代码复制粘贴过来之后改完上传完之后按照之前的测试的时候报错来着，貌似是少了个括号，然后我自己就加上了，错误就没有了。这个会不会有影响？","date":"2020-03-14","agreeCount":0,"discussionCount":0}

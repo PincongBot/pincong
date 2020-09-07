@@ -1,0 +1,1 @@
+{"type":"article_comment","id":285690,"parentType":"article","parentId":15493,"uid":20551,"contents":"<blockquote>首先感谢分享这么详细的教程！我先想装在自己的树莓派上（因为现在在国外，以后回国要用），跟教程稍微有点...</blockquote><br>\n证书路径填错了，<b>前面要加上www</b><br>\n<br>\n比如你的域名是www.alician.monster，路径应该填：<br>\n/etc/letsencrypt/live/www.alician.monster/fullchain.pem","date":"2020-03-07","agreeCount":0,"discussionCount":0}

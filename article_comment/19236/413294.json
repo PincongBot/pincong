@@ -1,0 +1,1 @@
+{"type":"article_comment","id":413294,"parentType":"article","parentId":19236,"uid":5640,"contents":"你的核心观点是“IP地址是明文，因此需要加密”吧？我个人认为互联网地址不需要加密（我无法给出足够深度的长篇大论）。 Tor确实建立了一套.onion域名到匿名地址的方案，这是该领域的成果，你应该去研究他们，而不是执着于你文章中的那些存在很多漏洞的解决方案。","date":"2020-06-16","agreeCount":0,"discussionCount":0}

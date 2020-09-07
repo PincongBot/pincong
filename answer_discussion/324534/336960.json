@@ -1,0 +1,1 @@
+{"type":"answer_discussion","id":336960,"uid":26379,"date":"2020-08-17","contents":"楼主部分正确，我用手机抓包软件可以抓取微信的数据包，里面可以看到通过微信访问的网址，但是却无法抓取messenger, line, WhatsApp等外国聊天软件的数据包，说明微信的确没有加密","parentType":"answer","parentId":324534}

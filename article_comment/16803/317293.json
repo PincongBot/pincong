@@ -1,0 +1,1 @@
+{"type":"article_comment","id":317293,"parentType":"article","parentId":16803,"uid":33839,"contents":"支持楼主观点。<br>\n&nbsp; 同为分布式系统～～～<br>\n<br>\n&nbsp;A 党天下是一尊天下，缺点是容易单节点故障。Master挂了或神经错乱，缺少补救措施或预警系统，眼睁睁看着整个系统跟着遭殃，损失惨重。<br>\n&nbsp;B 联邦制是HA高可用，能够极大缓解上一问题。 &nbsp;Master挂了就挂了，再换一个就行。系统大部分功能正常运转，损失可控。","date":"2020-03-26","agreeCount":4,"discussionCount":0}

@@ -1,0 +1,1 @@
+{"type":"answer","id":290996,"parentType":"question","parentId":27368,"uid":50897,"contents":"当然可以，不过墙已经可以很容易的识别大部分VPN协议了。<br>\n至于Csico的anyconnet 由于其客户群特殊性，虽然也很容易被识别，但土共不敢轻易封协议，只能搞搞小动作断断流什么的。<br>\n目前通用的主动连接VPN基本墙都有相应的手段来干扰，所以如果考虑稳定性，就要想办法用被动连接且新协议。","date":"2020-06-17","agreeCount":3,"discussionCount":0}

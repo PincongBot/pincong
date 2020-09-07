@@ -1,0 +1,1 @@
+{"type":"article_comment","id":280325,"parentType":"article","parentId":15493,"uid":32234,"contents":"<blockquote>你的系统是CentOS吗？如果是CentOS，把这条命令拆开，分开运行：yum install -y...</blockquote><br>\n谢谢大佬 感谢感谢 解决啦 麻烦您啦 这一步又出问题了 然后按同样的步骤上传nginx配置文件，Nginx的配置文件存储在 这一步有错误提示","date":"2020-03-03","agreeCount":1,"discussionCount":0}

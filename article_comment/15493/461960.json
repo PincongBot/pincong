@@ -1,0 +1,1 @@
+{"type":"article_comment","id":461960,"parentType":"article","parentId":15493,"uid":54445,"contents":"前段时间不知道为啥突然不能翻了，测试真链接延迟超时，v2rayN的信息显示400错误，于是重装系统又重新操作一遍还是一样的，再次重装之后去找了个Nginx+websocket+tls的一键脚本却可以翻了","date":"2020-08-06","agreeCount":0,"discussionCount":0}

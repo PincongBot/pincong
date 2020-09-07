@@ -1,0 +1,1 @@
+{"type":"article_comment","id":290366,"parentType":"article","parentId":5850,"uid":11,"contents":"<blockquote>这个我早就发现了。以前还没改版，个人主页链接的后缀还是UID的时候我试过艾特UID，成功了。但是我有...</blockquote><br>\n起不了数字id<br>\n另外标签如果是纯数字，uid会使用另一个数字。上次处理个8964。点进去是uid8964的标签。后来找到了8964的正确uid，好像是什么三千五","date":"2020-03-10","agreeCount":0,"discussionCount":0}

@@ -1,0 +1,1 @@
+{"type":"article_comment","id":243340,"parentType":"article","parentId":14412,"uid":16360,"contents":"<blockquote>哦，我想的是发帖时帖子的内容被送到服务器的时候，那时一般应该有代码负责在后台进行内容审查的。 </blockquote><br>\n<br>\n那个一般只是关键字过滤，用深度学习实现的说实话比正则匹配强不了多少。","date":"2020-02-13","agreeCount":1,"discussionCount":0}

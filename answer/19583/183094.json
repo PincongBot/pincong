@@ -1,0 +1,1 @@
+{"type":"answer","id":183094,"parentType":"question","parentId":19583,"uid":35924,"contents":"用的某个云主机服务商免费送的NAT VPS自己搭建的Trojan。用来当TOR的前置代理挺好的，就是TOR需要用OBFS4 网桥。<br>\n对了，感觉CLOUDFLARE的1.1.1.1也蛮好用的，那个应该是WireGuard VPN吧。","date":"2020-02-27","agreeCount":0,"discussionCount":0}

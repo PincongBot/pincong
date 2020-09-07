@@ -1,0 +1,1 @@
+{"type":"answer","id":166328,"parentType":"question","parentId":18484,"uid":271,"contents":"ProtonVPN竟然没有OpenVPN混淆模式，也不支持WireGuard，这事坏的，，，<br>\n还不如搭建SS（注意使用AEAD算法）或者V2RAY，，，<br>\nVPN的话也可以选择NordVPN，VyprVPN之类的，，，","date":"2020-02-16","agreeCount":1,"discussionCount":0}

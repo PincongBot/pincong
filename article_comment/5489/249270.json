@@ -1,0 +1,1 @@
+{"type":"article_comment","id":249270,"parentType":"article","parentId":5489,"uid":13540,"contents":"<blockquote>&nbsp;作為小白，想問一下，其實wireguard可以與VPS上原有的網站共存嗎？VPS環境是LEMP </blockquote><br>\n可以共存 只要端口不一样就可以 我的vps上有 wireguard openconnect 环境是lnmp","date":"2020-02-17","agreeCount":0,"discussionCount":0}

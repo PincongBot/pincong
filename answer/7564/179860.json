@@ -1,0 +1,1 @@
+{"type":"answer","id":179860,"parentType":"question","parentId":7564,"uid":17712,"contents":"有风险的是那种PAC模式，如果网警发一个绕过代理的url（比如国内的网站）来钓鱼，你点进去的话就会暴露你真实IP。<br>\n按这种说法，不仅是SS/SSR/V2RAY这类代理，VPN也是有风险的，你用一般的浏览器访问一个不安全的网站也有可能暴露你真实IP。如果想要规避所有风险就尽量虚拟机+tor。","date":"2020-02-26","agreeCount":2,"discussionCount":4}

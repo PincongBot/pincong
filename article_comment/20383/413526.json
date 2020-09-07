@@ -1,0 +1,1 @@
+{"type":"article_comment","id":413526,"parentType":"article","parentId":20383,"uid":21812,"contents":"<a href=\"/article/item_id-413486#\" title=\"/article/item_id-413486#\"><blockquote>这个模型是约瑟夫环，其递推公式可推广为P(n,k)=[P(n-1,k)+k]%n, k为每数到第k人...</blockquote></a><br>\n977是正確的，剛剛用電腦驗證了一下，以這個公式作為理論基礎，隨便一個程序五六行代碼就搞定。你居然用手算而且沒算錯，佩服","date":"2020-06-16","agreeCount":0,"discussionCount":0}

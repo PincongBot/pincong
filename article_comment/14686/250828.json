@@ -1,0 +1,1 @@
+{"type":"article_comment","id":250828,"parentType":"article","parentId":14686,"uid":469,"contents":"有意思，当然楼主也要注意安全，因为BTSync现在已经被墙内企业（波场）秘密收购了，所以有被变成蜜罐的风险，建议各位葱油在用的时候至少得挂个前置代理（最好上Tor），不要通过改host或者是其他方式绕开GFW直连BTSync的同步服务器，否则会有被真人快抓的风险，不知道换成开源的Syncthing可行性如何？","date":"2020-02-17","agreeCount":1,"discussionCount":0}

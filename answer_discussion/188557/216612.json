@@ -1,0 +1,1 @@
+{"type":"answer_discussion","id":216612,"uid":28242,"date":"2020-03-03","contents":"@pinming:短路后的电功率应该是之前的2倍，电功率这里要计算用I^2R，所以电流变为根号2倍，不能用U^/R因为U变了","parentType":"answer","parentId":188557}

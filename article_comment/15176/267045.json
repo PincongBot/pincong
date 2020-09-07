@@ -1,0 +1,1 @@
+{"type":"article_comment","id":267045,"parentType":"article","parentId":15176,"uid":2482,"contents":"此方法对于cloudflare的网站非常有效，如本葱、膜乎、郭媒体；同时能让部分被reset的域名能正常访问（如github某些域名）；如果把dns从默认的cloudflare改为8.8.8.8（google dns）也可以让部分谷歌下属网站直连<br>\n<br>\n另外，浏览器装https everywhere插件（eff开发，开源）并开启“加密所有连接”，更安全且翻墙效果更好，因某些默认不加密的网站元素加密后可以访问","date":"2020-02-26","agreeCount":28,"discussionCount":0}

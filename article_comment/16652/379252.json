@@ -1,0 +1,1 @@
+{"type":"article_comment","id":379252,"parentType":"article","parentId":16652,"uid":544,"contents":"GPG/PGP 可以临时用一用，但是要注意它没有【前向安全性】<br>\n前向安全性是指：如果你遭到了严刑拷打，交出了私钥/密钥/口令等一切机密信息，你之前发送过的消息仍然无法被解密<br>\n相反，只要有私钥，GPG/PGP 的密文在任何时候都是可以被解密的","date":"2020-05-16","agreeCount":1,"discussionCount":0}

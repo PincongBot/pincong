@@ -1,0 +1,1 @@
+{"type":"article_comment","id":397615,"parentType":"article","parentId":15493,"uid":45618,"contents":"非常感谢！照着教程做成功了，真的是保姆级别的详细教程。唯一走的弯路是配置cloudflare时还没有买VPS，所以以为那个ip地址是“自动配置”到我买的域名的就没有管，后来安不了证书重新看一遍教程才发现要把ip改成VPS的ip。","date":"2020-05-30","agreeCount":0,"discussionCount":0}

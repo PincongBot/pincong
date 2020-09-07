@@ -1,0 +1,1 @@
+{"type":"answer_discussion","id":280271,"uid":26030,"date":"2020-05-10","contents":"@wendi 你做的太棒了。我猜想可能是你的DNS先前设置的是墙内ISP提供的DNS服务器，所以上面的编程思想博客的DNS记录已经被篡改(hijack)或者污染了。在墙内就算你手动设置谷歌DNS8.8.8.8也没有用，因为DNS是明文的，所以你的DNS请求在被传送到谷歌DNS服务器的过程中一定会经过墙，这时就被墙污染了，墙会抢在谷歌DNS服务器回复之前首先传回给你一个假的IP地址，这就是DNS污染原理。","parentType":"answer","parentId":260336}

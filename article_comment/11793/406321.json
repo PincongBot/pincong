@@ -1,0 +1,1 @@
+{"type":"article_comment","id":406321,"parentType":"article","parentId":11793,"uid":21749,"contents":"如果你不是跨虚拟机使用Tor，就不必勾选“允许来自局域网的连接”。还有，我没见过不可用做前置代理的翻墙软件。<br>\n<br>\n多说一句，命令行的Tor比Tor Browser好用多了。<br>\n只需要 sudo vi /etc/tor/torrc 加上一行*Proxy就行了，然后一行命令运行，搭配自己的Firefox使用。<br>\n还可搭配Arm使用。<br>\nTor Browser限制太多，连uBlock Origin都没有。","date":"2020-06-08","agreeCount":0,"discussionCount":0}

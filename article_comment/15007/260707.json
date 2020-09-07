@@ -1,0 +1,1 @@
+{"type":"article_comment","id":260707,"parentType":"article","parentId":15007,"uid":6671,"contents":"<blockquote>那追踪IP的精确度有多高啊？如果用WIFI，是能够追到一个区域还是追到具体的一户？如果用手机流量，能...</blockquote><br>\n大多数人上网用的是运营商动态分配的临时ip，直接通过ip最多只能通过ip定位到你所在区域的基层运营商，如果运营商没有记录ip分配历史那么无法直接定位到你，但已经大大缩小范围了。","date":"2020-02-22","agreeCount":1,"discussionCount":0}

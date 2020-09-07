@@ -1,0 +1,1 @@
+{"type":"article_comment","id":346785,"parentType":"article","parentId":17023,"uid":26030,"contents":"能不能对Accesser稍微做出一些修改，导致其在收到敏感的TLS请求以后，不会把SNI信息【全部】删除，而是保留【第一和第二级别】DNS域名段，并且只把【第一和第二级别】DNS域名段转发给服务器。这样做的好处是很多镜像网站，比如program-think-mirror.github.io，其第一和第二级别DNS域名段不能被封杀，就可以使用【依附的自由】原理了。","date":"2020-04-16","agreeCount":0,"discussionCount":0}

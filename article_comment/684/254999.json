@@ -1,0 +1,1 @@
+{"type":"article_comment","id":254999,"parentType":"article","parentId":684,"uid":26126,"contents":"<blockquote>schema删掉,重新建一个,再导入一遍,如果成功的话不应该有错误,aws_user表里面可以看到a...</blockquote><br>\n把【游客】的group id 改成99就可以了。那个错误的意思是有两个用户组别的group id都是1（不知道我的mysql为什么把【游客】group_id 的-1当成了1）","date":"2020-02-20","agreeCount":1,"discussionCount":0}

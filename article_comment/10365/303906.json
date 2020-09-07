@@ -1,0 +1,1 @@
+{"type":"article_comment","id":303906,"parentType":"article","parentId":10365,"uid":23714,"contents":"<blockquote>迷雾通的客户端（居然electron）臃肿程度。在主页还是提供一个geph-client only的...</blockquote><br>\n俺在前面有建议楼主用别的跨平台方案开发，俺推荐 Qt，但楼主坚持用 Electron。","date":"2020-03-18","agreeCount":1,"discussionCount":0}

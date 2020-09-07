@@ -1,0 +1,1 @@
+{"type":"answer_discussion","id":206756,"uid":469,"date":"2020-02-25","contents":"@函數一等公民:不过SUSE完全兼容RHEL的应用，理论上你可以直接按照使用CentOS/RHEL/Fedora的方式来使用SUSE，即在OpenSUSE上使用yum，只需一行命令：zypper in yum，之后你就可以像用其他红帽系的Linux那样用SUSE了，因为它们使用的都是RPM包，所以理论上在RHEL/CentOS/Fedora上用YaST和zypper也可以（libzypp）","parentType":"answer","parentId":178468}

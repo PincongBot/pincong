@@ -1,0 +1,1 @@
+{"type":"answer","id":321077,"parentType":"question","parentId":29663,"uid":7834,"contents":"最常见的情况是开全局后直接退出，但是代理地址还在，结果就是聊天软件可以上网，但只要有用到http服务功能的软件都连不上网，打开ssr关闭全局功能就行","date":"2020-08-12","agreeCount":1,"discussionCount":2}

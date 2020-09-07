@@ -1,0 +1,1 @@
+{"type":"article_comment","id":294115,"parentType":"article","parentId":16076,"uid":29130,"contents":"说一个思路，可以将一段话中的部分标点符号改成半角符号。这样，用半角表示0，全角标点表示1。就可以把数据插入任意一篇文章中了。不过这么搞的话即使是少量的信息也需要用很多文字来传递。。。","date":"2020-03-13","agreeCount":0,"discussionCount":0}

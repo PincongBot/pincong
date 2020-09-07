@@ -1,0 +1,1 @@
+{"type":"answer_discussion","id":205839,"uid":30197,"date":"2020-02-24","contents":"Win 的话写 tensorflow-gpu 不友好, win 没有真正的并行. (主要是命令行太难用","parentType":"answer","parentId":178390}

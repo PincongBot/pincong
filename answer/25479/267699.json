@@ -1,0 +1,1 @@
+{"type":"answer","id":267699,"parentType":"question","parentId":25479,"uid":17712,"contents":"如果直连你的服务器延迟比走CDN低的话，可以在hosts里面自己添加自己域名的解析。","date":"2020-05-19","agreeCount":0,"discussionCount":2}

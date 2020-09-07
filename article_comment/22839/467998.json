@@ -1,0 +1,1 @@
+{"type":"article_comment","id":467998,"parentType":"article","parentId":22839,"uid":457,"contents":"<a href=\"/article/item_id-467995#\" title=\"/article/item_id-467995#\"><blockquote>对呀，所以mac只有本地意义，frame里面的是没用的。那么他怎么拿到的本机mac？因为他在应用层，...</blockquote></a><br>\n操作系统会提供相应API给应用层获取硬件信息，所以你说的“链路层功能”属于操作系统的功能，所以应用调用封装好的系统API就够了","date":"2020-08-11","agreeCount":0,"discussionCount":0}

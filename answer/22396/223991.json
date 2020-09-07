@@ -1,0 +1,1 @@
+{"type":"answer","id":223991,"parentType":"question","parentId":22396,"uid":22962,"contents":"想起了很久以前的西厢计划...和这个类似的<br>\n简单说就是利用了客户端/服务器协议栈和墙的实现上的差异，印象中以前好像是有过利用墙tcp状态机的缺陷绕过reset不用代理直连的骚操作","date":"2020-03-30","agreeCount":0,"discussionCount":0}

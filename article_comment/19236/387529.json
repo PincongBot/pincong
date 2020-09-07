@@ -1,0 +1,1 @@
+{"type":"article_comment","id":387529,"parentType":"article","parentId":19236,"uid":23945,"contents":"我再给一个思路，比如1111或1001就是用IP地址证书。<br>\n<br>\n所以根据这个思路就是先用IP地址建立加密信道，再发送sni请求域名证书。","date":"2020-05-23","agreeCount":1,"discussionCount":0}

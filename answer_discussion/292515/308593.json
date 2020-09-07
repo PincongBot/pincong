@@ -1,0 +1,1 @@
+{"type":"answer_discussion","id":308593,"uid":271,"date":"2020-06-21","contents":"VPS的话必须保证v4和v6的路由一致，要不然鬼知道会出什么问题，，，<br>\n墙内的话，考虑屏蔽IPv6，不值得，，，","parentType":"answer","parentId":292515}

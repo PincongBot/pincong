@@ -1,0 +1,1 @@
+{"type":"article_comment","id":274910,"parentType":"article","parentId":11994,"uid":32105,"contents":"你可以用Pretty Good Privacy加密自己的信息。你有一个public key和一个private key，这是一组。然后你用对方的public key加密信息，用微信发出去，对方再用他自己的private key解密。这种加密方式在没有两方的密钥之前几乎是不可能破解的。","date":"2020-02-29","agreeCount":0,"discussionCount":0}

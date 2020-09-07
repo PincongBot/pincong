@@ -1,0 +1,1 @@
+{"type":"article_comment","id":303222,"parentType":"article","parentId":15493,"uid":42197,"contents":"老大，我用gpc 又按你的方法搭建了一个。 gpc 是cenos7.0版本。<br>\n<br>\n当我输入：<br>\nsysctl net.ipv4.tcp_congestion_control<br>\n<br>\n显示的结果是：<br>\n<br>\nnet.ipv4.tcp_congestion_control = cubic<br>\n<br>\n这个cubic 不是bbr &nbsp;,也能说明bbr已经开启了吗？","date":"2020-03-19","agreeCount":0,"discussionCount":0}

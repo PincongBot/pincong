@@ -1,0 +1,1 @@
+{"type":"article_comment","id":468943,"parentType":"article","parentId":22839,"uid":23945,"contents":"MAC可以判断厂家与型号。前三个字节表明厂家型号，后三个字节表明机器编号。我觉得这才是主要原因。<br>\n<br>\n安卓10已经不能获得IMEI和MEID了，只有安卓ID。但是安卓ID可以靠重置手机进行更改。然而丧心病狂的抖音仍然想要获得手机的唯一编号，就对MAC下手了。<br>\n<br>\n还有根据网上说的，可以用扫描的方式获取MAC。","date":"2020-08-13","agreeCount":1,"discussionCount":0}

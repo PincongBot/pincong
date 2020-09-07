@@ -1,0 +1,1 @@
+{"type":"answer","id":195325,"parentType":"question","parentId":13704,"uid":33968,"contents":"準確點說，是中國BAT旗下的APP尺寸大。<br>\n&gt; 為什麼Google Play上的APP尺寸小?<br>\n主流的安卓APP使用的是原生+HTML移動開發框架，尺寸算是OK。<br>\n&gt; 為什麼BAT的APP尺寸超大?<br>\n這個是因為BAT用的是自有框架開發的。APP裡面要額外塞進去一個大尺寸的WebView(就是一個定製的Chromium內核)。","date":"2020-03-06","agreeCount":7,"discussionCount":1}

@@ -1,0 +1,1 @@
+{"type":"answer_discussion","id":298927,"uid":34697,"date":"2020-06-03","contents":"@jsglsjh:对这种问题的理解其实可以当作parametric function。如果x=t+1， y=t-1， 那么y=x-2。这里y是犯罪率，x是黑人率，t是贫困率。即使没有直接causation，也是能得出关系的。","parentType":"answer","parentId":281544}

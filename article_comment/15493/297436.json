@@ -1,0 +1,1 @@
+{"type":"article_comment","id":297436,"parentType":"article","parentId":15493,"uid":20551,"contents":"<blockquote>打开v2ray之后的报错[Warning] failed to handler mux client...</blockquote><br>\n感觉客户端配置也有问题。最好是有客户端配置，和服务端log。<br>\n<br>\n另外这个泄露vps ip了，编辑一下吧","date":"2020-03-14","agreeCount":0,"discussionCount":0}

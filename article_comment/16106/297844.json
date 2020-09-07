@@ -1,0 +1,1 @@
+{"type":"article_comment","id":297844,"parentType":"article","parentId":16106,"uid":12147,"contents":"<blockquote>能从TLS里甄别出HTTPS都是不可能的，何况从https里甄别出翻墙。。。原理上就不可能。。。你可...</blockquote><br>\n伪造的流量都有固定的pattern，用机器学习可以识别出来，这个方法不是识别某一个数据包是不是伪造，而是某一堆数据包是不是伪造","date":"2020-03-14","agreeCount":0,"discussionCount":0}

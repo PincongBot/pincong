@@ -1,0 +1,1 @@
+{"type":"answer","id":216263,"parentType":"question","parentId":21816,"uid":23714,"contents":"你们想多了，HTTP Error 502 是后端挂掉的意思，不太可能是 DDoS 攻击，应该是他们自己配置服务器时出现问题了。","date":"2020-03-23","agreeCount":0,"discussionCount":1}

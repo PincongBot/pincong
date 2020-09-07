@@ -1,0 +1,1 @@
+{"type":"article_comment","id":275514,"parentType":"article","parentId":15247,"uid":20551,"contents":"<blockquote>還可以這樣，「哪個英文字母對應的漢字筆劃最少/多？」 </blockquote><br>\n这可以维护一个汉字到笔画数的映射表，只要识别出汉字，找到表里对应的笔画数就可以了。<br>\n<br>\n我觉得乱序汉字，要求排成有意义的句子大概是可行的（当然句子歧义导致多解是另一说）。","date":"2020-02-29","agreeCount":1,"discussionCount":0}

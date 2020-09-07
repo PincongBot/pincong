@@ -1,0 +1,1 @@
+{"type":"answer","id":198759,"parentType":"question","parentId":20551,"uid":37708,"contents":"除非题主真的有很好的想法和储备知识，不然我不大推荐这样做，比较花时间效果也不一定好。<br>\n可以先学学一些开源梯子是怎么实现的。<br>\n<br>\n至于语言的话，现在蛮多工具都是基于Go的，可以试试，PC跨平台GUI的话推荐用electron。","date":"2020-03-09","agreeCount":0,"discussionCount":0}

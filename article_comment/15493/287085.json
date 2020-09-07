@@ -1,0 +1,1 @@
+{"type":"article_comment","id":287085,"parentType":"article","parentId":15493,"uid":21587,"contents":"<blockquote>我试了下 netcat -nv xxx 443，ipv4 的话是通的，v6就不通，请问是因为这个原因...</blockquote><br>\n<br>\n终于搞定了，汇报一下，原因是按照 lz 的 nginx 配置，是不会监听 ipv6 的，需要在配置文件中的 listen 后面加上 [::]:，例子： listen [::]:443 ssl http2; 这样就成功啦，哈哈。","date":"2020-03-07","agreeCount":1,"discussionCount":0}

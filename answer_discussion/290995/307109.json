@@ -1,0 +1,1 @@
+{"type":"answer_discussion","id":307109,"uid":41163,"date":"2020-06-17","contents":"@Resistance:楼主在墙外呀。我不在日本，这里静态动态的都用过。不过无关紧要，只要外网可见就行，是动态的话只需要写个脚本自动侦测IP改变，一旦改变就给所有用户发一封邮件告知新IP，免去自己每次微信通知的麻烦。","parentType":"answer","parentId":290995}

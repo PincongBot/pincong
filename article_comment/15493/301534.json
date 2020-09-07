@@ -1,0 +1,1 @@
+{"type":"article_comment","id":301534,"parentType":"article","parentId":15493,"uid":20551,"contents":"<blockquote>ip问题解决了，谢谢大佬，然后我发现在ping网站或者vps的ip的时候都会大概率掉包，测速之后才0...</blockquote><br>\nvultr的IP可以随便换，所以他家很大一部分IP在GFW灰名单里，很容易被干扰。有时候挂着SSH都被封。如果丢包严重以至于SSh都连不上，有可能是GFW的原因。<br>\n<br>\n美西IP是灰名单重灾区，不知道欧洲的IP是不是有类似情况。","date":"2020-03-18","agreeCount":0,"discussionCount":0}

@@ -1,0 +1,1 @@
+{"type":"article_comment","id":402214,"parentType":"article","parentId":15247,"uid":3487,"contents":"请问喜欢用短链接的朋友，短链接是否有不可替代的作用或好处？<br>\n<br>\n由于许多短链接生成服务提供各式各样的追踪、分析功能，可能被用作钓鱼工具，获取网友隐私。若无其它考量因素，我希望能够提一个新的RFC，要求给出链接时应当使用原地址，不可使用第三方服务生成的短链接。","date":"2020-06-03","agreeCount":3,"discussionCount":0}

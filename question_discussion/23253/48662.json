@@ -1,0 +1,1 @@
+{"type":"question_discussion","id":48662,"uid":20551,"date":"2020-04-14","contents":"这不是网络问题，也不是被DDOS，这可能是前端里的bug。我的浏览器是Tor Brower9.0.x，浏览品葱时经常页面卡死。表现为滚动页面，切换标签页，点击页面元素无反应。此时查看浏览器进程CPU占用率飙到10%~20%。（即单线程下一个核心跑满）","parentType":"question","parentId":23253}
