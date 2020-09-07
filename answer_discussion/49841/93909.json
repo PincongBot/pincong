@@ -1,0 +1,1 @@
+{"type":"answer_discussion","id":93909,"uid":5861,"date":"2019-09-10","contents":"品蔥託管在cloudflare上，而「百度云加速」是cloudflare的國內馬甲。<br>\nso，如果你用中國IP訪問之，就會出現「百度云加速」的驗證界面。<br>\n總之，一、請用tor，二、任何時候都不應透露個人信息。","parentType":"answer","parentId":49841}

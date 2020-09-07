@@ -1,0 +1,1 @@
+{"type":"answer","id":135421,"parentType":"question","parentId":15900,"uid":23931,"contents":"没有用过mint，猜测一下问题的所在：<br>\n<br>\ntor的浏览器应该是firefox，你的输入法假设是ibus，那就需要安装一些组件，找找看那些ibus-gtk之类的安装，注销，重登陆，看情况。","date":"2020-01-23","agreeCount":0,"discussionCount":1}

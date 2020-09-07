@@ -1,0 +1,1 @@
+{"type":"answer","id":169869,"parentType":"question","parentId":10163,"uid":33767,"contents":"并不会慢，但是要正确配置<br>\n1. 配置代理<br>\nsocks5/127.0.0.1/1080<br>\n2. 去掉选择使用网桥<br>\n3. SSR启用全局模式","date":"2020-02-19","agreeCount":1,"discussionCount":0}

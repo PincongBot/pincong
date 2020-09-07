@@ -1,0 +1,1 @@
+{"type":"answer","id":49461,"parentType":"question","parentId":8276,"uid":1021,"contents":"虚拟机隔离。必须用的Windows放在VirtualBox 或 libvirt/virt-manager/qemu 虚拟机里。<br>\n现在的虚拟机炒鸡方便，调整窗口自动分辨率，全屏，USB rediretion，文件共享（vbox自带特有的驱动，或windows共享），共享粘贴板等等，应有尽有。","date":"2019-09-09","agreeCount":0,"discussionCount":0}

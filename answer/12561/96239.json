@@ -1,0 +1,1 @@
+{"type":"answer","id":96239,"parentType":"question","parentId":12561,"uid":17016,"contents":"IP v6 的问题是要整个重建，并且继续沿用现有gfw的黑名单来处理<br>\n牵涉的问题包括且不限于 IPv6 的DNS劫持和污染和流量监控&nbsp;<br>\n相比现有的IPv4的版本，gfwIPv6的开发会比IP4的要更完善，毕竟它是远优先于现在IPv4的技术开发的。相信在资源倾斜上都有很多优势。<br>\n虽然IPv4 的不能一键切换到Ipv6 上，但是只要有钱，就能从现有的代码上向IPv6迁移","date":"2019-12-05","agreeCount":1,"discussionCount":0}

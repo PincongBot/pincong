@@ -1,0 +1,1 @@
+{"type":"answer","id":58025,"parentType":"question","parentId":9347,"uid":14137,"contents":"另外搭机场的时候不要用国外常用的VPN协议（PPTP,L2TP,OpenVPN），因为它们不能伪装流量，你一旦连上，墙几分钟之内就能嗅探出来，然后你的IP就残废了。<br>\n<br>\n如果自己搭，就只能使用翻墙专用的协议，因为墙不断升级，这个年年变化，需要看今年的教程。","date":"2019-10-06","agreeCount":1,"discussionCount":2}

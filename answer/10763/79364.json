@@ -1,0 +1,1 @@
+{"type":"answer","id":79364,"parentType":"question","parentId":10763,"uid":7857,"contents":"支持 @赵家公子<br>\n<br>\nMAC地址(Layer 2 info)在过路由器就剥落了，代理只加密Layer 7的payload。MAC地址只是在内网做ARP用。","date":"2019-11-15","agreeCount":0,"discussionCount":0}

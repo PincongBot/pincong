@@ -1,0 +1,1 @@
+{"type":"question","id":8291,"title":"请问为何使用ssd无法和aes-256-gcm加密的服务器连接？","uid":3065,"topics":[],"contents":"不知道为什么，切到cfb就好了<br>\n但我是因为CFB出现断连现象才准备换的。<br>\n<br>\n<br>\n另外，IOS上有什么支持GCM加密的软件吗？","date":"2019-09-09","agreeCount":0,"discussionCount":0}

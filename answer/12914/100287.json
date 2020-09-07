@@ -1,0 +1,1 @@
+{"type":"answer","id":100287,"parentType":"question","parentId":12914,"uid":23582,"contents":"不用担心，dns服务器进行域名映射，ip能通网就能连。<br>\n而且中国有根服务器，之前发生过dns污染流量回传外网。我记得大学时第一课网络原理就是讲根服务器中国有3个，中央宣传中国第一台根服务器是什么意思。","date":"2019-12-09","agreeCount":0,"discussionCount":0}

@@ -1,0 +1,1 @@
+{"type":"answer_discussion","id":217793,"uid":5628,"date":"2020-03-04","contents":"trojan其實並不是最穩的，因爲還是可以通過封鎖IP攔截，反而是V2Ray+Websock+CDN,是最穩的。不過Trjan應該是平衡了速度與穩定吧。","parentType":"answer","parentId":185741}

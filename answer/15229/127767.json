@@ -1,0 +1,1 @@
+{"type":"answer","id":127767,"parentType":"question","parentId":15229,"uid":26715,"contents":"腾讯内部网大致的拓扑结构是 各地研发中心-深圳南山区机房-中国电信/谷歌云香港。<br>\n<br>\n具体使用上，利用iOA软件，以自动配置pac脚本的形式实现透明代理。公司办公网可以访问部分经GFW认证的域名，例如Google Twitter Facebook 和维基百科，另仍有大量域名不可访问，包括但不限品葱、三立新闻网以及所有gov.tw域名网站。<br>\n<br>\n所以本质上，腾讯也是在翻墙，只是更好的实现了无感翻墙罢了~","date":"2020-01-13","agreeCount":3,"discussionCount":0}

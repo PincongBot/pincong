@@ -1,0 +1,1 @@
+{"type":"answer","id":106963,"parentType":"question","parentId":13440,"uid":21337,"contents":"如果是自己租用的VPS，果断使用kcp，效果极好。<br>\nV2Ray已经自带mkcp，多数情况下效果不错，美中不足的是不能自行指定发包倍数，导致网络高峰期的表现比不上原版KCP。","date":"2019-12-17","agreeCount":0,"discussionCount":2}

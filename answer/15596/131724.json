@@ -1,0 +1,1 @@
+{"type":"answer","id":131724,"parentType":"question","parentId":15596,"uid":24714,"contents":"VPN是整个系统全面性代理进去，而socks协议在灵活性上更方便分流国外国内。Tor是借助图书馆的IP三重跳实现难以追溯，速度慢到看YouTube很难受。<br>\n<br>\n而该厂商的VPN我也试过，在国内速度表现差劲到退款。后来了解技术细节，基于open VPN二次开发的换皮肤货色。IP段属于重点服务劣化对象，你还是买提供WireGuard协议的VPN商家比较好。","date":"2020-01-18","agreeCount":0,"discussionCount":1}

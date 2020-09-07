@@ -1,0 +1,1 @@
+{"type":"answer_discussion","id":136546,"uid":2147,"date":"2019-12-16","contents":"不要单独使用tor做代理 + 别的浏览器 这种方式！普通浏览器一样暴露你的IP。 一定要直接使用torbrwoser， 最好能在tor前面再加个前置代理。","parentType":"answer","parentId":105152}

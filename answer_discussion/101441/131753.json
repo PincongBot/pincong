@@ -1,0 +1,1 @@
+{"type":"answer_discussion","id":131753,"uid":419,"date":"2019-12-11","contents":"可以预见Rust不会大热，因为Rust真的不具备快速开发所需的效率。<br>\n<br>\n以Todo List例子来比较，Rust和C++11差不多笨拙，只是安全方面好很多。 <br>\n<br>\nGUI开发现状是脚本化了，Rust做基础库可以，但App开发者不会期待自己以乌龟速度写出超级安全的代码，这不是他们想上的车。","parentType":"answer","parentId":101441}

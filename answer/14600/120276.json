@@ -1,0 +1,1 @@
+{"type":"answer","id":120276,"parentType":"question","parentId":14600,"uid":23686,"contents":"fcitx+google pinyin<br>\n移植源于手机上的google pinyin<br>\n默认在ubuntu的官方源里，可以直接一键命令安装<br>\nsudo apt install fcitx-googlepinyin","date":"2020-01-03","agreeCount":2,"discussionCount":0}

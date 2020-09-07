@@ -1,0 +1,1 @@
+{"type":"answer","id":103527,"parentType":"question","parentId":13160,"uid":23714,"contents":"Tor 只能在【网络层面】完成匿名。如果你人在墙内，要设置【前置代理】。只要两边都不是蜜罐，你不透露自己的个人信息，就不会被“跨省”。","date":"2019-12-13","agreeCount":1,"discussionCount":0}

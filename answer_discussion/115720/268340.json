@@ -1,0 +1,1 @@
+{"type":"answer_discussion","id":268340,"uid":36515,"date":"2020-04-23","contents":"补充一点，程序在运行后应该拒绝一切外界操作，包括长按电源键关机和来自数据接口的连接尝试，防止自毁程序被强制中断","parentType":"answer","parentId":115720}

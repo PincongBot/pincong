@@ -1,0 +1,1 @@
+{"type":"answer","id":192402,"parentType":"question","parentId":8253,"uid":15052,"contents":"dns在设计之初并没有考虑安全性的问题，因为在互联网早期也没有安全顾虑，现在dns明文传输的特点给数据传输埋下了很大的隐患，使用DNS over https是很有必要的","date":"2020-03-04","agreeCount":3,"discussionCount":1}
