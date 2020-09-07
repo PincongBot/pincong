@@ -1,0 +1,1 @@
+{"type":"answer_discussion","id":271925,"uid":12438,"date":"2020-04-26","contents":"快速数据传输的问题其实没有解决。假设你的网络只能做到一秒传输100mega bytes的数据，但你有100terabytes要传输。那么通过网络就要花290多个小时。最快的办法是直接在数据中心把数据复制了，然后用飞机运输存储设备。","parentType":"answer","parentId":250723}

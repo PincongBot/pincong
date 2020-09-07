@@ -1,0 +1,1 @@
+{"type":"answer_discussion","id":310188,"uid":8647,"date":"2020-06-23","contents":"以题主目前的新手身份，notepad++和命令行足矣，没必要在接触编程前先被IDE的挑选与安装搞得晕头转向。另外，PyCharm与Eclipse等对电脑配置的要求其实也并不高，除非你非要安装几十个G的VS，但对于一个刚写“hello world”的人，VS真没必要。","parentType":"answer","parentId":289504}

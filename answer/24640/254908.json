@@ -1,0 +1,1 @@
+{"type":"answer","id":254908,"parentType":"question","parentId":24640,"uid":2482,"contents":"wireguard太容易被封，因为这东西速度太快，要是看个高清视频什么的很快就会因为大流量被qos掐速度（我就遇到过）， 不过wg的优势在于封不死。另外ss只要装libev版，节点不要长时间大流量（很多人用），还是很耐用的","date":"2020-05-01","agreeCount":0,"discussionCount":0}

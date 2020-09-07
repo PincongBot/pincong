@@ -1,0 +1,1 @@
+{"type":"answer","id":295542,"parentType":"question","parentId":27645,"uid":41673,"contents":"看起来你像是在学Java，它从C++一路继承的C语法。你的理解是对的。但是初始阶段不用纠结这些“语法糖”。好的职业程序员不这么写东西。老老实实<br>\n<br>\n++a;<br>\nb = a;<br>\n<br>\n才是大家最常用的东西。大工程里面用到脑子的地方太多了，正经程序员不会在这样的小地方玩活。<br>\n<br>\nPS，Python开始学起来舒服多了。","date":"2020-06-27","agreeCount":0,"discussionCount":0}

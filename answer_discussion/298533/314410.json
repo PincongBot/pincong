@@ -1,0 +1,1 @@
+{"type":"answer_discussion","id":314410,"uid":27401,"date":"2020-07-02","contents":"@PinTest:现在的反审查思路是本机运行一个未受污染DNS服务器，然后系统使用本机的DNS服务器。以后因为系统设置被移除，即使你能得到未受污染的DNS服务器，也无法连接。","parentType":"answer","parentId":298533}

@@ -1,0 +1,1 @@
+{"type":"answer","id":299889,"parentType":"question","parentId":28078,"uid":266,"contents":"如果你使用的iPhone，那么知乎可能是用 IDFV + Keychain 方式来保存你的 Token。现在很多应用都是使用这种方式来识别二次安装的用户，这是苹果在封杀imei、uuid、mac等API后的一种身份标识，这个 IDFV 是逻辑的，也就是说它不是一成不变的，算是在身份标识和隐私之间的折衷方案。","date":"2020-07-05","agreeCount":4,"discussionCount":1}

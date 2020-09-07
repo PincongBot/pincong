@@ -1,0 +1,1 @@
+{"type":"answer","id":299669,"parentType":"question","parentId":28039,"uid":23714,"contents":"有些 Linux 发行版的软件包管理器会验证 GPG 签名，这样的发行版用天朝的 mirrors 也不用担心软件包被篡改。其他的软件包管理器就要留意了。<br>\n另，<br>\n最好用 HTTPS 下载，如果用 HTTP，ISP 可以知道你在用哪个发行版，以及你安装了哪些软件。","date":"2020-07-04","agreeCount":1,"discussionCount":0}

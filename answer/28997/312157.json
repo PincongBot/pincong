@@ -1,0 +1,1 @@
+{"type":"answer","id":312157,"parentType":"question","parentId":28997,"uid":16360,"contents":"如果是自己的电脑，把所有跟中国有关的证书列为不信任，然后只访问信任的网站，那就没风险。当然需要一些网络安全和社会工程学知识。<br>\n<br>\n如果是公司的电脑，你需要在里面装一个虚拟机。这样可以控制证书问题。<br>\n<br>\n只要证书控制好，再加上境外VPN，别人就无法知道你上过什么网站了。也不需要DNS over SSL.&nbsp;","date":"2020-07-26","agreeCount":1,"discussionCount":0}

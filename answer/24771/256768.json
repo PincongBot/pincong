@@ -1,0 +1,1 @@
+{"type":"answer","id":256768,"parentType":"question","parentId":24771,"uid":22962,"contents":"firefox如果用rust重写会产生很多新的可能性...比如能避免很多c/c++下常见的漏洞...目前好像只有css的引擎是用rust写的，而现在的servo有望集成进以后的版本里。","date":"2020-05-04","agreeCount":1,"discussionCount":0}

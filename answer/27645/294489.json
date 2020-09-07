@@ -1,0 +1,1 @@
+{"type":"answer","id":294489,"parentType":"question","parentId":27645,"uid":49581,"contents":"打开课本，翻到优先级、结合性<br>\n<br>\n1 ++a 表示 a = a +1<br>\n2 b=++a&nbsp; 打开课本，翻到优先级、结合性&nbsp; ++a先执行 b=赋值符号后执行<br>\n3 a++ 只是一个表达式 ，表示 a+1 并不改变什么<br>\n<br>\n虽然我连你用的什么语言都不清楚，就在胡乱指导","date":"2020-06-23","agreeCount":1,"discussionCount":1}

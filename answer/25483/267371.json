@@ -1,0 +1,1 @@
+{"type":"answer","id":267371,"parentType":"question","parentId":25483,"uid":8157,"contents":"技术上是可行的，结合P2P和Tor相关技术，在一段时间内导致一群人可以破墙，应该还是能做到。<br>\n问题是现在的OS安全性比以前已经先进很多，而且IPv4大多数人都是NAT并没有独立IP，这个传播的挑战也很大。<br>\n<br>\n有兴趣的人可以试试，不过最乐观来看我估计也就是达到一种恶作剧的效果。","date":"2020-05-18","agreeCount":0,"discussionCount":0}

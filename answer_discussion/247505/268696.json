@@ -1,0 +1,1 @@
+{"type":"answer_discussion","id":268696,"uid":2086,"date":"2020-04-22","contents":"@Bijun:你要搞清楚什么是margin，为0的时候你作为做市的就应该margin call了，margin call几次没有得到追加，那就该强制平仓。中行毫无作为，要么就是系统设计缺陷，多头没有设计margin call（事实貌似如此），要么就是故意用客户的钱去填自己prop trading的坑","parentType":"answer","parentId":247505}

@@ -1,0 +1,1 @@
+{"type":"answer","id":322021,"parentType":"question","parentId":29726,"uid":19319,"contents":"<blockquote>这个图片的上半部分和下半部分的压缩比例不一样，同一张照片，药盒上面图像损失不那么大，但是药盒下面都快成素描了。</blockquote><br>\n<br>\n这个可能是的网络太慢导致的。那张图片是渐进式JPEG格式，如果你网络太慢，图片只加载到一半就断开了，就是这样的。<br>\n<br>\n我看到的图片整张压缩比例是一样的，画质没有明显的区别","date":"2020-08-13","agreeCount":1,"discussionCount":2}

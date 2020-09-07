@@ -1,0 +1,1 @@
+{"type":"answer","id":291037,"parentType":"question","parentId":27368,"uid":2482,"contents":"VPN：太容易被识别了，放弃吧。<br>\n<br>\n可以尝试ss-libev或v2ray。但是后者最近曝出能被精准识别的漏洞。<br>\n<br>\n个人推荐比较偏门的：i2p出口节点。搭建教程在 https://i2pforum.net/viewtopic.php?f=21&amp;t=189，亲测成功过。最大的优势在于不用担心被封（流量经过多重代理已绕过封锁）。缺点是速度可能很慢。","date":"2020-06-18","agreeCount":1,"discussionCount":1}

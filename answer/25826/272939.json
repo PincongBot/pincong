@@ -1,0 +1,1 @@
+{"type":"answer","id":272939,"parentType":"question","parentId":25826,"uid":50090,"contents":"暗网其实很简单，服务端安装一下tor，生成一个onion域名，然后用80端口转发，也就可以了。这其实取决于站长愿不愿搭，没什么难度。其实品葱可以考虑搭建一个暗网，用tor访问就可以跳过cloudflare那个烦人的“我是人类”验证了。","date":"2020-05-25","agreeCount":0,"discussionCount":0}

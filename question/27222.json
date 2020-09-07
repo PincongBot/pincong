@@ -1,0 +1,1 @@
+{"type":"question","id":27222,"title":"写程序找不到api怎么办？","uid":24061,"topics":[2584],"contents":"例:libvirt库，这个库可以用来做虚拟机的一些操作。创建虚拟机，运行，获取状态，虚拟机截屏，发送按键。<br>\n但是没有鼠标相关控制(在host端控制guest端)，搜索中文英文都没有相关资料。<br>\n<br>\n当遇到类似这种的问题时，该做何解","date":"2020-06-13","agreeCount":0,"discussionCount":1}

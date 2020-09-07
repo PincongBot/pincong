@@ -1,0 +1,1 @@
+{"type":"answer","id":270263,"parentType":"question","parentId":25698,"uid":47112,"contents":"SS-libev 配合 aes-256-gcm 加密目前看来还是非常之稳的<br>\n如果再配上 obfs http 混淆理论上会更好<br>\n不要使用 SSR 和一些旧版 SS，它们早已停止更新，也不支持 AEAD 加密","date":"2020-05-21","agreeCount":0,"discussionCount":0}

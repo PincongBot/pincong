@@ -1,0 +1,1 @@
+{"type":"answer","id":299350,"parentType":"question","parentId":28039,"uid":23945,"contents":"我觉得没有风险，现在linux都是用gpg来验证安装包的完整性，验证不过直接安装失败，除非像上次华为在linux源码加料。而且用http还可以加快速度，降低计算量。默认linux软件源都是http的。<br>\n<br>\npypi可能有风险。<br>\n<br>\n（根据经验，镜像源国内的都可以，注意不要用华为，华为的源经常有文件校验不过问题。）<br>\n<br>\n最后啊，我劝楼主，没有必要什么事情都追求安全性，这样太耗费时间，要科学分析具体情况。","date":"2020-07-03","agreeCount":-2,"discussionCount":3}

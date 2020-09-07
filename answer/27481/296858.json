@@ -1,0 +1,1 @@
+{"type":"answer","id":296858,"parentType":"question","parentId":27481,"uid":26030,"contents":"墙外：操作系统，软件应用等等已经全部准备完毕，妥妥的IPv6没商量。网络基础服务（根服务器）也已经IPv6模式。大网站（比如脸书）有ipv6版本。高级VPS比如Linode也是IPv6模式，可以浏览IPv6网站。现在就剩下普通百姓用的ISP了（比如verizon）还是完全没有IPv6模式，所以也可以说墙外的IPv6到现在还未开始普及。<br>\n<br>\n最大的原因就是万恶的NAT，是的IPv4的地址空间上升到了48比特，有效缓解IPv4的用光问题。","date":"2020-06-29","agreeCount":0,"discussionCount":0}

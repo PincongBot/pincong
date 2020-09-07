@@ -1,0 +1,1 @@
+{"type":"answer","id":313643,"parentType":"question","parentId":29132,"uid":23945,"contents":"证书错签不是只有中国厂商才会这样，所有的CA都会，关键是看被发现之后的补救措施。<br>\n<br>\nCNNIC为多个谷歌域名颁发假证书，被发现后还不承认。沃通是悄悄收购自己的CA startcom，导致两家一起玩完。<br>\n<br>\n但是像diginotar那种，就可以放弃治疗了。","date":"2020-07-30","agreeCount":0,"discussionCount":0}

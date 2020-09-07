@@ -1,0 +1,1 @@
+{"type":"answer","id":247119,"parentType":"question","parentId":24056,"uid":33968,"contents":"eMule是被BitTorrent殺死的。<br>\n<br>\neMule是單檔案分享的，一個檔案一個鏈接。而BitTorrent可以把一些檔案打包在一起分享。<br>\n<br>\n這個差別讓資源發佈者偏好BitTorrent，這樣分發資源時可以把一些其它內容一起打包分發出去。<br>\n<br>\n現在有替代品: IPFS.","date":"2020-04-22","agreeCount":2,"discussionCount":1}
