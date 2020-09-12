@@ -1,0 +1,1 @@
+{"type":"article_comment","id":494752,"parentType":"article","parentId":24009,"uid":51008,"contents":"其实兼容层倒也说不上什么大问题, 前有wine, react os, 后有wsl.<br>\n我主要关注的是内核是不是自行研发, 目前看来除了编译系统用的kbuild以外没看到其他明显的像linux的地方, 而且不支持除了海思以外的soc","date":"2020-09-13","agreeCount":0,"discussionCount":0}
