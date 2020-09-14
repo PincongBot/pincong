@@ -11,7 +11,6 @@ env:
   SITE_URL: https://pincong.rocks
   UA: Mozilla/5.0 (Windows NT 6.1; Win64; x64; rv:79.0) Gecko/20100101 Firefox/79.0
   CONCURRENCY: 20
-  TIMEOUT: 45000 #ms 
 
 jobs:
   backup:
@@ -26,11 +25,14 @@ jobs:
           - { backup_type: article, start_id: 24001, allow_fail: true }
           - { backup_type: question, start_id: 32001, allow_fail: true }
           - { backup_type: article, start_id: 16001, end_id: 24000 }
-          - { backup_type: question, start_id: 24001, end_id: 32000 }
+          - { backup_type: question, start_id: 28001, end_id: 32000 }
+          - { backup_type: question, start_id: 24001, end_id: 28000 }
           - { backup_type: article, start_id: 8001, end_id: 16000 }
-          - { backup_type: question, start_id: 16001, end_id: 24000 }
+          - { backup_type: question, start_id: 20001, end_id: 24000 }
+          - { backup_type: question, start_id: 16001, end_id: 20000 }
           - { backup_type: article, start_id: 1, end_id: 8000 }
-          - { backup_type: question, start_id: 8001, end_id: 16000 }
+          - { backup_type: question, start_id: 12001, end_id: 16000 }
+          - { backup_type: question, start_id: 8001, end_id: 12000 }
           - { backup_type: question, start_id: 1, end_id: 8000 }
       fail-fast: false
       max-parallel: 5
