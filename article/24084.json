@@ -1,0 +1,1 @@
+{"type":"article","id":24084,"title":"【水】本站已将session认证改为token认证，但愿不要翻车","uid":1,"topics":[2397],"contents":"session占用服务器资源而且不利于分布式部署，我直接把session砍了，目前似乎还正常？理论上不会发生无法登录、无法发言的异常情况，如果有，请尝试重新载入网页，，，","date":"2020-09-15","agreeCount":0,"discussionCount":0}
