@@ -1,0 +1,1 @@
+{"type":"answer","id":338923,"parentType":"question","parentId":30886,"uid":10712,"contents":"不会，墙是在你TCP端口做IDS检测，不是反追踪到设备，理论上如果能达到这种技术，那岂不是可以随意的精确定位设备并截取DNS请求了","date":"2020-09-12","agreeCount":4,"discussionCount":3}
