@@ -1,0 +1,1 @@
+{"type":"answer","id":341624,"parentType":"question","parentId":31084,"uid":33152,"contents":"金融业根本没法使用性能差的硬件,金融业的设备,即涉及到大数据,又涉及到实时计算,<br>\n<br>\n手机转个账现在是秒转,换性能差的硬件,等10分钟还是半个小时才能转完?<br>\n<br>\n部署运行的kafka或这pulsa集群都换成老掉牙的mssql?","date":"2020-09-18","agreeCount":0,"discussionCount":0}
