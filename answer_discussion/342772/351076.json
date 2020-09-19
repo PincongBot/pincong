@@ -1,0 +1,1 @@
+{"type":"answer_discussion","id":351076,"uid":49656,"date":"2020-09-20","contents":"And it is not a good practice to use backslash in your code, you can preprocess the name of image in the first for loop.","parentType":"answer","parentId":342772}
