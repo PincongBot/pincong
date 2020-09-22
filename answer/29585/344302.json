@@ -1,0 +1,1 @@
+{"type":"answer","id":344302,"parentType":"question","parentId":29585,"uid":56961,"contents":"tp和华为的笔记本都有bios级的后门。<br>\n<br>\n比如几年前的Lenovo Service Engine事件：每次开机时检查system32路径下特定exe文件的hash，如不符，则强制替换成同文件名的downloader性质的蠕虫。。这是在bios层面实现的，即使更换硬盘并重装干净的系统，也无法避免","date":"2020-09-23","agreeCount":0,"discussionCount":0}
