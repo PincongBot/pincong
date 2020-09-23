@@ -1,0 +1,1 @@
+{"type":"answer_discussion","id":353113,"uid":33525,"date":"2020-09-23","contents":"外行人别误导，哪怕只是用密钥XOR一下也是加密范畴。常用的压缩软件都能是用非对称加密，极端地说，密钥够长就可以保证安全性。","parentType":"answer","parentId":345396}
