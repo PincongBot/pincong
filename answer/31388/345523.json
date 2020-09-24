@@ -1,0 +1,1 @@
+{"type":"answer","id":345523,"parentType":"question","parentId":31388,"uid":19319,"contents":"你怎么给文件加密码的？<br>\n<br>\n如果是打包成ZIP，用最新的ZIP，支持AES算法，密码足够复杂，那么是安全的。<br>\n<br>\n但你还要思考一个问题：你怎么把密码告诉别人？","date":"2020-09-24","agreeCount":0,"discussionCount":0}
