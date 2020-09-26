@@ -1,0 +1,1 @@
+{"type":"answer","id":346596,"parentType":"question","parentId":30937,"uid":33525,"contents":"先学习抓包，然后使用curl等最基本的工具，随便用DOS攻击试试把小博客攻击到宕机。其实就算不用DOS，单纯一秒钟搞个几百并发就能当掉小web或者API服务器了。<br>\n<br>\n这期间你可以学到一些通讯协议的基本知识。","date":"2020-09-26","agreeCount":0,"discussionCount":0}
