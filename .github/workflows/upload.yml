@@ -41,6 +41,7 @@ jobs:
       - run: $GO_IPFS id
 
       - name: ipfs add
+        continue-on-error: true
         run: |
           ls -I node_modules -I package.json -I package-lock.json -I index.js | xargs -I {} sh -c \
             "echo {}; \
