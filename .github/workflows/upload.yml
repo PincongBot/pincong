@@ -1,0 +1,62 @@
+name: Upload
+
+on:
+  workflow_dispatch:
+    inputs: {}
+  schedule:
+    - cron:  0 */2 * * *
+
+jobs:
+  ipfs:
+    name: Upload to IPFS
+    runs-on: ubuntu-latest
+    env:
+      OUTPUT: IPFS_HASH
+      JS_IPFS: ./node_modules/.bin/jsipfs
+      GO_IPFS: /tmp/go-ipfs/ipfs
+      API: https://ipfs.infura.io:5001/
+    steps:
+      - uses: actions/checkout@v2
+        with:
+          fetch-depth: 1
+      - uses: actions/setup-node@v1
+        with:
+          node-version: 12
+
+      - run: git config --global user.email bot@example.com
+      - run: git config --global user.name bot
+
+      - name: Cleanup
+        run: rm $OUTPUT
+
+      - run: npm i ipfs
+      - run: |
+          wget https://dist.ipfs.io/go-ipfs/v0.7.0/go-ipfs_v0.7.0_linux-amd64.tar.gz -O /tmp/ipfs.tar.gz;
+          cd /tmp/ && tar -xvf /tmp/ipfs.tar.gz && cd -;
+      - run: $GO_IPFS init -e
+      - run: $GO_IPFS id
+
+      - name: ipfs add
+        run: |
+          ls -I node_modules -I package.json -I package-lock.json -I index.js | xargs -I {} sh -c \
+            "echo {}; \
+            $GO_IPFS add --progress=false -r {} | tail -1 >> $OUTPUT; \
+            $JS_IPFS --api $API add --progress=false -r {}"
+
+      - name: commit ipfs cid
+        run: |
+          git pull;
+          git add $OUTPUT;
+          git commit -m "ipfs hash";
+          git pull;
+          git push;
+
+      - name: Sync
+        run: |
+          CID_LIST=$(cut -d' ' -f2 $OUTPUT);
+          echo $CID_LIST;
+
+          for i in {1..50}
+          do
+            $JS_IPFS --api $API pin add $CID_LIST;
+          done
