@@ -47,7 +47,7 @@ jobs:
           do
               echo $T;
               $GO_IPFS add --pin=false --progress=false -r $T | tail -1 >> $OUTPUT;
-              ls -d $T/* | timeout 20m xargs -n 100 -P 50 $JS_IPFS --api $API add --progress=false -r || true;
+              ls $T | sed "s/^/$T\//" | timeout 20m xargs -n 100 -P 50 $JS_IPFS --api $API add --progress=false -r || true;
               echo finish $T;
           done
       - name: commit ipfs cid
