@@ -47,7 +47,8 @@ jobs:
           do
               echo $T;
               $GO_IPFS add --progress=false -r $T | tail -1 >> $OUTPUT;
-              ls -d $T/* | xargs -n 100 -P 50 $JS_IPFS --api $API add --progress=false -r .gitignore;
+              ls -d $T/* | xargs -n 100 -P 50 $JS_IPFS --api $API add --progress=false --timeout 30min -r || true;
+              echo finish $T;
           done
       - name: commit ipfs cid
         continue-on-error: true
