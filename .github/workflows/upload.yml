@@ -43,11 +43,12 @@ jobs:
       - name: ipfs add
         continue-on-error: true
         run: |
-          ls -I node_modules -I package.json -I package-lock.json -I index.js | xargs -I {} sh -c \
-            "echo {}; \
-            $GO_IPFS add --progress=false -r {} | tail -1 >> $OUTPUT; \
-            ls -d {}/* | xargs -n 100 -P 50 $JS_IPFS --api $API add --progress=false -r"
-
+          for T in $(ls -I node_modules -I package.json -I package-lock.json -I index.js)
+          do
+              echo $T;
+              $GO_IPFS add --progress=false -r $T | tail -1 >> $OUTPUT;
+              ls -d $T/* | xargs -n 100 -P 50 $JS_IPFS --api $API add --progress=false -r .gitignore;
+          done
       - name: commit ipfs cid
         continue-on-error: true
         run: |
