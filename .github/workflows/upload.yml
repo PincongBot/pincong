@@ -46,7 +46,7 @@ jobs:
           for T in $(ls -I node_modules -I package.json -I package-lock.json -I index.js)
           do
               echo $T;
-              $GO_IPFS add --progress=false -r $T | tail -1 >> $OUTPUT;
+              $GO_IPFS add --pin=false --progress=false -r $T | tail -1 >> $OUTPUT;
               ls -d $T/* | timeout 20m xargs -n 100 -P 50 $JS_IPFS --api $API add --progress=false -r || true;
               echo finish $T;
           done
