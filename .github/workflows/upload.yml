@@ -71,3 +71,13 @@ jobs:
               $GO_IPFS block get $CID | $JS_IPFS --api $API block put -f v0 --pin;
               $JS_IPFS --api $API pin add $CID || true;
           done
+
+          for CID in $CID_LIST
+          do
+            for H in "ipfs.infura.io" "ipfs.io"
+            do
+              URL="https://$H/ipfs/$CID"
+              echo $URL
+              curl $URL > /dev/null || true
+            done
+          done
