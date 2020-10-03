@@ -72,12 +72,15 @@ jobs:
               $JS_IPFS --api $API pin add $CID || true;
           done
 
-          for CID in $CID_LIST
+          for i in {1..50}
           do
-            for H in "ipfs.infura.io" "ipfs.io"
+            for CID in $CID_LIST
             do
-              URL="https://$H/ipfs/$CID"
-              echo $URL
-              curl $URL > /dev/null || true
+              for H in "ipfs.infura.io" "ipfs.io"
+              do
+                URL="https://$H/ipfs/$CID"
+                echo $URL
+                curl $URL > /dev/null || true
+              done
             done
           done
